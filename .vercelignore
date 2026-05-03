@@ -1,0 +1,9 @@
+node_modules
+package*.json
+trip.md
+scotland-trip.md
+iceland-trip.md
+presentation.html
+*.xlsx
+.claude
+.DS_Store

@@ -1,2 +1,8 @@
 node_modules/
 .DS_Store
+
+# Don't publish raw planning artifacts on GitHub Pages
+*.xlsx
+.claude/settings.json
+.claude/settings.local.json
+.osgrep

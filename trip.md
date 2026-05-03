@@ -5,8 +5,12 @@
 ## **📋 PARAMÈTRES DE BASE**
 
 * **Taille du groupe :** 7 adultes.
-* **Dates du voyage :** 26 juillet 2026 au 7 août 2026 (13 jours).
-* **Budget cible :** \< 2 000 $CAD par personne (\~1 800$ à 1 900 $).
+* **Dates du voyage :** 26 juillet 2026 au 8 août 2026 (14 jours — étendu pour respirer en Phase 3).
+* **Budget cible :** **< 2 000 $CAD par personne**. Source de vérité = `Budget west canada 2026.xlsx`. État au 3 mai 2026 (toggles : Mystic Beach + Lake O'Hara + Miette ON, reste OFF) :
+  - **MIN $1 594/pax** ✅ (marge $406) — atteignable avec vols early-booking + LDW carte de crédit + one-way négocié + cuisine groupe disciplinée.
+  - **RÉALISTE $2 187/pax** ⚠️ (+$187 vs cible) — la cible est **fragile** ; il faut activement chercher les conditions MIN sur vols + voitures.
+  - **PESSIMISTE $3 072/pax** ❌ (+$1 072) — à éviter (FIFA WC 2026 inflation, vols last-minute, LDW comptoir).
+  - Levier majeur : **rabais employé 20 % sur vols** (économise ~$115/pax). Voir section budget détaillé ci-dessous.
 * **Style de voyage :** Expédition "Fly-and-Camp". Majorité de nuits en tentes (camping), avec 1 nuit en Airbnb tous les 3 ou 4 jours pour la récupération (douches/lessive).
 * **Passe de parc :** Le groupe possède le Laissez-passer Canada Strong (Entrées gratuites aux parcs nationaux \+ 25 % de rabais sur le camping de Parcs Canada).
 
@@ -16,8 +20,10 @@
 
 **Vols (Réservation Multi-villes requise \- Tarif Économie de base) :**
 
-* **ALLER :** Dimanche 26 juillet 2026 | YUL (08h30) ➔ YYC Calgary (11h12) | Air Canada Direct.
-* **RETOUR :** Vendredi 7 août 2026 | YVR Vancouver (07h30) ➔ YUL (15h22) | Air Canada Direct.
+* **ALLER :** Dimanche 26 juillet 2026 | **AC317 ou AC319 YUL (~08h20-08h30 EDT)** ➔ YYC Calgary (~11h12-11h15 MDT) | Air Canada Direct, vol ~4 h 50. *(inchangé vs plan original)*. Confirmer le numéro AC exact au booking selon dispo. AC opère 4 vols directs/jour YUL→YYC ; les numéros morning sont dans la série AC317/AC319/AC321/AC323. Cible tarif ~$300-400/pax.
+* **RETOUR :** **Samedi 8 août 2026 | AC306 YVR (11h15 PDT) ➔ YUL (19h12 EDT)** | Air Canada Direct, vol 4 h 10. *(décalé d'un jour vs original 7 août 7h30 — donne 2 nuits à Mystic Beach + grasse matinée le jour de départ)*. Atterrissage YUL en début de soirée. Alternative plus matinale : AC304 YVR 08h50 → YUL 16h36 si on veut rentrer à MTL plus tôt.
+  - **Booker via Aéroplan immédiatement** : carte co-marquée TD/CIBC pour bagages enregistrés gratuits sur 8 compagnons (économie ~$560).
+  - **Tarif cible** : ~$500/pax économie de base. Au-dessus de $600/pax, le budget dérape.
 
 **Voitures de location (One-way Calgary ➔ Vancouver) :**
 
@@ -75,12 +81,13 @@ Le trek est centré camping/backcountry, pas effort extrême. **Alberta** = on p
 | 4 | 29 juil | **2 randos Jasper (matin + après-midi)** | Mod + Easy |
 | 5 | 30 juil | Hinton, packing | 0 |
 | 6-9 | 31 juil – 3 août | **TREK backcountry** | Modéré soutenu |
-| 10 | 4 août | Valemount → Hope BC (transit longue distance) | 0 (peut-être 1 court arrêt jambes) |
-| 11 | 5 août | Hope → Tsawwassen → ferry → Tofino + 1ère plage | Doux (3-5 km au coucher) |
-| 12 | 6 août | **Pacific Rim : 1 grosse rando + boucles forêt + plages → ferry retour Vancouver** | Modéré + transit (ferry 5h en cumul) |
-| 13 | 7 août | YVR 7h30 | 0 |
+| 10 | 4 août | Valemount → Hope BC (transit) | 0 |
+| 11 | 5 août | Hope → ferry Tsawwassen→Swartz Bay → Sooke → **hike-in Mystic Beach (4 km)** | Doux + 4 km avec sac |
+| 12 | 6 août | 🌊 **MYSTIC BEACH — JOURNÉE LIBRE COMPLÈTE** (no transit, no agenda) | Au choix — paresse ou exploration côtière |
+| 13 | 7 août | Mystic Beach → hike-out 4 km → ferry → Richmond | Transit doux (matin lent + ferry PM) |
+| 14 | 8 août | Richmond → YVR vol PM | Logistique légère |
 
-**⚠️ Contrainte critique Phase 3** : seulement **UNE nuit de camping plage** est réaliste à Tofino (nuit du 5 au 6 août). Le 6 août après-midi il FAUT reprendre la route vers Vancouver (ferry + drive ~6 h) pour atteindre Richmond Airbnb, sinon vol manqué le 7 août matin.
+**Le gain de la journée additionnelle** : la nuit du 6 au 7 août permet une **journée complète sur Vargas Island sans aucun transit ni objectif structuré**. C'est ce qui transforme Phase 3 d'un sprint logistique en un vrai séjour côtier.
 
 ## ---
 
@@ -166,10 +173,12 @@ Tous gratuits avec le pass Canada Strong. Localisation : Pacific Rim Highway ent
 | **Banff townsite** | Jour 2 PM | Banff Avenue, Cave & Basin (origine des parcs nationaux), Bow Falls, brasseries (Banff Ave Brewing). |
 | **Field, BC** (option Yoho) | détour Jour 2 ou 3 | Tout petit village ferroviaire, Truffle Pigs Bistro, vue Mount Stephen. |
 | **Jasper townsite** | Jour 4 PM | Patricia Street, Jasper Brewing, SkyTram (vue panoramique sans rando). |
-| **Kamloops** | Jour 10 PM | Sage country, Riverside Park, brasseries (Red Collar, Iron Road), tacos sur Victoria St. |
-| **Whistler Village** | Jour 11 midi | Village Stroll, gondole Peak2Peak, Squamish-Lil'wat Cultural Centre, terrasses. |
-| **Squamish** | Jour 12 AM | Sea to Sky Gondola (vue Howe Sound sans rando), Backcountry Brewing, Howe Sound Brew Pub. |
-| **Vancouver** | Jour 12 PM | Stanley Park (vélo), Granville Island Market, Gastown (Steam Clock, brunch), Chinatown. |
+| **Kamloops** | Jour 10 lunch | Riverside Park, brasseries (Red Collar, Iron Road), tacos sur Victoria St. |
+| **Hope, BC** | Jour 10 soir | Petite ville de fin de canyon, sculptures bois, première sentier coté Coquihalla. |
+| **Cathedral Grove (MacMillan PP)** | Jour 11 PM (en route) | Boucle gratuite 30 min à travers Douglas firs 800 ans, smell-magic court arrêt sur Hwy 4. |
+| **Tofino** | Jour 11-12 | Surf town iconique, Tofino Brewing, Common Loaf Bakery, Schooner Restaurant, marchés artisans, kayak Clayoquot Sound. |
+| **Ucluelet** | Jour 12 AM (option) | Phare Amphitrite, Wild Pacific Trail, Ukee Brewing, Pluvio Restaurant. |
+| **Vancouver** | Jour 12 soir (rapide) | Si temps après ferry retour : take-out à Granville Island (souvent plus tard 22h en août), pas de tournée. |
 
 ## ---
 
@@ -182,8 +191,8 @@ Tous gratuits avec le pass Canada Strong. Localisation : Pacific Rim Highway ent
   - 12h30-14h00 : prise en charge des deux voitures (1 minivan + 1 compacte). Prévoir 1h-1h30 pour les contracts one-way et installation.
   - 14h00-16h00 : achats logistiques à Calgary NE (Walmart/Canadian Tire pour glacières, gaz Coleman, bear spray). MEC Calgary (830 10th Ave SW) si gear de rando manquant. Épicerie pour 2 premiers jours.
   - 16h00-17h35 : route YYC → Banff (1h35).
-  - **Arrivée Tunnel Mountain ~18h00. Coucher du soleil ~21h15** : largement le temps de monter le campement.
-  - *Nuit : Camping Tunnel Mountain (Banff) — réservation Parcs Canada requise.*
+  - **Arrivée campement ~18h00-19h00. Coucher du soleil ~21h15** : largement le temps de monter.
+  - *Nuit : **Castle Mountain Campground** (43 sites, primitif, pas d'eau courante, entre Banff et Lake Louise sur Hwy 1A — beaucoup plus discret et boisé que Tunnel Mountain). Sites espacés en forêt épaisse. Réserver tôt sur reservation.pc.gc.ca. Plan-B : **Two Jack Lakeside** (74 sites, plus petit que Tunnel, sur le lac).*
 
 * **Jour 2 (27 juil) — Moraine Lake & rando :** **Lever 3h30** (pas 4h15) si vous visez le lever du soleil à Moraine. Le lever du soleil le 27 juillet à Lake Louise est ~5h47. La navette officielle Parcs Canada de Moraine n'arrive au lac qu'autour de 6h00 — pour voir le lever, il faut une **navette privée** (ex. Moraine Lake Bus Co., départs ~3h30-4h00 du parking de Lake Louise).
   - 3h30 lever, 3h45 départ Banff → 4h30 Lake Louise P&R (45 min) → navette → ~5h30-6h00 au lac.
@@ -196,7 +205,7 @@ Tous gratuits avec le pass Canada Strong. Localisation : Pacific Rim Highway ent
     - [**Banff Pedestrian Bridge / Bow Falls / Spray River Loop**](https://www.alltrails.com/trail/canada/alberta/banff-pedestrian-bridge-bow-falls-and-spray-river-loop) ⭐⭐ (10,9 km, 405 m+, 4.5★, Mod) — boucle depuis le village de Banff, mixe ville + nature.
     - Village Banff PM (Banff Avenue, Cave & Basin, Bow Falls) + [**Riverside Loop**](https://www.alltrails.com/trail/canada/alberta/riverside-loop) (4 km, Easy) au coucher du soleil.
   - Retour Banff vers 14h-15h. **Après-midi village de Banff** : marche Banff Avenue, Bow Falls, Cave & Basin (45 min de visite, site historique de naissance des parcs nationaux). Johnston Canyon optionnel si énergie restante.
-  - *Nuit : Camping Tunnel Mountain (Banff).*
+  - *Nuit : **Mosquito Creek Campground** (32 sites primitifs sur la Promenade des Glaciers, 24 km au nord de Lake Louise). Tentes + petits VR, fonctionnement self-register. Sites en forêt avec ruisseau, très discret, ours autour. **Setup parfait pour Day 3** (déjà sur la Promenade). Plan-B : Castle Mountain (rester 2 nuits) ou Lake Louise Tent.*
 
 * **Jour 3 (28 juil) — Promenade des Glaciers (Banff → Jasper) :** **Journée pleine.** 4 h de conduite pure sans arrêt + ~3 h d'arrêts panoramiques = **7-8 h porte-à-porte**. Départ recommandé **8h00**.
   - Bow Lake (arrêt photo, 20 min).
@@ -204,8 +213,8 @@ Tous gratuits avec le pass Canada Strong. Localisation : Pacific Rim Highway ent
   - Athabasca Glacier / Columbia Icefield (sentier libre Toe of the Glacier, 30-45 min ; visite guidée Ice Explorer payante en option, ~1h30).
   - Athabasca Falls et/ou Sunwapta Falls (15-20 min chacune).
   - **Option boucle pause-jambes** : [**Wapta Falls Loop**](https://www.alltrails.com/trail/canada/british-columbia/wapta-falls-from-fraser-creek) (5,0 km, 151 m+, 4.2★, Easy, ~1 h 30) — légère détour de Hwy 1 entre Lake Louise et Field, plus grosse chute de Yoho. Bonne façon de stretcher en route.
-  - Arrivée Jasper / Whistlers ~16h-17h. Montage camp.
-  - *Nuit : Camping Whistlers ou Wapiti (Jasper).*
+  - Arrivée campement ~16h-17h. Montage.
+  - *Nuit : **Honeymoon Lake Campground** (35 sites primitifs sur la Promenade des Glaciers, à ~50 km au sud du village de Jasper). Sur un petit lac calme, tentes en forêt, sites espacés, FCFS / réservation possible. **Setup parfait pour Day 4** (proche de Maligne Canyon et Jasper). Plan-B : **Wabasso** (231 sites — plus gros mais plus tranquille que Whistlers) ou **Snaring** (56 sites primitifs, FCFS, au nord de Jasper).*
 
 * **Jour 4 (29 juil) — Jasper, journée double-rando + village :** Le trek est ensuite axé camping/backcountry, pas effort extrême — on peut faire 2 randos modérées dans la journée.
   - **Matin — boucle modérée vue dramatique** : choisir UNE.
@@ -216,7 +225,7 @@ Tous gratuits avec le pass Canada Strong. Localisation : Pacific Rim Highway ent
   - **Fin de journée — boucle douce + village** : [**Patricia Lake Circle**](https://www.alltrails.com/trail/canada/alberta/patricia-lake) (4,8 km, 105 m+, 4.4★, Easy, ~1 h 15) en pré-souper si encore d'énergie. Sinon village Jasper : Patricia Street, Jasper Brewing, terrasses.
   - **Option Skytram** (~$60/pax) : vue panoramique 2 263 m sans effort, idéal si fatigue.
   - **Option luxe** : Maligne Lake + bateau Spirit Island (49 min route + 1h30 bateau, ~$95-115/pax = $700-800 — réservation requise).
-  - *Nuit : Camping Whistlers ou Wapiti (Jasper).*
+  - *Nuit : **Snaring Overflow Campground** (56 sites primitifs, FCFS, ~16 km nord de Jasper sur Hwy 16). Pas d'eau courante, sites espacés en forêt mixte, ambiance vraiment isolée. Plan-B : rester 2 nuits à Honeymoon Lake et day-trip à Maligne Canyon.*
 
 * **Jour 5 (30 juil) — Jasper → Hinton (préparation trek) :** Route courte (1 h). Journée logistique :
   - Départ Jasper 9h-10h.
@@ -246,97 +255,299 @@ Tous gratuits avec le pass Canada Strong. Localisation : Pacific Rim Highway ent
   - **Option arrêt Wells Gray** (ajoute ~1 h 30 au total = 9 h) : [**West Lake Loop / Bailey's Chute**](https://www.alltrails.com/trail/canada/british-columbia/baileys-chute-west-lake-loop) (5,3 km, 4.6★ Easy) — saumons en frai en août. À débattre selon énergie post-trek.
   - **Lunch Kamloops** mi-route (Riverside Park, ~3h45 de Valemount).
   - Arrivée Hope vers 17h-18h. Soirée détente.
-  - *Nuit : Airbnb ou camping à Hope, BC (Hope Valley Camping Resort, Coquihalla Campground, ou Airbnb au village). Réserver dès cette semaine.*
+  - *Nuit : **Skagit Valley PP — Silvertip Campground** (~50 sites espacés en forêt pluviale côtière, primitif, à 1 h de Hope sur Silver-Skagit Rd, vraiment isolé). Plan-B : **Coquihalla River Recreation Site** (rec site free, ~12 sites le long de la rivière, 30 min de Hope) ou simple Airbnb à Hope si fatigue extrême après 7 h 30 de route.*
 
-* **Jour 11 (5 août) — TRANSIT BC → Vancouver Island (Hope → Tofino, ~6 h avec ferry) :**
+* **Jour 11 (5 août) — TRANSIT Hope → Mystic Beach (Juan de Fuca PP), ~6 h avec ferry + hike-in :**
   - **6h30** : départ Hope.
-  - **8h00-9h00** : arrivée Tsawwassen ferry terminal (~1 h 30 de Hope).
-  - **9h45 ou 11h45** : ferry [Tsawwassen → Duke Point (Nanaimo)](https://www.bcferries.com/routes-fares/schedules/daily/TSA-DUK), 2 h de traversée. **⚠️ Réservation BC Ferries véhicule + passagers OBLIGATOIRE** ($85-115/véhicule + $19/adulte ; 14 adultes + 2 véhicules = ~$450-500). Réserver tout de suite.
-  - **12h00-14h00** : arrivée Duke Point, lunch Nanaimo.
-  - **14h00-17h00** : Nanaimo → Tofino via Hwy 4 (~3 h, route sinueuse mais magnifique, traverse Cathedral Grove).
-  - **Arrêt en route — [Cathedral Grove (MacMillan PP)](https://www.alltrails.com/trail/canada/british-columbia/macmillan-provincial-park)** : boucle gratuite de 30 min à travers des Douglas firs de 800 ans (~9 m de circonférence). Smell-magic court arrêt.
-  - **17h-18h** : arrivée campground Tofino/Ucluelet. Montage camp, [**Florencia Beach**](https://www.alltrails.com/trail/canada/british-columbia/florencia-beach) ou [**Long Beach**](https://www.alltrails.com/trail/canada/british-columbia/long-beach-and-box-island) au coucher du soleil (~2 km de marche, plat).
-  - Souper sur la plage. Feu si autorisé (vérifier interdiction de feu BC août 2026).
-  - *Nuit : **camping plage Tofino/Ucluelet** — voir section booking ci-dessous.*
+  - **8h00** : arrivée Tsawwassen ferry terminal.
+  - **9h00 ou 11h00** : ferry [Tsawwassen → Swartz Bay (Victoria)](https://www.bcferries.com/routes-fares/schedules/daily/TSA-SWB), 1 h 35 de traversée. **Réservation véhicule + pax requise** (~$85-115/véhicule + $19/adulte). Sailings très fréquents.
+  - **12h00** : arrivée Swartz Bay, drive Hwy 17 → Hwy 1 → Hwy 14 vers Sooke (~1 h 15).
+  - **13h15** : lunch Sooke ou pique-nique acheté en route.
+  - **14h00** : arrivée China Beach trailhead (Hwy 14, juste après Jordan River). Stationnement gratuit ou ~$3/véh selon saison. **Self-register backcountry permit $10/pax/nuit** dans la boîte au trailhead.
+  - **14h15-15h45** : **hike-in 4 km vers Mystic Beach** via le Juan de Fuca Marine Trail. Sentier facile à modéré, 1 h 30 avec sacs de camping. Forêt pluviale tempérée (cèdres, sitkas, fougères, salal), pont suspendu, descente vers la plage.
+  - **16h00** : arrivée plage Mystic Beach. **Camping sauvage sur la plage** : sites informels au-dessus de la ligne de marée haute, espacés sur la longue plage. Cascade tombe directement dans l'océan à l'extrémité ouest. Vraiment isolé, peu de monde.
+  - Montage camp, exploration, baignade dans la cascade, souper, coucher de soleil sur le Pacifique vers 21h00.
+  - *Nuit : **Mystic Beach — camping sauvage côtier** (Juan de Fuca PP), 1ère nuit.*
 
-* **Jour 12 (6 août) — Pacific Rim AM + retour Vancouver PM (journée chargée mais épique) :**
-  - **6h00-7h00** : lever pour profiter du calme. Café au camp.
-  - **7h00-8h00** : [**Rainforest Trail Sections A et B**](https://parks.canada.ca/pn-np/bc/pacificrim) (2 boucles boardwalk de 1 km, gratuit, smell-magic dans la forêt pluviale primaire). 
-  - **8h30-12h30** : choisir UNE :
-    - 🏆 [**Lone Cone Trail (Meares Island)**](https://www.alltrails.com/trail/canada/british-columbia/lone-cone-trail) (6,1 km AR, 721 m+, 4.7★ Hard, ~4 h) — water taxi depuis Tofino harbour ($30/pax aller-retour, [Tofino Water Taxi](https://www.tofinowatertaxi.com/) ou Browning Pass — réserver la veille). LA pick montagne-océan.
-    - [**Mount Ozzard Trail**](https://www.alltrails.com/trail/canada/british-columbia/mount-ozzard-trail) (10,6 km, 604 m+, 4.4★ Mod) — alternative drive-up sans water taxi.
-    - **Combo plages doux** si on a fait Lone Cone trop long la veille : [**Long Beach + Box Island**](https://www.alltrails.com/trail/canada/british-columbia/long-beach-and-box-island) (vérifier marée pour Box Island) + [**Bog Trail**](https://parks.canada.ca/pn-np/bc/pacificrim) boardwalk.
-  - **12h30-13h30** : lunch + démontage camp. **Quick stop [Wild Pacific Trail / Terrace Beach Loop](https://www.alltrails.com/trail/canada/british-columbia/terrace-beach-loop)** à Ucluelet (2,7 km, ~45 min) si chemin.
-  - **13h30** : départ Tofino.
-  - **16h30** : arrivée Duke Point. Ferry **[17h15 ou 19h15](https://www.bcferries.com/routes-fares/schedules/daily/DUK-TSA)** Duke Point → Tsawwassen (2 h).
-  - **19h15-21h15** : arrivée Tsawwassen, drive vers Richmond Airbnb (30 min).
-  - **22h00** : check-in Airbnb Richmond. Souper rapide (livraison ou take-out).
+* **Jour 12 (6 août) — MYSTIC BEACH — JOURNÉE LIBRE COMPLÈTE 🌊** (la respiration centrale du voyage)
+  - **Aucun horaire, aucun transit, aucun objectif obligatoire.** C'est l'usage explicite de la 14e journée.
+  - **Idées (toutes optionnelles)** :
+    - Lever de soleil sur la plage déserte, café au feu de camp.
+    - **Marche côtière** vers Bear Beach (~5 km vers l'ouest sur le Juan de Fuca Marine Trail) ou simplement promenade libre sur Mystic.
+    - **Bain dans la cascade** qui tombe directement dans l'océan (l'iconique Mystic).
+    - Exploration des bassins de marée à marée basse (étoiles de mer ocres, anémones, crabes ermites).
+    - Lecture, baignade (eau froide ~12-14 °C, brève), sieste dans les arbres derrière la plage.
+    - Coucher du soleil + bonfire de bois flotté (si pas d'interdiction provinciale).
+  - **Repas** : tout est déjà au camp. Souper "épique mais simple" = pâtes aux légumes + huile d'olive + parmesan.
+  - *Nuit : **2e nuit Mystic Beach**.*
+
+* **Jour 13 (7 août) — Mystic Beach → Vancouver (transit doux PM) :**
+  - **Matin lent** sur la plage. Café, déjeuner.
+  - **10h00-11h30** : démontage camp + **hike-out 4 km** vers China Beach trailhead. ~1 h 30 avec sacs.
+  - **12h00-13h00** : lunch picnic ou Sooke (Stick in the Mud Coffee, Mom's Cafe).
+  - **13h00-14h15** : drive vers Swartz Bay ferry (~1 h 15).
+  - **15h00 ou 17h00** : ferry [Swartz Bay → Tsawwassen](https://www.bcferries.com/routes-fares/schedules/daily/SWB-TSA), 1 h 35.
+  - **18h45** : arrivée Tsawwassen, drive vers Richmond Airbnb (30 min).
+  - **19h15** : check-in Airbnb Richmond. Souper take-out ou simple cuisine au logement.
+  - **Préparer les sacs ce soir** (vol matinal demain).
   - *Nuit : Airbnb à Richmond (proche YVR).*
 
-* **Jour 13 (7 août) — Départ :** Vol 7h30. Air Canada YUL est domestique → arrivée aéroport recommandée 5h30.
-  - **5h00 départ Airbnb** (15-20 min jusqu'à YVR + retour des deux voitures = 45 min minimum).
-  - Vol de retour 7h30.
+* **Jour 14 (8 août) — Départ AC306 (11h15 YVR → 19h12 YUL) :**
+  - **07h30-08h00** : grasse matinée, café et déjeuner tranquille à l'Airbnb. Sacs déjà préparés la veille.
+  - **08h30** : option courte marche au bord de la mer à Steveston ou Solly's Bagelry pour vrais bagels.
+  - **09h15** : départ Airbnb (15-20 min vers YVR).
+  - **09h30-10h15** : retour des 2 véhicules au YVR rental return area (45 min mini pour 2 cars + 7 pax).
+  - **10h15-10h45** : navette/marche vers terminal + check-in + sécurité (vol domestique = arrivée 1 h-1 h 15 avant).
+  - **10h45** : embarquement.
+  - **11h15** : décollage YVR.
+  - **19h12 (heure MTL)** : atterrissage YUL en début de soirée.
+  - **Avantage vs vol original 7 août 7h30** : on a 2 nuits à Mystic Beach + une vraie grasse matinée le matin du départ, vs un réveil à 4h30. Retour MTL en soirée mais départ relax.
 
 ## ---
 
-**🏕️ CAMPING PLAGE TOFINO — RÉALISME DE RÉSERVATION (priorité immédiate)**
+**🏕️ PHILOSOPHIE CAMPING — TOUS LES SITES DOIVENT ÊTRE ISOLÉS**
 
-On est début mai 2026. Pour la nuit du 5 au 6 août, voici la vérité :
+Critère absolu pour ce voyage : on ne veut **ni voir ni entendre** les voisins. Chaque nuit on cherche : sites espacés en forêt épaisse, walk-in/primitive/FCFS, ou backcountry / wilderness camping. Pas de "camping de masse" type Tunnel Mountain (1 000 sites alignés) ou Whistlers Jasper.
 
-| Option | Réalisme aujourd'hui | Capacité 7 ad / 2 véh | Prix | Site web |
-|---|---|---|---|---|
-| **Ucluelet Campground** | **MEILLEUR PARI RÉEL.** Moins iconique = plus de place. Réserver maintenant. | 2 sites côte à côte (max 2 tentes/site, +$7 3e), 1 véh/site = OK. | ~$90-110/nuit | [uclueletcampground.com](https://uclueletcampground.com/) |
-| **Surf Grove Campground (Cox Bay)** | Faible-moyen. Cox Bay très demandé, vérifier annulations quotidiennement. | Max 4 ad/site → réserver 2 sites. | ~$240-360/nuit | [surfgrove.com](https://surfgrove.com/) |
-| **Bella Pacifica (Tofino)** | Faible. Réservations ouvertes 1er oct année précédente — déjà épuisé. | 2-3 sites forestiers. | ~$200-330/nuit | [bellapacifica.com](https://bellapacifica.com/) |
-| **Green Point (Pacific Rim NP)** | **Quasi-nul** pour le 5 août. Système ouvert le 29 jan 2026, sold out en minutes. **Pas de waitlist** mais des annulations tombent — refresh quotidien sur reservation.pc.gc.ca à minuit ET et 7h PT. | Max 6 pers/1 véh par site → 2 sites requis. | ~$60-70 (avec rabais 25 % Canada Strong) | [reservation.pc.gc.ca](https://reservation.pc.gc.ca/) |
-| **Secret Beach Campground (Toquaht Bay)** | Bon plan-B si Ucluelet plein. Plus rustique, kayak launch. | 2 sites. | ~$80-100/nuit | [secretbeachcampground.com](http://www.secretbeachcampground.com/) |
-| **Crystal Cove / Pacific Sands** | Pas de tentes — RV/cabanes seulement. Skip. | — | — | — |
+### 🏔️ Alberta — campings primitifs / espacés
 
-**Stratégie recommandée AUJOURD'HUI** :
-1. **Réserver Ucluelet Campground** (2 sites adjacents) comme ancre.
-2. **Surveillance quotidienne annulations** Green Point + Surf Grove + Bella Pacifica jusqu'au 30 juin. Si Green Point ouvre, swap et rembourser Ucluelet.
-3. **Réserver immédiatement BC Ferries** pour l'aller le 5 août (Tsawwassen → Duke Point) ET le retour le 6 août (Duke Point → Tsawwassen). Sailings de 14h-19h se remplissent particulièrement vite en août. [bcferries.com](https://www.bcferries.com/)
+| Nuit | Camping pick | Pourquoi |
+|---|---|---|
+| Jour 1 (26→27 juil) | **Castle Mountain Campground** (43 sites, primitif, entre Banff/LL sur Hwy 1A) | Beaucoup plus boisé et discret que Tunnel Mountain. Pas d'eau courante, sites écartés en forêt dense. |
+| Jour 2 (27→28 juil) | **Mosquito Creek Campground** (32 sites primitifs, Promenade des Glaciers km 24) | Self-register, ruisseau, ours autour, ambiance vraiment isolée. **Setup parfait pour Day 3 Icefields.** |
+| Jour 3 (28→29 juil) | **Honeymoon Lake Campground** (35 sites, Promenade des Glaciers près Sunwapta) | Petit lac calme, tentes en forêt, sites espacés. Pas d'eau courante. |
+| Jour 4 (29→30 juil) | **Snaring Overflow** (56 sites primitifs, FCFS, 16 km nord de Jasper) | Pas d'eau, sites en forêt mixte, ambiance backcountry sans permis. Plan-B : rester 2 nuits Honeymoon Lake. |
+| Jour 5 (30→31 juil) | Airbnb Hinton (lit, douche, lessive avant le trek) | Repos, pas de camping. |
+| Jours 6-9 | **Backcountry trek** (Medicine Tent, La Grace) | Solitude absolue (déjà confirmé). |
+| Jour 9 (3→4 août) | Airbnb Valemount (laveuse/sécheuse post-trek) | Repos obligatoire. |
+
+⚠️ **Tous les Parcs Canada sites se réservent sur [reservation.pc.gc.ca](https://reservation.pc.gc.ca/)**. On est début mai = certains sites encore disponibles, surtout les primitifs. **Booking immédiat recommandé**.
+
+### 🌊 BC Vancouver Island — camping sauvage Mystic Beach (Juan de Fuca PP) — la pick budget-conscious
+
+| Nuit | Camping pick | Pourquoi |
+|---|---|---|
+| Jour 10 (4→5 août) | **Skagit Valley PP — Silvertip Campground** (~50 sites en forêt pluviale côtière, primitif, isolé). Plan-B : Coquihalla rec site (free). | Sites espacés, ambiance forêt pluviale. |
+| Jour 11 (5→6 août) | **🏆 Mystic Beach (Juan de Fuca PP) — 1ère nuit hike-in** | **VOIR DÉTAIL CI-DESSOUS.** |
+| Jour 12 (6→7 août) | **🏆 Mystic Beach — 2e nuit, journée complète sans transit** | La respiration centrale du voyage 14 jours. |
+| Jour 13 (7→8 août) | Airbnb Richmond (proche YVR, vol AM le 8 août) | Logistique douce. |
+
+#### 🏆 Mystic Beach (Juan de Fuca PP) — la perle budget-conscious
+
+- **Accès** : **hike-in 4 km** depuis China Beach trailhead sur Hwy 14 (juste après Jordan River, ~30 min ouest de Sooke). Sentier facile à modéré, **aucun water taxi requis = $1 200 économisés**.
+- **Plage** : longue plage de sable et galets avec **cascade qui tombe directement dans l'océan** à l'extrémité ouest. Iconique de la côte sud de Vancouver Island.
+- **Camping** : **wilderness camping permis sur la plage** au-dessus de la ligne de marée haute. **Self-register $10/pax/nuit dans la boîte au trailhead**. Aucune réservation, FCFS — sites informels espacés.
+- **Solitude réelle** : sentier hike-in filtre naturellement les foules. Beaucoup moins fréquenté que Pacific Rim NP. Vraiment "vagues + vent et c'est tout".
+- **Faune** : ours noirs, cougars, loutres de mer, baleines grises au large parfois. **Bear cache obligatoire** (food bag accroché à un arbre), cuisiner ≥ 100 m des tentes.
+- **Eau** : ruisseaux côtiers — filtre obligatoire. Apporter ~3 L/personne pour la marche d'arrivée.
+- **Trail bonus** : [Juan de Fuca Marine Trail](https://www.alltrails.com/trail/canada/british-columbia/juan-de-fuca-marine-trail-china-beach-to-bear-beach) continue vers Bear Beach (~6 km de plus, journée libre Day 12).
+- **Météo** : août = saison la plus stable mais brouillard matinal fréquent.
+
+#### Alternatives wilderness BC
+
+| Option | Style | Coût | Note |
+|---|---|---|---|
+| **Vargas Island PP (Ahous Bay)** via water taxi Tofino | Plage 4 km, camping libre, plus iconique mais coûteux | +$1 200 (water taxi 7 pax) | Plan-B premium si budget non contraint |
+| **Schooner Cove (Pacific Rim NP)** | Walk-in 1 km, 8 sites primitifs, permit PC | $10/pax/nuit + frais ferry vers Tofino plus cher | Sites vite pleins |
+| **Flores Island — Wild Side Trail** | Encore plus reculé, water taxi plus cher | $250+/pax water taxi | Pour aficionados |
+| **Cape Scott PP (San Josef Bay)** | Hike-in 2,5 km, plage nord île | Faible coût mais 7 h+ de Victoria | Trop loin pour ce voyage |
+
+### Ferries — à booker immédiatement
+
+[**BC Ferries Tsawwassen ↔ Swartz Bay (Victoria)**](https://www.bcferries.com/routes-fares/schedules/daily/TSA-SWB) — réservation véhicule + passagers obligatoire. 7 ad + 2 véh ≈ **$450-500 aller-retour**. Cette route a beaucoup plus de sailings que Duke Point (toutes les 1-2 h en saison) = plus de flexibilité.
 
 ## ---
 
 **🔄 PRINCIPAUX CHANGEMENTS APPORTÉS À CETTE RÉVISION**
 
-1. **Jour 1** : ajout d'une chronologie réaliste post-atterrissage (logistique 4h pour 2 voitures + courses), arrivée Banff vers 18h plutôt que sous-entendue tôt.
-2. **Jour 2** : lever 3h30 (et non 4h15) si lever du soleil à Moraine ; choisir UNE rando, pas Larch + Johnston Canyon dans la même journée.
-3. **Jour 3** : départ Banff à 8h00 explicité ; Promenade des Glaciers chiffrée à 7-8 h porte-à-porte.
-4. **Jour 4** : enrichi avec 2-3 activités (Maligne Canyon seul est trop court).
-5. **Jour 6** : ajout du segment Hinton → trailhead (1 h 40, gravel) ; départ Hinton 7h-7h30.
-6. **Jour 9** : suppression de l'option Clearwater (trop loin après trek) ; Valemount confirmé.
-7. **Phase 3 entièrement restructurée** : ajout d'une nuit de transit (Kamloops) car Valemount → Porteau en une journée = 9-10 h de route (impossible). Une nuit de Porteau Cove est sacrifiée. Wells Gray devient un détour optionnel sur le jour 10, pas un objectif.
-8. **Jour 12** : choisir UNE activité Squamish (Chief OU paddleboard), pas les deux ; trafic Vancouver pris en compte.
-9. **Jour 13** : départ 5h00 (et non 5h15) pour absorber retour des 2 voitures de location.
+1. **Voyage étendu à 14 jours** (26 juil → 8 août) — vol retour décalé d'un jour pour ajouter 1 nuit additionnelle à Vargas Island et éliminer le réveil 4h30 du dernier jour.
+2. **Phase 3 entièrement repensée** : Whistler/Squamish/Porteau Cove abandonnés au profit de **Vancouver Island sud — Mystic Beach (Juan de Fuca PP) en wilderness hike-in camping**, qui correspond mieux au critère "oceanside + diversité éco + odeurs uniques" tout en restant **sous le budget <$2 000/pax** (élimine water taxi $1 200 vs Vargas Island).
+3. **Jour 12 = journée libre complète sur Vargas Island** — pas de transit, pas d'agenda, c'est l'usage explicite de la 14e journée. Spacing, pas plus d'activités.
+4. **Tous les campings front-country remplacés par primitifs/espacés** : Castle Mountain → Mosquito Creek → Honeymoon Lake → Snaring (Alberta) ; Vargas Island wild camping (BC). Aucun camping de masse.
+5. **Jour 1** : ajout d'une chronologie réaliste post-atterrissage (logistique 4h pour 2 voitures + courses), arrivée campement vers 18h-19h.
+6. **Jour 2** : lever 3h30 si lever du soleil à Moraine ; **boucles Lake O'Hara (Yoho)** prioritaires sur Moraine pour la solitude (zone à quota).
+7. **Jour 3** : départ Banff à 8h00 explicité ; Promenade des Glaciers chiffrée à 7-8 h porte-à-porte.
+8. **Jour 4** : double-rando possible (Water Tower & Razorback AM + Patricia Lake PM) — le trek est plus camping qu'endurance, on peut rouler.
+9. **Jour 9** : suppression de l'option Clearwater (trop loin après trek) ; Valemount confirmé.
+10. **Jour 14** : matin libre à Richmond/Steveston, vol PM, **fin du voyage sans course contre la montre**.
 
 ## ---
 
-**💰 STRATÉGIE BUDGÉTAIRE ET "TRICKSHOTS" (Crucial)**
+**💰 BUDGET DÉTAILLÉ — 14 JOURS, 7 ADULTES — 3 SCÉNARIOS MIN / RÉALISTE / PESSIMISTE**
 
-Pour maintenir le budget sous 2 000 $ / pers, ces règles strictes doivent être appliquées :
+> 📊 **Source de vérité** : `Budget west canada 2026.xlsx` (4 onglets — Sources / Hypothèses / Budget / Scénarios). Toutes les formules sont liées : modifier un prix dans `Sources` met à jour le modèle entier. Les chiffres ci-dessous reflètent l'état du fichier au **3 mai 2026**, toggles actuels : Mystic Beach ✅, Lake O'Hara ✅, Miette ✅ ; Vargas/Skytram/Maligne/Baleines/Wells Gray/Ice Explorer ❌.
 
-1. **Le "Hack" Aéroplan :** Les vols doivent être réservés avec une carte de crédit co-marquée Aéroplan (ex: TD ou CIBC). Cela permet d'obtenir le premier bagage enregistré gratuit pour le titulaire ET jusqu'à 8 compagnons sur la même réservation, sauvant \~560 $ en frais pour les gros sacs à dos de rando.
-2. **Nourriture déshydratée maison :** Au lieu d'acheter des repas lyophilisés commerciaux à 15 $, le groupe doit préparer et déshydrater ses propres repas (chilis, risottos) à Montréal avant le départ.
-3. **Achat de matériel local :** Interdiction de voler avec des *bear sprays* ou des bonbonnes de gaz. Les acheter usagés sur les groupes Facebook de la Bow Valley ou dans les boîtes de dons des auberges de jeunesse (HI Calgary). Glacières achetées en friperie à l'arrivée.
+Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. **Trois colonnes** : MIN (vols pas chers + one-way négocié bas + LDW couvert par carte de crédit), RÉALISTE (estimation centrale août 2026), PESSIM (volatilité haute + FIFA WC 2026 inflation pic). Taxes BC 12 % et taxe AB 5 % incluses sur Airbnbs ; 12 % FedTax + ATSC + AIF inclus sur vols.
+
+**🎯 Hack vols** : rabais employé 20 % sur le tarif de base (avant taxes/AIF/ATSC). Économise ~$50-80/pax vs prix Aéroplan public.
+
+### 🛫 Transport longue distance
+
+| Poste | Détail | MIN TTL | RÉAL TTL | PESSIM TTL | RÉAL PP |
+|---|---|---|---|---|---|
+| **Vols AC A/R 7 pax** (YUL→YYC + YVR→YUL, base avec rabais employé 20 %, +ATSC +AIF +GST) | Réal $542/pax (vs $658 sans rabais) | $3 182 | **$3 795** | $4 606 | $542 |
+| **Bagages enregistrés** | GRATUITS via carte co-marquée TD/CIBC Aéroplan (jusqu'à 8 compagnons sur même réservation) | $0 | $0 | $0 | $0 |
+| **Minivan one-way 14 j** | $95/$120/$160 par jour selon dispo et FIFA WC | $1 330 | **$1 680** | $2 240 | $240 |
+| **Sous-compacte one-way 14 j** | $50/$65/$90 par jour | $700 | **$910** | $1 260 | $130 |
+| **Frais one-way × 2 véh** | $150/$250/$500 par véh — négociable | $300 | **$500** | $1 000 | $71 |
+| **Assurance LDW 2 véh × 14 j** | MIN = couverture Visa Infinite ; RÉAL/PESSIM = achat comptoir | $0 | **$560** | $980 | $80 |
+| **Essence Alberta** (~1 850 km, 2 véh, conso moy 8,75 L/100 km) | $1,39/$1,62/$1,93 par L | $183 | **$262** | $405 | $37 |
+| **Essence BC** (~1 150 km, 2 véh) | $1,85/$2,05/$2,30 par L (BC = beaucoup plus cher) | $143 | **$206** | $314 | $29 |
+| **BC Ferries Tsawwassen↔Swartz Bay** A/R | 2 véh+drivers + 5 pax sup × 2 traversées + frais carb. ($70,75 off-peak / $89,25 peak) | $453 | **$579** | $595 | $83 |
+| **Water taxi Vargas Island** | ❌ OFF (toggle Hypothèses!B19=0 → switchin' to Mystic Beach) | $0 | $0 | $0 | $0 |
+| **Détour Wells Gray** | ❌ OFF (toggle B25=0) | $0 | $0 | $0 | $0 |
+| **SOUS-TOTAL TRANSPORT** | | **$6 291** | **$8 493** | **$11 400** | **$1 213** |
+
+### 🏕️ Hébergement
+
+| Poste | Détail | MIN TTL | RÉAL TTL | PESSIM TTL | RÉAL PP |
+|---|---|---|---|---|---|
+| **Camping PC frontcountry** (Castle Mtn / Mosquito Creek / Honeymoon Lake / Snaring) | 4 nuits × 2 sites × $24 unserv. × 0,75 (rabais Canada Strong 25 %) | $144 | **$144** | $183 | $21 |
+| **Backcountry trek** (4 nuits × 7 pax × $13,50 × 0,75) | Tarif officiel PC 2025-26 (déjà réservé/payé) | $284 | **$284** | $284 | $41 |
+| **Skagit Valley PP** (1 nuit × 2 sites) | ⚠️ NOUVEAU $20/nuit non-resident fee dès 15 mai 2026 (base $25 + NR $20 = $50/site) | $80 | **$100** | $120 | $14 |
+| **Mystic Beach** (Juan de Fuca PP, 2 nuits × 7 pax × $10 self-register) | Pessim = +non-resident fee | $140 | **$140** | $168 | $20 |
+| **Airbnb Hinton** (1 nuit, +5 % GST AB) | Maison 5+ ch pour 7 pax — **plafond $350** | $263 | **$368** | $525 | $53 |
+| **Airbnb Valemount** (1 nuit, +12 % BC PST+GST+MRDT) | **plafond $320** post-trek (laveuse/sécheuse) | $280 | **$358** | $518 | $51 |
+| **Airbnb Richmond** (1 nuit, +12 % BC) | Marché Vancouver = plus cher — **plafond $450** | $392 | **$504** | $690 | $72 |
+| **SOUS-TOTAL HÉBERGEMENT** | | **$1 582** | **$1 897** | **$2 487** | **$271** |
+
+### 🥾 Activités (toggles actifs uniquement)
+
+| Poste | Détail | MIN TTL | RÉAL TTL | PESSIM TTL | RÉAL PP |
+|---|---|---|---|---|---|
+| **Pass parcs nationaux** Canada Strong | Gratuit | $0 | $0 | $0 | $0 |
+| **Navette Lake O'Hara** ✅ (jour 2) | $25/pax × 7 — quota strict, surveillance annulations | $175 | **$175** | $210 | $25 |
+| **Miette Hot Springs** ✅ (jour 9) | $9,25-12/pax × 7 (tarif PC standard) | $65 | **$74** | $84 | $11 |
+| **SOUS-TOTAL ACTIVITÉS** | | **$240** | **$249** | **$294** | **$36** |
+
+**Toggles OFF** (impact PP RÉALISTE si activés) : Skytram Jasper $60 · Maligne Lake $115 · Baleines Tofino $135 · Ice Explorer $120 · Vargas water taxi $171 · Wells Gray détour $13.
+
+### 🍽️ Nourriture (cuisine au camp 90 %)
+
+| Poste | Détail | MIN TTL | RÉAL TTL | PESSIM TTL | RÉAL PP |
+|---|---|---|---|---|---|
+| **Épicerie groupe** (10 jours hors trek × 7 pax × $/pax/jour) | $16/$22/$30 par pax/jour — cuisine 1 menu commun | $1 120 | **$1 540** | $2 100 | $220 |
+| **Repas trek déshydratés maison** (4 jours × 7 pax) | Préparation MTL — $22-50/pax pour 4 jours (vs $60+ commercial Mountain House) | $154 | **$196** | $350 | $28 |
+| **Restaurants** (3 sorties × 7 pax × $/pax) | $28/$38/$55 par pax/sortie incluant 15 % pourboire | $588 | **$798** | $1 155 | $114 |
+| **Café / snacks / bières** (14 jours × 7 pax × $/pax/jour) | $5/$9/$14 par pax/jour | $490 | **$882** | $1 372 | $126 |
+| **SOUS-TOTAL NOURRITURE** | | **$2 352** | **$3 416** | **$4 977** | **$488** |
+
+### ⚙️ Équipement à acheter sur place
+
+| Poste | Détail | MIN TTL | RÉAL TTL | PESSIM TTL | RÉAL PP |
+|---|---|---|---|---|---|
+| **Bear spray** (interdit avion) | Usagé FB Bow Valley $40 vs neuf MEC $50, 2-3 cans | $60 | **$100** | $150 | $14 |
+| **Bonbonnes gaz isobutane** (8 cans MSR/JetBoil 230 g) | $6-10 chacun selon source | $50 | **$64** | $80 | $9 |
+| **Glacières 2x** (friperie / Walmart) | Value Village Calgary | $20 | **$40** | $80 | $6 |
+| **Glace au campement** (~10 sacs × $5) | Restock Jasper + Hinton + Sooke | $30 | **$50** | $80 | $7 |
+| **SOUS-TOTAL ÉQUIPEMENT** | | **$160** | **$254** | **$390** | **$36** |
+
+### 🧮 BUDGET TOTAL — 3 scénarios
+
+| Catégorie | MIN TTL | RÉAL TTL | PESSIM TTL |
+|---|---|---|---|
+| Transport | $6 291 | $8 493 | $11 400 |
+| Hébergement | $1 582 | $1 897 | $2 487 |
+| Activités | $240 | $249 | $294 |
+| Nourriture | $2 352 | $3 416 | $4 977 |
+| Équipement | $160 | $254 | $390 |
+| **Sous-total brut** | **$10 625** | **$14 309** | **$19 548** |
+| **Marge imprévus** (5 % MIN / 7 % RÉAL / 10 % PESSIM) | $531 | $1 002 | $1 955 |
+| **TOTAL GROUPE (avec marge)** | **$11 156** | **$15 310** | **$21 503** |
+| **TOTAL PAR PERSONNE** | **🎯 $1 594** | **⚠️ $2 187** | **❌ $3 072** |
+| **vs cible <$2 000/pax** | **✅ marge $406** | **❌ +$187** | **❌ +$1 072** |
+
+**🎯 État du modèle au 3 mai 2026** :
+- **MIN** ✅ : sous le budget de $406/pax — atteignable avec **vols early-booking + LDW couvert par carte + one-way bien négocié + courses serrées**.
+- **RÉALISTE** ⚠️ : **+$187/pax au-dessus de la cible**. Signal clair que la cible <$2 000/pax est **fragile** ; il faut activement chercher les conditions du scénario MIN sur les gros postes (vols + voitures).
+- **PESSIM** ❌ : +$1 072/pax — scénario à éviter activement (FIFA WC 2026 inflation, vols last-minute, LDW comptoir, restos chers).
+
+### 🔧 Leviers pour passer du RÉALISTE au MIN (économies vs RÉALISTE)
+
+| Décision | Économie groupe | Économie PP |
+|---|---|---|
+| **Vols early-booking + tracking Aéroplan + rabais employé** ($454/pax MIN vs $542 RÉAL) | −$613 | −$88 |
+| **One-way négocié à $150/véh** au lieu de $250 | −$200 | −$29 |
+| **LDW couvert par Visa Infinite** (achat comptoir = $0) | −$560 | −$80 |
+| **Voitures bookées tôt** ($95+$50/jour MIN vs $120+$65 RÉAL) | −$560 | −$80 |
+| **Cuisine de groupe disciplinée** ($16/pax/j MIN vs $22 RÉAL) | −$420 | −$60 |
+| **Café/snacks/bières serrés** ($5/pax/j vs $9) | −$392 | −$56 |
+| **Airbnbs en bas de fourchette** (réserver tôt, comparer VRBO/Airbnb/Booking) | −$130 à −$240 | −$19 à −$34 |
+| **Total potentiel d'économies RÉAL → MIN** | **~$3 700-4 100** | **~$525-585** |
+
+### 💸 Stratégies "trickshots" obligatoires
+
+1. **Rabais employé 20 % sur vols** : appliqué sur le tarif de base avant taxes/AIF/ATSC. Vol total RÉAL = $542/pax (vs ~$658 sans rabais) = **économie ~$115/pax = $810 groupe**.
+2. **Hack Aéroplan bagages** : carte co-marquée TD/CIBC = bagages gratuits 8 compagnons sur même réservation. **Économie ~$560**.
+3. **Nourriture déshydratée maison** : chilis, risottos, currys préparés à MTL avant départ. **Économie $400-700**.
+4. **Matériel usagé sur place** : bear spray + glacières via FB Marketplace Bow Valley / Value Village Calgary. **Économie ~$200**.
+5. **Canada Strong Pass** : entrées parcs gratuites + **25 % rabais camping PC** (incluant backcountry). **Économie ~$200 sur camping seul**.
+6. **Mystic Beach hike-in vs water taxi Vargas** : **Économie $1 200** (toggle B19=0).
+7. **Cuisine de groupe stricte** : 1 menu commun, 1 acheteur, repas partagés. **Économie ~30 %** sur épicerie.
+8. **One-way négocié** : appeler Avis/Enterprise/Discount/Practical en mai-juin avec dates précises, demander explicitement remise frais one-way. Souvent négociable à $150-200/véh.
+9. **Airbnb plafond ferme** : Hinton ≤ $350/nuit, Valemount ≤ $320, Richmond ≤ $450 (taxes incluses). VRBO + Airbnb + Booking — toujours comparer.
+10. **LDW = carte de crédit** : Visa Infinite / WestJet RBC World Elite couvrent généralement 31 jours sur location domestique. **Vérifier la couverture spécifique de la carte du chauffeur principal avant le booking** — économie potentielle $560 groupe sur 14 jours.
+
+### ⚠️ Risques budgétaires à surveiller (pourquoi le RÉALISTE est >$2 000)
+
+- **Vols août 2026 = haute saison + FIFA WC 2026** : si on attend, $542 RÉAL peut devenir $658+ PESSIM = +$810/groupe = +$116/pax. **Booker avant fin mai 2026**.
+- **Frais one-way location FIFA WC** : risque de doublement ($500/véh PESSIM vs $150 MIN) = +$700 groupe.
+- **Skagit Valley non-resident fee** : nouveau dès 15 mai 2026 (+$20/site/nuit). Pas de levier — déjà incorporé.
+- **Essence BC** : volatilité haute ($1,85 → $2,30/L) ; déjà la province la plus chère. PESSIM = +$110 groupe.
+- **Taxes BC 12 % + MRDT 3 % Vancouver** : incluses dans Airbnb Richmond (Pessim 15 %). Vérifier au booking.
+- **LDW assurance** : si la carte de crédit ne couvre pas et qu'on achète comptoir = +$560 groupe (gros impact sur le PP).
+- **Imprévus santé/voiture** : marge 7 % RÉAL = $1 002. Bouclier pour bobos, dépanneuse, météo, achats.
+
+### 📈 Plan d'action selon évolution
+
+**Si on tombe vers le scénario MIN** (vols pas chers + one-way négocié + LDW carte) :
+- Ajouter **Maligne Lake bateau** ($115/pax = $805 groupe) OU **Skytram Jasper** ($60/pax = $420). Voir la liste de toggles dans `Hypothèses`.
+- Upgrade Airbnb Richmond (final night confort, vraie cuisine pour vol matinal du 8).
+
+**Si on dérape vers RÉALISTE+ ou PESSIM** :
+- **Skip Miette Hot Springs** ($74). Garder Lake O'Hara ($175) qui est la rando-clé Yoho.
+- **Réduire restos de 3 à 2** ($210-280 économisés selon scénario).
+- **Switch Airbnbs Hinton/Valemount → HI hostel** ou camping additionnel (~$280 économisés/nuit).
+- **Couper café/snacks/bières** de $9 à $5/pax/jour = $392 groupe.
+- **Skip Skagit Valley** (rester à Hope Airbnb ou rec site free Coquihalla) = $80-120 économisés.
+
+### 📂 Ouvrir le fichier Excel pour ajuster en temps réel
+
+Le fichier `Budget west canada 2026.xlsx` permet de simuler n'importe quel changement instantanément :
+- **`Hypothèses!B4:B6`** : changer nb pax / jours / véhicules.
+- **`Hypothèses!B19:B26`** : activer/désactiver les toggles (1 = ON, 0 = OFF).
+- **`Hypothèses!B27`** : nb sorties resto.
+- **`Sources!D:F`** : modifier les prix unitaires (colonnes MIN / RÉAL / PESSIM) — toutes les feuilles se mettent à jour.
+- **`Scénarios`** : voir le verdict ✅/❌ vs cible $2 000/pax pour les 3 scénarios.
 
 ## ---
 
-**❓ QUESTIONS À FINE-TUNER LE PLAN (à répondre pour ajuster)**
+**❓ QUESTIONS À FINE-TUNER LE PLAN**
 
-1. **Lake O'Hara** — Voulez-vous que je vous aide à vérifier dès aujourd'hui les annulations de la navette Parcs Canada ? C'est la rando #1 du voyage si on l'attrape, mais le système est ouvert depuis avril donc il faut surveiller quotidiennement.
-2. **Niveau de rando du groupe** — Sur les 7 personnes, combien feront les grosses (10+ km, 600 m+) vs les douces (≤5 km, plates) ? Si le groupe se sépare, prévoit-on des activités séparées ou tout le monde fait la même chose ?
-3. **Flute Summit Loop (Jour 11)** — La gondole Whistler/Blackcomb coûte ~$75-95/pax = $525-665 pour 7. C'est un gros budget. **Confirmer ?** Ou préférer Mount Habrich (gondole Sea-to-Sky moins chère ~$60) ou Manic Peak (gratuit mais pur effort) ?
-4. **Maligne Lake / Spirit Island bateau (Jour 4)** — $700-800 pour le groupe. Iconique mais cher. **Dans le budget ou drop ?**
-5. **Skytram Jasper (Jour 4)** — $60/pax = $420 pour 7. Vue panoramique en 7 min sans effort. **In ou out ?**
-6. **Banff townsite vs Yoho/O'Hara (Jour 2)** — Si on attrape O'Hara, on sacrifie Banff townsite (Cave & Basin, etc.). Préférence si choix forcé ?
-7. **Wells Gray Helmcken (Jour 10)** — Ajoute ~2 h 15 de route au transit Valemount→Kamloops. **In (vues spectaculaires de la chute) ou out (route plus directe) ?**
-8. **Stawamus Chief (Jour 12)** — Actuellement skipped pour cause de foule + post-trek. Quelqu'un dans le groupe insiste pour le faire au lever du soleil ?
-9. **Activités Vancouver (Jour 12 PM)** — Stanley Park vélo, Granville Island, Gastown sont la base. Ajouter : Capilano Suspension Bridge ($60/pax) ? Grouse Grindouille téléphérique ? Souper à Chinatown ?
-10. **Photo / drones / pêche** — Préférences spécifiques qui changeraient les choix de sentiers (ex. levers de soleil, lacs spécifiques pour reflets) ?
-11. **Couleurs des saisons** — En fin juillet, les fleurs alpines sont à leur pic, les mélèzes (Larches) sont VERTS pas dorés (couleur d'or = mi-sept seulement). Confirme que les attentes sont alignées ?
-12. **Bears/wildlife** — Le groupe est-il à l'aise avec la faune (ours noirs et grizzlys présents partout) ? J'ai noté le bear spray mais voulez-vous des infos sur les protocoles de bruit/cuisine en groupe ?
+### À AGIR cette semaine (critique)
+0. **✅ Vols AC LOCKED** :
+   - **Aller** : AC317/AC319 YUL 08h30 → YYC 11h12 le 26 juillet (numéro exact au booking).
+   - **Retour** : **AC306 YVR 11h15 → YUL 19h12 le 8 août**.
+   - Booker via Aéroplan immédiatement (carte co-marquée TD/CIBC pour bagages gratuits 8 pax). Cible tarif ≤ $500/pax pour le retour.
+1. **Mystic Beach confirmé ?** — hike-in 4 km depuis China Beach trailhead (Hwy 14, 30 min ouest de Sooke). Self-register $10/pax/nuit. Pas de réservation. **Choix budget-conscious** vs Vargas Island (qui aurait coûté $1 200 de water taxi). Voulez-vous reconsidérer Vargas si le budget gagne en marge ?
+2. **Réservations Parcs Canada (Alberta)** — Je peux vérifier maintenant la disponibilité réelle pour les nuits Castle Mountain → Mosquito Creek → Honeymoon Lake → Snaring sur reservation.pc.gc.ca pour vos dates exactes. Confirmer ?
+3. **BC Ferries aller-retour** — heures précises et coût total pour 7 ad + 2 véh, **Tsawwassen↔Swartz Bay (Victoria)** aller le 5 août matin + retour le 7 août PM (route changée pour Mystic Beach). Plus de sailings que Duke Point.
+4. **Lake O'Hara navette** — surveillance quotidienne annulations Parcs Canada à partir de maintenant ?
+
+### À décider sur le contenu
+5. **Activités optionnelles à réintroduire si budget tient** — par ordre de "vaut le coup" :
+   - **Maligne Lake / Spirit Island bateau** ($115/pax = $805) — iconique mais cher.
+   - **Skytram Jasper** ($60/pax = $420) — panorama sans effort.
+   - **Tour baleines Tofino** — n'est plus pertinent (Phase 3 = Mystic Beach).
+   Voulez-vous une de ces options réintroduite si on dégage de la marge sur les vols/voitures ?
+6. **Niveau de rando du groupe** — combien sont à l'aise avec une grosse rando 10+ km / 700 m+ (Water Tower Jasper, Lone Cone Vargas) ? OK si le groupe se sépare ou tout le monde même activité ?
+7. **Mystic Beach Day 12 AM** — extension vers Bear Beach (~6 km de plus sur le Juan de Fuca Trail) ou marche libre seulement ?
+8. **Wells Gray détour Day 10** — ajoute ~1 h 30. **In (saumons à Bailey's Chute) ou out (arriver à Hope moins fatigué) ?**
+
+### À valider maintenance / autres
+9. **Photo / drones** — Préférences ? (drones interdits dans tout PP/NP en BC + Alberta).
+10. **Ours / cougars / faune** — Voulez-vous protocole bear-safety/cougar-safety détaillé pour le trek + Mystic Beach ?
+11. **Niveau du groupe pour hike-in 4 km Day 11** — chacun porte son sac (tente partagée), ~15-20 kg pour 1 h 30 de marche. **OK pour les 7 pax ?**
 
 ## ---
 
