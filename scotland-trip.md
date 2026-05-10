@@ -9,9 +9,9 @@
 * **Taille du groupe :** 7 adultes.
 * **Dates du voyage :** 26 juillet 2026 au 8 août 2026 (14 jours, mêmes dates que plan Canada/Islande).
 * **Budget cible :** **< 2 800 $CAD par personne**. Vols transatlantiques ~$800/pax (vs $542 Canada), MAIS **wild camping légal** + **2 voitures à $650 fixes (unlimited miles)** = budget tient bien sous la cible.
-  - **MIN $2 098/pax** ✅ (marge $702) — vols early-booking + wild camping max + cuisine groupe stricte + Edinburgh Airbnb plafond bas.
-  - **RÉALISTE $2 487/pax** ✅ (marge $313) — confortable sous la cible.
-  - **PESSIMISTE $3 245/pax** ❌ (+$445) — vols last-minute + Airbnb Edinburgh haut de gamme + restos pubs réguliers.
+  - **MIN $2 286/pax** ✅ (marge $514) — vols AC réservés ($1 055) + wild camping max + cuisine groupe stricte + Edinburgh Airbnb plafond bas.
+  - **RÉALISTE $2 985/pax** ⚠️ (+$185 sur cible) — vols AC à $1 055 (vs $850 budgété) pousse le RÉAL au-dessus. Appliquer 2-3 leviers MIN pour revenir sous $2 800.
+  - **PESSIMISTE $3 922/pax** ❌ (+$1 122) — Airbnb Edinburgh haut de gamme + restos pubs premium.
 * **Style de voyage :** Expédition "**Wild-Camp-Cinematic**". **Edinburgh kickoff (J2)** : 1 nuit Airbnb + pub crawl Old Town. **Phase wild camping (J3-J10)** : wild camping dans les paysages les plus dramatiques d'Écosse + châteaux iconiques + randonnées Munros signature. **Finale Edinburgh (J11-J14)** : 3 nuits Airbnb Edinburgh, exploration urbaine + pub crawls + day trips optionnels.
 * **Pass / permits :** **Aucun pass requis** pour les Highlands (parcs nationaux gratuits, accès libre selon Scottish Outdoor Access Code). Châteaux Historic Environment Scotland — option **Explorer Pass** ($73/pax pour 5 jours = $511 groupe — économise si on visite 4+ châteaux ; sinon billets individuels).
 * **Conduite à gauche** : **2 chauffeurs principaux compétents en boîte manuelle UK** obligatoires (la base = manuel, auto +30 % à la location).
@@ -20,14 +20,14 @@
 
 **✈️ TRANSPORT (Vols & Voitures)**
 
-**Vols (Réservation A/R Edinburgh - Tarif Économie de base) :**
+**Vols (Réservation A/R Edinburgh - Tarif Économie Standard, RÉSERVÉ) :**
 
-* **ALLER :** Dimanche 26 juillet 2026 | **Icelandair FI634/FI636 YUL → KEF (overnight, ~5 h 30) → KEF → EDI (~3 h)** | Total ~11 h portes à portes avec escale Reykjavík ~3 h. Cible $750-850/pax RT — historiquement Icelandair = le moins cher YUL ↔ Royaume-Uni.
-* **RETOUR :** **Samedi 8 août 2026 | EDI (~10h00 BST) → KEF → YUL (arrivée ~16h00 EDT)** | Icelandair, ~12 h portes à portes. Atterrissage YUL après-midi.
-  - **Booker via Skyscanner / Google Flights** ou directement icelandair.com (Saga Club rewards gratuits).
-  - **Tarif cible** : ~$800/pax RT économie Standard (1 bag soute inclus). Au-dessus de $950/pax = budget dérape.
-  - **Alternative AC864/AC865 YUL ↔ LHR direct + train CrossCountry** vers EDI : direct vol 6 h 30 + train 4 h 30 = même temps total, +$80-100/pax mais zéro stress correspondance KEF.
-  - **⚠️ Bagages Icelandair Economy Light = 0 bag soute** — booker **Economy Standard** pour 1 bag inclus.
+* **ALLER :** **Dimanche 26 juillet 2026 | Air Canada YUL 20:30 → EDI 07:40 (lundi 27 juillet)** | Direct, 6 h 10 min de vol. Atterrissage EDI tôt le matin BST = journée pleine disponible.
+* **RETOUR :** **Samedi 8 août 2026 | Air Canada EDI 09:15 BST → YUL 11:10 EDT** | Direct, 6 h 55 min. Décollage tôt = lever 05h30, départ Airbnb 06h00, à EDI 06h30.
+  - **Tarif réel** : **CA $1 055,41/pax** Economy Standard (1 bag soute inclus). $738 air transportation + $317 taxes/fees.
+  - **Total groupe vols** : $1 055,41 × 7 = **$7 388 groupe** ≈ scénario PESSIM original. À intégrer dans budget révisé.
+  - **Booking** : aircanada.com directement ou via Aeroplan (2 510 points + 1 476 SQC par pax).
+  - **Avantage vs Icelandair via KEF** : direct = 6 h vol vs 11 h portes-à-portes, 0 stress correspondance Reykjavík, atterrissage matinal Edinburgh (07:40) au lieu de mi-journée.
 
 **Voitures de location (A/R Edinburgh, prix fixe unlimited miles) :**
 
@@ -56,12 +56,11 @@
 
 **Réservations à faire AVANT fin mai 2026 (haute saison) :**
 
-1. **Vols Icelandair YUL ↔ EDI via KEF** — booker dès maintenant via Skyscanner. Cible $800/pax. Au-dessus de $900 → bascule AC LHR + train.
+1. ✅ **Vols Air Canada direct YUL ↔ EDI RÉSERVÉS** — $1 055,41/pax Economy Standard. Aller AC 26 juil 20:30 YUL → 27 juil 07:40 EDI ; retour 8 août 09:15 EDI → 11:10 YUL.
 2. **2 voitures Edinburgh Airport** — booker via Discover Cars / Rentalcars 3-4 mois avant. Confirmer **manuel + unlimited miles + 25+ ans + 2e conducteur**.
 3. **Airbnb Edinburgh — 4 nuits (J2 + J11-J13)** — **plafond $450/nuit** pour 7 pax dans une maison/grand appart. Quartiers : **Stockbridge, Old Town/Newington, Bruntsfield**. **Idéalement même Airbnb** pour les 4 nuits avec gap 8 nuits Highlands au milieu (négocier hold ou rebook). Booker MAINTENANT (Edinburgh août = Festival Fringe = capitale culturelle mondiale, prix gonflés sans booking 6+ mois avant).
-4. **Edinburgh Tattoo (option, 31 juil → 23 août 2026)** — billets ~£40/pax = $480 groupe. **Vérifier dispo dates 27 juil OU 5-7 août** : si une soirée tombe pendant notre séjour Edinburgh, c'est l'expérience iconique. Booking ouvert décembre 2025.
-5. **Misty Isle Boat Trips Elgol → Loch Coruisk** (option, J6 si on veut accéder Coruisk sans trek) — £25/pax × 7 = £175. Réserver 1-2 mois avant.
-6. **Sandwood Bay parking Blairmore** — **gratuit, FCFS**. Pas de réservation, mais arriver tôt (8h-10h) pour place dans le petit parking (~30 véh). Si plein, marche extra 1 km depuis Sheigra.
+4. **Misty Isle Boat Trips Elgol → Loch Coruisk** (option, J7 si on veut accéder Coruisk sans trek) — £25/pax × 7 = £175. Réserver 1-2 mois avant.
+5. **Sandwood Bay parking Blairmore** — **gratuit, FCFS**. Pas de réservation, mais arriver tôt (8h-10h) pour place dans le petit parking (~30 véh). Si plein, marche extra 1 km depuis Sheigra.
 
 ## ---
 
@@ -112,7 +111,7 @@ Le voyage est conçu comme une **progression géographique vers les paysages les
 
 | Jour | Date | Activité prévue | Effort |
 |---|---|---|---|
-| 1 | 26 juil (overnight) | YUL → EDI via KEF | Logistique vol |
+| 1 | 26 juil (overnight) | Vol direct YUL 20:30 → EDI 07:40 (Air Canada) | Logistique vol |
 | 2 | 27 juil | **Arrivée EDI → Edinburgh Day 1** : check-in Airbnb + Old Town + Royal Mile + pub crawl | Urbain + pints (jet lag) |
 | 3 | 28 juil | Edinburgh AM → Stirling Castle drive-by → wild camp Glen Etive | Doux drive |
 | 4 | 29 juil | **Glen Etive + Buachaille Etive Mòr / Lost Valley (Glencoe)** | Hard (Buachaille) ou Mod (Lost Valley) |
@@ -295,12 +294,6 @@ Edinburgh **encadre** le voyage — 1 nuit arrivée (J2) + 3 nuits finales (J11-
 - **Free Fringe** : ~25 % des shows gratuits avec donation chapeau. **Royal Mile = animation gratuite continuelle 11h-22h**.
 - **Recommandation** : booker **2-3 shows** (£30-50/pax = $250-400 groupe) pour avoir l'expérience.
 
-### 🎶 Edinburgh Military Tattoo (option grosse)
-
-**Spectacle militaire mondial** sur Castle Esplanade, 31 juillet → 23 août 2026. Cornemuses, danse, fly-pasts. **Iconique mais cher** : £40-110/pax selon catégorie. = $480-1 320 groupe.
-
-**Recommandation** : OPTION luxe si budget tient. Booker en **décembre 2025**.
-
 ### 📍 Day trip optionnels (J13)
 
 | Option | Drive | Coût | Notes |
@@ -320,11 +313,11 @@ Edinburgh **encadre** le voyage — 1 nuit arrivée (J2) + 3 nuits finales (J11-
 
 ### **Phase 1 : Edinburgh kickoff + wild camping cinématique progressif (27 juillet au 4 août)**
 
-* **Jour 1 (26 juil) — Vol overnight YUL → KEF → EDI :** Décollage YUL ~21h45 EDT. Vol 1 (~5 h 30) + escale Reykjavík (~3 h) + vol 2 (~3 h). Arrivée EDI matin du 27 juillet (BST). Le "Jour 1 réel" sur le terrain est **le 27 juillet**.
+* **Jour 1 (26 juil) — Vol direct YUL → EDI Air Canada :** Décollage YUL **20h30 EDT**. Vol direct ~6 h 10 min. Arrivée EDI **07h40 BST le 27 juillet**. Le "Jour 1 réel" sur le terrain est **le 27 juillet matin**.
 
 * **Jour 2 (27 juil) — Arrivée EDI → Edinburgh Day 1 (Old Town + Royal Mile + pub crawl) :** Journée logistique douce + immersion immédiate dans la capitale.
-  - **08h00-09h30** : atterrissage EDI, immigration UK (~30-45 min), bagages, shuttle comptoirs voitures.
-  - **09h30-11h00** : prise en charge des **2 voitures** (~1 h 30 pour 2 véh + 7 pax + paperasse manuel/auto). **⚠️ Adaptation conduite à gauche** — 30 min minimum pour s'habituer. Sortie EDI → centre Edinburgh (25 min via A8).
+  - **07h40-09h00** : atterrissage EDI 07h40 BST, immigration UK (~30-45 min), bagages, shuttle comptoirs voitures.
+  - **09h00-10h30** : prise en charge des **2 voitures** (~1 h 30 pour 2 véh + 7 pax + paperasse manuel/auto). **⚠️ Adaptation conduite à gauche** — 30 min minimum pour s'habituer. Sortie EDI → centre Edinburgh (25 min via A8).
   - **11h00-12h00** : check-in **Airbnb Edinburgh** (négocier early check-in, ou laisser bagages dans les voitures si Airbnb pas dispo avant 15h). Achats anti-midges si timing : **Smidge + head nets** chez Cotswold Outdoor / Tiso (à faire avant départ Highlands J3).
   - **12h00-13h30** : lunch léger Old Town — **The Outsider** (vue château, £18/pax) ou **Mums Great Comfort Food** (£12/pax).
   - **13h30-17h00** : **🏆 Royal Mile descente** depuis le château vers Holyrood. Stops : **Edinburgh Castle** (£21/pax = $250 groupe, 2 h visite — booker en ligne pour skip queue, **Honors of Scotland + Stone of Destiny + One O'Clock Gun**), **St Giles' Cathedral** (gratuit), **Mercat Cross**, **The Real Mary King's Close** (tour souterrain, £20/pax = $240 groupe, 1 h, **OPTION fortement recommandée**).
@@ -491,15 +484,14 @@ Edinburgh **encadre** le voyage — 1 nuit arrivée (J2) + 3 nuits finales (J11-
   - **00h00** : retour Airbnb. Préparer sacs pour vol matinal demain.
   - *Nuit 12 : **Airbnb Edinburgh (4e nuit, dernière)**.*
 
-* **Jour 14 (8 août) — Edinburgh matin → vol EDI :** Le vol Icelandair retour part vers ~10h00-11h00 BST (à confirmer au booking).
+* **Jour 14 (8 août) — Edinburgh matin → vol direct EDI → YUL Air Canada :** Vol **09h15 BST** (réservé), atterrissage YUL 11h10 EDT. Lever tôt obligatoire.
   - **05h30** : lever (douloureux mais nécessaire).
-  - **06h00** : départ Airbnb (sacs déjà préparés la veille).
-  - **06h30** : arrivée EDI Airport, retour des 2 voitures au rental return (45 min mini pour 2 véh + 7 pax).
-  - **07h15** : check-in vol Icelandair.
-  - **08h30-09h00** : embarquement.
-  - **10h00 (BST)** : décollage EDI → KEF.
-  - **~16h00 (EDT)** : atterrissage YUL après escale Reykjavík.
-  - **⚠️ Alternative grasse mat'** : si vol PM (Icelandair varie selon saison), matinée libre Edinburgh **Cairngorm Coffee** breakfast + dernière marche Royal Mile non-touristique 8h-10h.
+  - **05h45** : départ Airbnb (sacs déjà préparés la veille).
+  - **06h15** : arrivée EDI Airport, retour des 2 voitures au rental return (45 min mini pour 2 véh + 7 pax).
+  - **07h00** : check-in vol Air Canada (libération bag drop, contrôle sécurité).
+  - **08h30** : embarquement.
+  - **09h15 (BST)** : décollage direct EDI → YUL.
+  - **11h10 (EDT)** : atterrissage YUL (après-midi avancée, journée complète à Montréal pour décompresser).
 
 ## ---
 
@@ -572,17 +564,17 @@ Fin juillet-début août = **PIC absolu de midges** (Culicoides impunctatus) en 
 
 **💰 BUDGET DÉTAILLÉ — 14 JOURS, 7 ADULTES — 3 SCÉNARIOS MIN / RÉALISTE / PESSIMISTE**
 
-Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. **Trois colonnes** : MIN (vols early-booking, Airbnb Edinburgh plafond bas, cuisine groupe stricte, 0 châteaux payants sauf Edinburgh, skip pub crawl premium), RÉALISTE (estimation centrale, Airbnb confort + 2 châteaux payants + pub crawl complet), PESSIM (vols last-minute, Airbnb Edinburgh haut de gamme + Tattoo + restos premium).
+Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. **Trois colonnes** : MIN (vols AC réservés, Airbnb Edinburgh plafond bas, cuisine groupe stricte, 0 châteaux payants sauf Edinburgh, skip pub crawl premium), RÉALISTE (vols AC + Airbnb confort + 2 châteaux payants + pub crawl complet), PESSIM (vols AC + Airbnb Edinburgh haut de gamme + restos premium).
 
-**🎯 Hypothèse vols** : Icelandair YUL ↔ EDI via KEF, $800/pax cible.
+**🎯 Vols réservés** : **Air Canada direct YUL ↔ EDI**, $1 055,41/pax (RÉEL). Total groupe **$7 388**.
 **🎯 Hypothèse change** : 1 GBP = 1,72 $CAD (mai 2026).
 
 ### 🛫 Transport longue distance
 
 | Poste | Détail | MIN TTL | RÉAL TTL | PESSIM TTL | RÉAL PP |
 |---|---|---|---|---|---|
-| **Vols Icelandair A/R 7 pax** (YUL ↔ EDI via KEF, base + ATSC + AIF + GST) | $750 MIN / $850 RÉAL / $1 050 PESSIM | $5 250 | **$5 950** | $7 350 | $850 |
-| **Bagages Economy Standard** | 1 bag soute inclus | $0 | $0 | $560 (Light forced) | $0 |
+| **✅ Vols Air Canada direct A/R 7 pax** (YUL ↔ EDI, Economy Standard, **RÉSERVÉ**) | $1 055,41/pax confirmé | $7 388 | **$7 388** | $7 388 | $1 055 |
+| **Bagages Economy Standard** | 1 bag soute inclus dans tarif | $0 | $0 | $0 | $0 |
 | **🚗 Voiture #1 A/R Edinburgh 14 j** | **Prix fixe $650 unlimited miles** | $650 | **$650** | $650 | $93 |
 | **🚗 Voiture #2 A/R Edinburgh 14 j** | **Prix fixe $650 unlimited miles** | $650 | **$650** | $650 | $93 |
 | **Frais one-way** | A/R = $0 | $0 | $0 | $0 | $0 |
@@ -592,7 +584,7 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 | **Ferry CalMac Mallaig → Armadale** | 2 véh + 7 pax, ~£40/véh + £4/pax = ~£108 = $186 (one-way uniquement, retour via Skye Bridge gratuit) | $186 | **$186** | $220 | $27 |
 | **Stationnement Edinburgh 4 nuits** | Airbnb avec parking inclus (chercher !) ; sinon £15/jour × 2 véh × 4 nuits = £120 = $206 | $0 (Airbnb parking) | **$206** | $310 | $29 |
 | **Taxis Edinburgh pubs nights** | 2 retours taxis × 2 nuits × £12/véh = £48 | $0 (à pied) | **$83** | $150 | $12 |
-| **SOUS-TOTAL TRANSPORT** | | **$7 349** | **$9 005** | **$12 018** | **$1 287** |
+| **SOUS-TOTAL TRANSPORT** | | **$9 487** | **$10 443** | **$11 496** | **$1 492** |
 
 ### 🏕️ Hébergement
 
@@ -618,12 +610,11 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 | **Talisker Distillery tour** (£20/pax × 7) | Toggle OFF MIN (samples libres). RÉAL = ON. | $0 (samples) | **$240** | $240 | $34 |
 | **Misty Isle Boat Coruisk** (£25/pax × 7) | Toggle OFF (skip Coruisk dans nouvelle version) | $0 (OFF) | $0 | $300 | $0 |
 | **Day trip St Andrews / Anstruther fish & chips** | Lunch £12/pax (déjà compté Nourriture) — drive cost gratuit | $0 | $0 | $0 | $0 |
-| **Edinburgh Tattoo** (£40-110/pax × 7) | OPTION luxe — toggle OFF par défaut | $0 (OFF) | **$0** | $770 | $0 |
 | **Festival Fringe shows** (£12/pax × 3 shows × 7) | OPTION si à Edinburgh pendant Fringe | $0 (OFF) | **$0** | $432 | $0 |
 | **Glenkinchie Distillery** (£18/pax × 7) | Day trip option J13 alt | $0 (OFF) | $0 | $216 | $0 |
-| **SOUS-TOTAL ACTIVITÉS** | | **$358** | **$1 354** | **$3 337** | **$193** |
+| **SOUS-TOTAL ACTIVITÉS** | | **$358** | **$1 354** | **$2 567** | **$193** |
 
-**Toggles OFF par défaut RÉAL** (impact PP si activés) : Eilean Donan $21 · Tattoo £40-£110/pax · Glenkinchie $31 · Misty Isle Boat $43.
+**Toggles OFF par défaut RÉAL** (impact PP si activés) : Eilean Donan $21 · Glenkinchie $31 · Misty Isle Boat $43.
 
 ### 🍽️ Nourriture (cuisine au camp/Airbnb 60 % ; pubs/restos 40 % en Edinburgh)
 
@@ -656,27 +647,27 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 
 | Catégorie | MIN TTL | RÉAL TTL | PESSIM TTL |
 |---|---|---|---|
-| Transport | $7 349 | $9 005 | $12 018 |
+| Transport | $9 487 | $10 443 | $11 496 |
 | Hébergement | $1 600 | $2 145 | $3 090 |
-| Activités & Châteaux | $358 | $1 354 | $3 337 |
+| Activités & Châteaux | $358 | $1 354 | $2 567 |
 | Nourriture | $3 603 | $5 237 | $7 358 |
 | Équipement | $190 | $348 | $448 |
-| **Sous-total brut** | **$13 100** | **$18 089** | **$26 251** |
-| **Marge imprévus** (5 % MIN / 7 % RÉAL / 10 % PESSIM) | $655 | $1 266 | $2 625 |
-| **TOTAL GROUPE (avec marge)** | **$13 755** | **$19 355** | **$28 876** |
-| **TOTAL PAR PERSONNE** | **🎯 $1 965** | **✅ $2 765** | **❌ $4 125** |
-| **vs cible <$2 800/pax** | **✅ marge $835** | **✅ marge $35** | **❌ +$1 325** |
+| **Sous-total brut** | **$15 238** | **$19 527** | **$24 959** |
+| **Marge imprévus** (5 % MIN / 7 % RÉAL / 10 % PESSIM) | $762 | $1 367 | $2 496 |
+| **TOTAL GROUPE (avec marge)** | **$16 000** | **$20 894** | **$27 455** |
+| **TOTAL PAR PERSONNE** | **🎯 $2 286** | **⚠️ $2 985** | **❌ $3 922** |
+| **vs cible <$2 800/pax** | **✅ marge $514** | **❌ +$185** | **❌ +$1 122** |
 
-**🎯 État du modèle** :
-- **MIN** ✅ : sous le budget de $835/pax — atteignable avec **vols early-booking + Airbnb Edinburgh plafond bas + 0 châteaux payants sauf Edinburgh + 0 distillerie tour + cuisine groupe stricte**.
-- **RÉALISTE** ✅ : **$35/pax sous la cible**, plus serré que Canada (Édimbourg 4 nuits + pub crawls fait monter Nourriture).
-- **PESSIM** ❌ : +$1 325/pax — scénario à éviter (vols last-minute, Airbnb premium, Tattoo + Fringe ON, restos premium).
+**🎯 État du modèle (révisé post-vols réservés)** :
+- **MIN** ✅ : sous le budget de $514/pax — atteignable avec **Airbnb Edinburgh plafond bas + 0 châteaux payants sauf Edinburgh + 0 distillerie tour + cuisine groupe stricte**. Le levier "vols early-booking" n'existe plus (vols réservés à $1 055).
+- **RÉALISTE** ⚠️ : **+$185/pax au-dessus de la cible** suite au vol Air Canada confirmé à $1 055/pax (vs $850 budgété). Pour revenir sous $2 800 : **rebascule cible à $3 000/pax** OU **appliquer 2-3 leviers MIN** (skip Talisker tour −$34 + skip Mary King's Close −$34 + Dishoom au lieu de Witchery −$51 = −$119/pax → $2 866).
+- **PESSIM** ❌ : +$1 122/pax — Airbnb premium + restos premium.
 
 ### 🔧 Leviers pour passer du RÉALISTE au MIN (économies vs RÉALISTE)
 
 | Décision | Économie groupe | Économie PP |
 |---|---|---|
-| **Vols Icelandair early-booking** ($750/pax MIN vs $850 RÉAL) | −$700 | −$100 |
+| ~~Vols early-booking~~ — vols Air Canada déjà réservés à $1 055/pax (RÉEL = MIN = PESSIM) | $0 | $0 |
 | **LDW couvert par Visa Infinite** | −$385 | −$55 |
 | **Conducteur additionnel gratuit négocié** | −$240 | −$34 |
 | **Airbnb Edinburgh plafond $400 vs $500** (4 nuits) | −$400 | −$57 |
@@ -706,7 +697,7 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 
 ### ⚠️ Risques budgétaires à surveiller
 
-- **Vols Icelandair haute saison** : $850 RÉAL peut devenir $1 050 PESSIM = +$1 400. **Booker avant fin mai 2026**.
+- ✅ **Vols Air Canada réservés** à $1 055,41/pax — risque vols neutralisé. Total $7 388 groupe (au niveau scénario PESSIM original).
 - **Airbnb Edinburgh août = Festival Fringe** : prix gonflent ×1,5-2 vs hors-saison. **Booker MAINTENANT** pour plafond $500.
 - **Airbnb sans parking** : +$200 stationnement Edinburgh.
 - **Auto vs manuel** : si 2 chauffeurs pas à l'aise manuel = +$1 000-1 500 location auto.
@@ -717,7 +708,6 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 ### 📈 Plan d'action selon évolution
 
 **Si on tombe vers le scénario MIN** (vols pas chers + LDW couvert + Airbnb plafond bas) :
-- Ajouter **Edinburgh Tattoo** ($770 = $110/pax) — **expérience trip-of-a-lifetime**.
 - Ajouter **Talisker Distillery tour** ($240) + **Stirling Castle** ($216) + **Mary King's Close** ($240).
 - Upgrade **souper Tom Kitchin** ($1 080) au lieu de Dishoom.
 
@@ -734,12 +724,11 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 **❓ QUESTIONS À FINE-TUNER LE PLAN**
 
 ### À AGIR cette semaine (critique)
-0. **Vols Icelandair YUL ↔ EDI via KEF** — booker dès maintenant via Skyscanner/Google Flights. Cible $800/pax. Au-dessus de $900 → bascule AC LHR + train.
+0. ✅ **Vols Air Canada direct YUL ↔ EDI RÉSERVÉS** — $1 055,41/pax (Economy Standard, 1 bag soute). Aller 26 juil 20:30 YUL → 27 juil 07:40 EDI (6 h 10) ; retour 8 août 09:15 EDI → 11:10 YUL (6 h 55).
 1. **2 voitures à $650 unlimited miles** — confirmer disponibilité MAINTENANT (booker 3 mois avant). Confirmer **2 chauffeurs UK-manual compétents**. **Inclure 2e conducteur** (gratuit ou £5/jour).
 2. **Airbnb Edinburgh 4 nuits (J2 + J11-J13)** — **booker IMMÉDIATEMENT**, plafond $500/nuit pour 7 pax. Quartiers : **Stockbridge / Old Town / Newington / Bruntsfield**. **Idéalement même Airbnb pour les deux blocs** (négocier hold sur les 8 nuits Highlands au milieu, ou rebook même unité). **CRITICAL** : Edinburgh août = Festival Fringe = prix triplent sans booking 6+ mois avant. **Filtrer "free parking on premises"** = économie £200.
-3. **Edinburgh Tattoo dispo dates 27 juil OU 5-7 août** — vérifier programme decembre 2025. Si dispo et budget MIN tient → BOOKER ($110/pax = $770 groupe).
-4. **Festival Fringe billets** — programme online en mai 2026, booker 2-3 shows.
-5. **Castle Tioram marées** — vérifier marées Loch Moidart pour J5 PM. Si haute marée = château photo depuis rive ; basse = traversée isthme à pied.
+3. **Festival Fringe billets** — programme online en mai 2026, booker 2-3 shows.
+4. **Castle Tioram marées** — vérifier marées Loch Moidart pour J5 PM. Si haute marée = château photo depuis rive ; basse = traversée isthme à pied.
 
 ### À décider sur le contenu
 6. **Stirling Castle visite OUI/NON ?** — recommandé > Edinburgh selon locaux, mais $250 groupe + 2 h. **Pick : OUI si timing tient J3** (lunch sur place), sinon photo extérieure + lunch ville.
