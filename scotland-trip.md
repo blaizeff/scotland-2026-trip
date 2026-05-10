@@ -2,7 +2,7 @@
 
 **🏴󠁧󠁢󠁳󠁣󠁴󠁿 ROAD TRIP HIGHLANDS ÉCOSSAIS 2026 — TRIP D'UNE VIE : DOSSIER MAÎTRE**
 
-**Concept** : 14 jours conçus comme un **trip d'une vie** — paysages les plus dramatiques et dépaysants du Royaume-Uni, **wild camping légal** (Land Reform Act 2003) dans les spots les plus iconiques de la planète, **châteaux clés** sur la route, finale **Edinburgh 3-4 jours pub crawl + exploration urbaine**.
+**Concept** : 14 jours conçus comme un **trip d'une vie** — paysages les plus dramatiques et dépaysants du Royaume-Uni, **wild camping légal** (Land Reform Act 2003) dans les spots les plus iconiques de la planète, **châteaux clés** sur la route. **Edinburgh encadre le voyage** : 1 nuit jet-lag-friendly à l'arrivée (J2, pub crawl Old Town) + finale 3 nuits (J11-J13) pub crawl + exploration urbaine.
 
 ## **📋 PARAMÈTRES DE BASE**
 
@@ -12,7 +12,7 @@
   - **MIN $2 098/pax** ✅ (marge $702) — vols early-booking + wild camping max + cuisine groupe stricte + Edinburgh Airbnb plafond bas.
   - **RÉALISTE $2 487/pax** ✅ (marge $313) — confortable sous la cible.
   - **PESSIMISTE $3 245/pax** ❌ (+$445) — vols last-minute + Airbnb Edinburgh haut de gamme + restos pubs réguliers.
-* **Style de voyage :** Expédition "**Wild-Camp-Cinematic**". **Phase 1 (J2-10)** : wild camping dans les paysages les plus dramatiques d'Écosse + visites de châteaux iconiques + randonnées Munros signature. **Phase 2 (J10-14)** : 4 nuits Airbnb Edinburgh, exploration urbaine + pub crawl historique + day trips optionnels.
+* **Style de voyage :** Expédition "**Wild-Camp-Cinematic**". **Edinburgh kickoff (J2)** : 1 nuit Airbnb + pub crawl Old Town. **Phase wild camping (J3-J10)** : wild camping dans les paysages les plus dramatiques d'Écosse + châteaux iconiques + randonnées Munros signature. **Finale Edinburgh (J11-J14)** : 3 nuits Airbnb Edinburgh, exploration urbaine + pub crawls + day trips optionnels.
 * **Pass / permits :** **Aucun pass requis** pour les Highlands (parcs nationaux gratuits, accès libre selon Scottish Outdoor Access Code). Châteaux Historic Environment Scotland — option **Explorer Pass** ($73/pax pour 5 jours = $511 groupe — économise si on visite 4+ châteaux ; sinon billets individuels).
 * **Conduite à gauche** : **2 chauffeurs principaux compétents en boîte manuelle UK** obligatoires (la base = manuel, auto +30 % à la location).
 
@@ -58,8 +58,8 @@
 
 1. **Vols Icelandair YUL ↔ EDI via KEF** — booker dès maintenant via Skyscanner. Cible $800/pax. Au-dessus de $900 → bascule AC LHR + train.
 2. **2 voitures Edinburgh Airport** — booker via Discover Cars / Rentalcars 3-4 mois avant. Confirmer **manuel + unlimited miles + 25+ ans + 2e conducteur**.
-3. **Airbnb Edinburgh — 4 nuits (J10-J14)** — **plafond $450/nuit** pour 7 pax dans une maison/grand appart. Quartiers : **Stockbridge, Old Town/Newington, Bruntsfield**. Booker MAINTENANT (Edinburgh août = Festival Fringe = capitale culturelle mondiale, prix gonflés sans booking 6+ mois avant).
-4. **Edinburgh Tattoo (option, 31 juil → 23 août 2026)** — billets ~£40/pax = $480 groupe. **Vérifier dispo dates J10-13** : si une soirée tombe pendant notre séjour Edinburgh (5-7 août), c'est l'expérience iconique. Booking ouvert décembre 2025.
+3. **Airbnb Edinburgh — 4 nuits (J2 + J11-J13)** — **plafond $450/nuit** pour 7 pax dans une maison/grand appart. Quartiers : **Stockbridge, Old Town/Newington, Bruntsfield**. **Idéalement même Airbnb** pour les 4 nuits avec gap 8 nuits Highlands au milieu (négocier hold ou rebook). Booker MAINTENANT (Edinburgh août = Festival Fringe = capitale culturelle mondiale, prix gonflés sans booking 6+ mois avant).
+4. **Edinburgh Tattoo (option, 31 juil → 23 août 2026)** — billets ~£40/pax = $480 groupe. **Vérifier dispo dates 27 juil OU 5-7 août** : si une soirée tombe pendant notre séjour Edinburgh, c'est l'expérience iconique. Booking ouvert décembre 2025.
 5. **Misty Isle Boat Trips Elgol → Loch Coruisk** (option, J6 si on veut accéder Coruisk sans trek) — £25/pax × 7 = £175. Réserver 1-2 mois avant.
 6. **Sandwood Bay parking Blairmore** — **gratuit, FCFS**. Pas de réservation, mais arriver tôt (8h-10h) pour place dans le petit parking (~30 véh). Si plein, marche extra 1 km depuis Sheigra.
 
@@ -113,21 +113,21 @@ Le voyage est conçu comme une **progression géographique vers les paysages les
 | Jour | Date | Activité prévue | Effort |
 |---|---|---|---|
 | 1 | 26 juil (overnight) | YUL → EDI via KEF | Logistique vol |
-| 2 | 27 juil | Arrivée EDI → Stirling Castle drive-by → wild camp Glen Etive | Doux drive |
-| 3 | 28 juil | **Glen Etive + Buachaille Etive Mòr / Lost Valley (Glencoe)** | Hard (Buachaille) ou Mod (Lost Valley) |
-| 4 | 29 juil | Glencoe → Glenfinnan + **Castle Tioram** → ferry/bridge Skye → wild camp Sligachan | Doux + drive |
-| 5 | 30 juil | **Skye Day 1 : Old Man of Storr + Quiraing** → wild camp Quiraing area | Modéré × 2 (4 km + 7 km) |
-| 6 | 31 juil | **Skye Day 2 : Fairy Pools + Neist Point sunset** → wild camp côte ouest Skye | Doux × 2 |
-| 7 | 1 août | Skye → **Eilean Donan Castle** → **Torridon (Beinn Eighe / Liathach)** → wild camp | Modéré (8 km) |
-| 8 | 2 août | Torridon → **Stac Pollaidh (Assynt)** → wild camp Achmelvich Beach | Modéré (4 km, 600 m+) |
-| 9 | 3 août | **🏆 Sandwood Bay (Cape Wrath)** hike-in → wild camp plage | Doux 7 km AR + nuit plage |
-| 10 | 4 août | Drive sud via NC500 → **Dunnottar Castle (Stonehaven)** → Edinburgh | Long drive scenic |
-| 11 | 5 août | **Edinburgh Day 1** : Old Town + Royal Mile + château + pub crawl | Urbain + pints |
-| 12 | 6 août | **Edinburgh Day 2** : Arthur's Seat AM + New Town + Stockbridge + pubs | Doux (4 km) + urbain |
-| 13 | 7 août | **Edinburgh Day 3** : day trip Rosslyn Chapel + Forth Bridges OU exploration libre + final pub night | Urbain |
+| 2 | 27 juil | **Arrivée EDI → Edinburgh Day 1** : check-in Airbnb + Old Town + Royal Mile + pub crawl | Urbain + pints (jet lag) |
+| 3 | 28 juil | Edinburgh AM → Stirling Castle drive-by → wild camp Glen Etive | Doux drive |
+| 4 | 29 juil | **Glen Etive + Buachaille Etive Mòr / Lost Valley (Glencoe)** | Hard (Buachaille) ou Mod (Lost Valley) |
+| 5 | 30 juil | Glencoe → Glenfinnan + **Castle Tioram** → ferry/bridge Skye → wild camp Sligachan | Doux + drive |
+| 6 | 31 juil | **Skye Day 1 : Old Man of Storr + Quiraing** → wild camp Quiraing area | Modéré × 2 (4 km + 7 km) |
+| 7 | 1 août | **Skye Day 2 : Fairy Pools + Neist Point sunset** → wild camp côte ouest Skye | Doux × 2 |
+| 8 | 2 août | Skye → **Eilean Donan Castle** → **Torridon (Beinn Eighe / Liathach)** → wild camp | Modéré (8 km) |
+| 9 | 3 août | Torridon → **Stac Pollaidh (Assynt)** → wild camp Achmelvich Beach | Modéré (4 km, 600 m+) |
+| 10 | 4 août | **🏆 Sandwood Bay (Cape Wrath)** hike-in → wild camp plage | Doux 7 km AR + nuit plage |
+| 11 | 5 août | Drive sud via NC500 → **Dunnottar Castle (Stonehaven)** → Edinburgh | Long drive scenic |
+| 12 | 6 août | **Edinburgh Day 2** : Arthur's Seat AM + New Town + Stockbridge + pubs alternatifs | Doux (4 km) + urbain |
+| 13 | 7 août | **Edinburgh Day 3** : exploration libre / Mary King's Close / Whisky Experience + final pub night | Urbain |
 | 14 | 8 août | Edinburgh matin → vol EDI PM | Logistique légère |
 
-**Le gain de la cadence** : on **finit par la civilisation** (Edinburgh 4 nuits = vraie décompression, vrai pub crawl, vraie expérience culturelle), après avoir **atteint le bout du monde britannique** (Sandwood Bay J9). Le contraste **Cape Wrath → Royal Mile** = le punch final du voyage.
+**Le gain de la cadence** : Edinburgh **encadre** le voyage — 1 nuit jet-lag-friendly à l'arrivée (J2) + 3 nuits finale (J11-J13) = 4 nuits Edinburgh totales. Le **Sandwood Bay J10** reste l'apogée sauvage, suivi du contraste **Cape Wrath → Royal Mile** comme punch final.
 
 ## ---
 
@@ -192,19 +192,19 @@ Le voyage est conçu comme une **progression géographique vers les paysages les
 
 **Pick** : **Sandwood Bay** est l'expérience phare du voyage — plus iconique que la plus iconique des Skye gems.
 
-### 🏔️ Cairngorms — Jour 10 (drive day, pas de big hike obligatoire)
+### 🏔️ Cairngorms — Jour 11 (drive day, pas de big hike obligatoire)
 
 | Sentier | km | D+ | Note | Diff. | Pourquoi | Lien |
 |---|---|---|---|---|---|---|
 | **Loch an Eilein Loop** ⭐⭐⭐ | 6.5 | 50 m | 4.8★ | Easy | **Boucle parfaite drive day**. Forêt de pins calédoniens (relique de la grande forêt écossaise), château en ruines sur île au milieu du loch, faune (écureuils roux). | [AllTrails](https://www.alltrails.com/trail/scotland/highland/loch-an-eilein-trail) |
 
-### 🏰 Edinburgh — Jours 11-13 (urbain + colline)
+### 🏰 Edinburgh — Jours 2 + 12-13 (urbain + colline)
 
 | Sentier | km | D+ | Note | Diff. | Pourquoi | Lien |
 |---|---|---|---|---|---|---|
 | **🏆 Arthur's Seat via Salisbury Crags Loop** ⭐⭐⭐ | 4.0 | 250 m | 4.7★ | Easy-Mod | Volcan éteint en plein cœur d'Edinburgh, vue 360° sur la ville + Firth of Forth + château. **Idéal coucher de soleil J12**. | [AllTrails](https://www.alltrails.com/trail/scotland/edinburgh/arthurs-seat-via-salisbury-crags) |
 | **Calton Hill Loop** ⭐⭐ | 1.5 | 80 m | 4.6★ | Easy | Mini-colline urbaine, monuments néoclassiques, **second-best sunset Edinburgh**. | [AllTrails](https://www.alltrails.com/trail/scotland/edinburgh/calton-hill) |
-| **Water of Leith Walkway** ⭐⭐ | 5-7 (segment) | 50 m | 4.5★ | Easy | Sentier fluvial Stockbridge → Dean Village → Modern Art Gallery. Boutiques Stockbridge marché du dimanche. | [AllTrails](https://www.alltrails.com/trail/scotland/edinburgh/water-of-leith-walkway) |
+| **Water of Leith Walkway** ⭐⭐ | 5-7 (segment) | 50 m | 4.5★ | Easy | Sentier fluvial Stockbridge → Dean Village → Modern Art Gallery. | [AllTrails](https://www.alltrails.com/trail/scotland/edinburgh/water-of-leith-walkway) |
 
 ## ---
 
@@ -214,14 +214,14 @@ Le voyage est conçu comme une **progression géographique vers les paysages les
 
 | Lieu | Quand | Style | Coût | Recommandation |
 |---|---|---|---|---|
-| **Stirling Castle** | Jour 2 PM (drive-by ou visite) | Citadelle royale médiévale, mieux préservé que Edinburgh selon beaucoup | £18/pax = $250 groupe | **Visite recommandée** si timing tient (1,5-2 h) — capitale historique de l'Écosse, salle du trône Stuart restaurée. Sinon photo + lunch ville Old Town. |
-| **Kilchurn Castle** (Loch Awe) | Jour 2 ou 3 (détour 30 min) | Ruine 1450 sur péninsule du Loch Awe — 1 des photos les plus iconiques d'Écosse | Gratuit (extérieur) | **Détour photo OBLIGATOIRE** si on passe par Glen Coe via A85. Boucle 1 km court. |
-| **Castle Tioram** (Acharacle, Loch Moidart) | Jour 4 PM (détour 1 h) | **Ruine sur petite île de marée** — accessible à pied à marée basse seulement. Atmosphère pure Game of Thrones. | Gratuit | **Détour OBLIGATOIRE** — gem peu fréquentée, 13e siècle, abandonné depuis 1715. **Vérifier marées** (paire haute/basse). |
-| **Eilean Donan Castle** | Jour 7 AM | **LE château le plus photographié du monde** — sur islet de marée, pont en pierre, fond Highlands. | £12/pax = $145 groupe | **Photo extérieure suffit** ($0). Visite intérieure si pluie ou vrai intérêt historique. Entrée par le pont = expérience iconique en soi. |
-| **Urquhart Castle** (Loch Ness) | Option Jour 10 (+1 h détour) | Ruine sur Loch Ness, vue baie + monstre theory | £14/pax = $168 groupe | **Skip recommandé** — détour ajoute 1 h, château très commercial, photo Loch Ness sans château aussi belle. |
-| **🏆 Dunnottar Castle** (Stonehaven) | Jour 10 PM | **Ruine sur péninsule rocheuse au-dessus de la mer du Nord** — la plus dramatique du Royaume-Uni. Battu par les vagues, falaises 50 m. | £9/pax = $108 groupe | **Visite OBLIGATOIRE** — 1 h sur place, walk autour des ruines. **Le climax château du voyage**, en route Highlands → Edinburgh. |
-| **Edinburgh Castle** | Jour 11 | Forteresse au sommet de la colline volcanique au cœur d'Edinburgh | £21/pax = $250 groupe | **Visite recommandée** (2-3 h) — Honors of Scotland (joyaux), Stone of Destiny, vue 360°. Booker en ligne pour skip queue. |
-| **Holyrood Palace** | Jour 11 (option) | Palais royal officiel d'Écosse, fin Royal Mile | £18/pax = $216 groupe | **Skip** — extérieur + Holyrood Park (Arthur's Seat) gratuits suffisent. Si historien royal : OK. |
+| **Stirling Castle** | Jour 3 AM (drive-by ou visite) | Citadelle royale médiévale, mieux préservé que Edinburgh selon beaucoup | £18/pax = $250 groupe | **Visite recommandée** si timing tient (1,5-2 h) — capitale historique de l'Écosse, salle du trône Stuart restaurée. Sinon photo + lunch ville Old Town. |
+| **Kilchurn Castle** (Loch Awe) | Jour 3 (détour 30 min) | Ruine 1450 sur péninsule du Loch Awe — 1 des photos les plus iconiques d'Écosse | Gratuit (extérieur) | **Détour photo OBLIGATOIRE** si on passe par Glen Coe via A85. Boucle 1 km court. |
+| **Castle Tioram** (Acharacle, Loch Moidart) | Jour 5 PM (détour 1 h) | **Ruine sur petite île de marée** — accessible à pied à marée basse seulement. Atmosphère pure Game of Thrones. | Gratuit | **Détour OBLIGATOIRE** — gem peu fréquentée, 13e siècle, abandonné depuis 1715. **Vérifier marées** (paire haute/basse). |
+| **Eilean Donan Castle** | Jour 8 AM | **LE château le plus photographié du monde** — sur islet de marée, pont en pierre, fond Highlands. | £12/pax = $145 groupe | **Photo extérieure suffit** ($0). Visite intérieure si pluie ou vrai intérêt historique. Entrée par le pont = expérience iconique en soi. |
+| **Urquhart Castle** (Loch Ness) | Option Jour 11 (+1 h détour) | Ruine sur Loch Ness, vue baie + monstre theory | £14/pax = $168 groupe | **Skip recommandé** — détour ajoute 1 h, château très commercial, photo Loch Ness sans château aussi belle. |
+| **🏆 Dunnottar Castle** (Stonehaven) | Jour 11 PM | **Ruine sur péninsule rocheuse au-dessus de la mer du Nord** — la plus dramatique du Royaume-Uni. Battu par les vagues, falaises 50 m. | £9/pax = $108 groupe | **Visite OBLIGATOIRE** — 1 h sur place, walk autour des ruines. **Le climax château du voyage**, en route Highlands → Edinburgh. |
+| **Edinburgh Castle** | Jour 2 PM | Forteresse au sommet de la colline volcanique au cœur d'Edinburgh | £21/pax = $250 groupe | **Visite recommandée** (2-3 h) — Honors of Scotland (joyaux), Stone of Destiny, vue 360°. Booker en ligne pour skip queue. |
+| **Holyrood Palace** | Jour 2 ou 13 (option) | Palais royal officiel d'Écosse, fin Royal Mile | £18/pax = $216 groupe | **Skip** — extérieur + Holyrood Park (Arthur's Seat) gratuits suffisent. Si historien royal : OK. |
 | **Rosslyn Chapel** | Jour 13 (day trip) | Chapelle 15e siècle célèbre par Da Vinci Code, sculptures intriquées | £12/pax = $145 groupe | **Optionnel** — 30 min drive south Edinburgh, 1-2 h visite. Curiosité intéressante. |
 
 **Recommandation parcours châteaux** : **Stirling + Kilchurn (drive-by) + Castle Tioram + Eilean Donan (extérieur) + Dunnottar + Edinburgh** = **2 visites payantes** ($250 + $108 = $358 = $51/pax) + 4 photos extérieures gratuites = mix optimal qualité/coût.
@@ -234,32 +234,32 @@ Le voyage est conçu comme une **progression géographique vers les paysages les
 
 | Lieu | Quand | Quoi faire |
 |---|---|---|
-| **Stirling** | Jour 2 lunch | Château + vieille ville médiévale + Old Town Jail. **Drive-by ou visite 2 h selon timing**. |
-| **Glencoe village** | Jour 3 PM | Glencoe Folk Museum (£4), **Clachaig Inn** pub mythique des grimpeurs ("No Hawkers, No Campbells" sign), 400+ whiskies. |
-| **Ballachulish** | Jour 3 (option) | Ancien village ardoise, slate quarry hike. |
-| **Mallaig** | Jour 4 lunch | Port pêcheur, **Fishmarket Restaurant** fish & chips iconique. Terminal ferry CalMac. |
-| **Acharacle** (près Castle Tioram) | Jour 4 (détour) | Tout petit village, accès Castle Tioram + plage Kentra Bay. |
-| **Portree (Skye)** | Jour 5-6 | Maisons colorées du port, **Scorrybreac Restaurant**, Café Sia. **Skye Brewery** + **Talisker Distillery** Carbost (15 min). |
-| **Plockton** (option Day 7 lunch) | Jour 7 | Village paradisiaque (palmiers !), Plockton Inn pub, balade côtière. Détour 30 min sur route Eilean Donan → Torridon. |
-| **Torridon village** | Jour 7 PM | Tout petit hameau au pied des Munros sandstone. Torridon Inn (pub fin du monde). |
-| **Ullapool** | Jour 8 lunch | Port pêcheur de l'ouest, terminal ferry Outer Hebrides, **Seafood Shack** (street food poisson £14/pax). |
-| **Lochinver (Assynt)** | Jour 8 PM | Capitale Assynt, **Lochinver Larder** pies réputées (£10), galeries d'artistes locaux. |
-| **Durness / Sango Bay** | Jour 9 PM (en route nord) | Plage spectaculaire + Smoo Cave (grotte de mer + chute intérieure) + Cocoa Mountain (chocolatier improbable au bout du monde). |
-| **Kinlochbervie / Blairmore** | Jour 9 | Trailhead Sandwood Bay, dernier hameau avant la plage. |
-| **Lairg** | Jour 10 lunch | Carrefour Sutherland, station essence importante, café. |
-| **Aviemore (Cairngorms)** | Jour 10 PM | Village montagne, **Cairngorm Brewery** tour gratuit, Old Bridge Inn (steaks locaux). |
-| **Stonehaven** | Jour 10 PM | Port pêcheur, Dunnottar Castle, **The Marine Hotel** fish & chips. |
-| **Edinburgh Old Town** | Jour 11 | Royal Mile, château, Greyfriars Kirkyard (origine Tom Riddle de Harry Potter), Grassmarket, **The Last Drop** pub. |
-| **Edinburgh New Town** | Jour 12 | Princes Street Gardens, National Gallery (gratuit), Stockbridge marché du dimanche, Dean Village. |
+| **Stirling** | Jour 3 lunch | Château + vieille ville médiévale + Old Town Jail. **Drive-by ou visite 2 h selon timing**. |
+| **Glencoe village** | Jour 4 PM | Glencoe Folk Museum (£4), **Clachaig Inn** pub mythique des grimpeurs ("No Hawkers, No Campbells" sign), 400+ whiskies. |
+| **Ballachulish** | Jour 4 (option) | Ancien village ardoise, slate quarry hike. |
+| **Mallaig** | Jour 5 lunch | Port pêcheur, **Fishmarket Restaurant** fish & chips iconique. Terminal ferry CalMac. |
+| **Acharacle** (près Castle Tioram) | Jour 5 (détour) | Tout petit village, accès Castle Tioram + plage Kentra Bay. |
+| **Portree (Skye)** | Jour 6-7 | Maisons colorées du port, **Scorrybreac Restaurant**, Café Sia. **Skye Brewery** + **Talisker Distillery** Carbost (15 min). |
+| **Plockton** (option Day 8 lunch) | Jour 8 | Village paradisiaque (palmiers !), Plockton Inn pub, balade côtière. Détour 30 min sur route Eilean Donan → Torridon. |
+| **Torridon village** | Jour 8 PM | Tout petit hameau au pied des Munros sandstone. Torridon Inn (pub fin du monde). |
+| **Ullapool** | Jour 9 lunch | Port pêcheur de l'ouest, terminal ferry Outer Hebrides, **Seafood Shack** (street food poisson £14/pax). |
+| **Lochinver (Assynt)** | Jour 9 PM | Capitale Assynt, **Lochinver Larder** pies réputées (£10), galeries d'artistes locaux. |
+| **Durness / Sango Bay** | Jour 10 PM (en route nord) | Plage spectaculaire + Smoo Cave (grotte de mer + chute intérieure) + Cocoa Mountain (chocolatier improbable au bout du monde). |
+| **Kinlochbervie / Blairmore** | Jour 10 | Trailhead Sandwood Bay, dernier hameau avant la plage. |
+| **Lairg** | Jour 11 lunch | Carrefour Sutherland, station essence importante, café. |
+| **Aviemore (Cairngorms)** | Jour 11 PM | Village montagne, **Cairngorm Brewery** tour gratuit, Old Bridge Inn (steaks locaux). |
+| **Stonehaven** | Jour 11 PM | Port pêcheur, Dunnottar Castle, **The Marine Hotel** fish & chips. |
+| **Edinburgh Old Town** | Jour 2 | Royal Mile, château, Greyfriars Kirkyard (origine Tom Riddle de Harry Potter), Grassmarket, **The Last Drop** pub. |
+| **Edinburgh New Town** | Jour 12 | Princes Street Gardens, National Gallery (gratuit), Stockbridge, Dean Village. |
 | **Edinburgh Leith** | Jour 13 (option) | Ancien port d'Edinburgh, gentrifié, **The Shore** restaurants (Michelin-starred Fishers ou Tom Kitchin). |
 
 ## ---
 
-**🍺 EDINBURGH — PUB CRAWL & EXPLORATION (J11-J13)**
+**🍺 EDINBURGH — PUB CRAWL & EXPLORATION (J2 + J11-J13)**
 
-C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins d'exploration. Edinburgh fin juillet/début août = **pré-Festival Fringe** (commence 1er août) = ville en pleine ébullition culturelle.
+Edinburgh **encadre** le voyage — 1 nuit arrivée (J2) + 3 nuits finales (J11-J13) = 4 nuits Airbnb total. Edinburgh fin juillet (J2 = 27 juil) = **pré-Festival Fringe** ; début août (J11-13 = 5-7 août) = **Fringe en cours**.
 
-### 🍺 Pub crawl historique itinéraire (J11 soir)
+### 🍺 Pub crawl historique itinéraire (J2 soir, à l'arrivée)
 
 **Boucle Old Town classique, ~6 pubs, 3-4 h, distance 2 km** :
 
@@ -289,7 +289,7 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
 
 ### 🎭 Edinburgh Festival Fringe (commence 1er août 2026 — partiel pendant notre séjour)
 
-**Si on est à Edinburgh J11-13 = 5-7 août**, le **Fringe Festival sera EN COURS** (1-25 août). C'est le **plus gros festival des arts performants du monde** : 3 000+ shows/jour, comédiens stand-up, théâtre, musique. **La majorité des shows £8-15/billet, certains gratuits "Free Fringe"**.
+**J2 = 27 juil = avant Fringe** (préparatifs visibles, pubs déjà en mode buzz). **J11-13 = 5-7 août = Fringe EN COURS** (1-25 août). C'est le **plus gros festival des arts performants du monde** : 3 000+ shows/jour, comédiens stand-up, théâtre, musique. **La majorité des shows £8-15/billet, certains gratuits "Free Fringe"**.
 
 - **Programme** : edfringe.com — booking online dès **mai 2026**.
 - **Free Fringe** : ~25 % des shows gratuits avec donation chapeau. **Royal Mile = animation gratuite continuelle 11h-22h**.
@@ -318,25 +318,41 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
 
 **🗺️ ITINÉRAIRE MAÎTRE JOUR PAR JOUR**
 
-### **Phase 1 : Wild camping cinématique progressif (27 juillet au 4 août)**
+### **Phase 1 : Edinburgh kickoff + wild camping cinématique progressif (27 juillet au 4 août)**
 
 * **Jour 1 (26 juil) — Vol overnight YUL → KEF → EDI :** Décollage YUL ~21h45 EDT. Vol 1 (~5 h 30) + escale Reykjavík (~3 h) + vol 2 (~3 h). Arrivée EDI matin du 27 juillet (BST). Le "Jour 1 réel" sur le terrain est **le 27 juillet**.
 
-* **Jour 2 (27 juil) — Arrivée → Stirling → Glencoe → wild camp Glen Etive :** Journée logistique + transit dramatique vers le cœur des Highlands.
+* **Jour 2 (27 juil) — Arrivée EDI → Edinburgh Day 1 (Old Town + Royal Mile + pub crawl) :** Journée logistique douce + immersion immédiate dans la capitale.
   - **08h00-09h30** : atterrissage EDI, immigration UK (~30-45 min), bagages, shuttle comptoirs voitures.
-  - **09h30-11h00** : prise en charge des **2 voitures** (~1 h 30 pour 2 véh + 7 pax + paperasse manuel/auto). **⚠️ Adaptation conduite à gauche** — 30 min minimum pour s'habituer. Sortir EDI = M9 vers Stirling (autoroute, plus simple).
-  - **11h00-12h00** : drive EDI → Stirling (1 h via M9).
-  - **12h00-14h30** : **Stirling Castle visite** (£18/pax, 2 h sur place + 30 min repas) — capitale historique, mieux préservé qu'Edinburgh, salle du trône Stuart. Lunch **Darnley Coffee House** ou **The Portcullis** pub Old Town.
-  - **14h30-15h00** : drive Stirling → A85 vers Glen Coe.
-  - **15h00-15h30** : **détour Kilchurn Castle** (Loch Awe, A85) — ruine 1450 sur péninsule, photo iconique 30 min sur place. **Gratuit**.
-  - **15h30-17h30** : drive Loch Awe → Glencoe (2 h via A85 + A82, traversée **Rannoch Moor** — paysage désertique iconique).
-  - **17h30-18h30** : arrêt **Three Sisters viewpoint** (parking A82 Glencoe) — 30 min photos + courte marche.
-  - **18h30-19h30** : drive Glencoe → **Glen Etive** (single-track 24 km, ~30 min) — entrée valley.
-  - **19h30-21h00** : repérage **wild camp spot Glen Etive** — bord de River Etive, sites informels en clearings près du sentier. **Plusieurs spots populaires** : River Etive Bridge area (4 km), Robbers' Waterfall (12 km), end of road (24 km, le plus reculé).
-  - **21h00-22h00** : montage camp + souper réchaud + bières locales.
-  - *Nuit 1 : **🏆 Wild camp Glen Etive** — Skyfall location, sons de la rivière, montagnes des deux côtés. Coucher du soleil ~21h25, ciel étoilé.*
+  - **09h30-11h00** : prise en charge des **2 voitures** (~1 h 30 pour 2 véh + 7 pax + paperasse manuel/auto). **⚠️ Adaptation conduite à gauche** — 30 min minimum pour s'habituer. Sortie EDI → centre Edinburgh (25 min via A8).
+  - **11h00-12h00** : check-in **Airbnb Edinburgh** (négocier early check-in, ou laisser bagages dans les voitures si Airbnb pas dispo avant 15h). Achats anti-midges si timing : **Smidge + head nets** chez Cotswold Outdoor / Tiso (à faire avant départ Highlands J3).
+  - **12h00-13h30** : lunch léger Old Town — **The Outsider** (vue château, £18/pax) ou **Mums Great Comfort Food** (£12/pax).
+  - **13h30-17h00** : **🏆 Royal Mile descente** depuis le château vers Holyrood. Stops : **Edinburgh Castle** (£21/pax = $250 groupe, 2 h visite — booker en ligne pour skip queue, **Honors of Scotland + Stone of Destiny + One O'Clock Gun**), **St Giles' Cathedral** (gratuit), **Mercat Cross**, **The Real Mary King's Close** (tour souterrain, £20/pax = $240 groupe, 1 h, **OPTION fortement recommandée**).
+  - **17h00-19h00** : retour Airbnb, douche, repos jet lag. **Greyfriars Kirkyard** + **Grassmarket** option si forme tient.
+  - **19h00-23h30** : **🍺 PUB CRAWL OLD TOWN** (~6 pubs, 4 h, 2 km marche) :
+    1. **The Devil's Advocate** (start chic, 200 whiskies)
+    2. **The Last Drop** (Grassmarket, pub historique)
+    3. **The Bow Bar** (whiskies single malt + ales)
+    4. **The Jolly Judge** (caché dans close, médiéval)
+    5. **Greyfriars Bobby's Bar** (touristique mais culte)
+    6. **Sandy Bell's** (folk music live, finale)
+  - **00h00** : retour Airbnb à pied ou taxi (~£12/véh).
+  - *Nuit 1 : **Airbnb Edinburgh** (1ère des 4 nuits totales). **Vraie douche, vrai lit avant 8 nuits camping.***
 
-* **Jour 3 (28 juil) — Glen Etive + Buachaille Etive Mòr / Lost Valley + Glencoe village :**
+* **Jour 3 (28 juil) — Edinburgh AM → Stirling → Glencoe → wild camp Glen Etive :** Journée logistique + transit dramatique vers le cœur des Highlands.
+  - **08h00-10h00** : breakfast Airbnb tranquille (gueule de bois post-pub crawl probable) + démontage logistique + check-out.
+  - **10h00-11h00** : drive Edinburgh → Stirling (1 h via M9).
+  - **11h00-13h30** : **Stirling Castle visite** (£18/pax, 2 h sur place + 30 min repas) — capitale historique, mieux préservé qu'Edinburgh, salle du trône Stuart. Lunch **Darnley Coffee House** ou **The Portcullis** pub Old Town.
+  - **13h30-14h00** : drive Stirling → A85 vers Glen Coe.
+  - **14h00-14h30** : **détour Kilchurn Castle** (Loch Awe, A85) — ruine 1450 sur péninsule, photo iconique 30 min sur place. **Gratuit**.
+  - **14h30-16h30** : drive Loch Awe → Glencoe (2 h via A85 + A82, traversée **Rannoch Moor** — paysage désertique iconique).
+  - **16h30-17h30** : arrêt **Three Sisters viewpoint** (parking A82 Glencoe) — 30 min photos + courte marche.
+  - **17h30-18h30** : drive Glencoe → **Glen Etive** (single-track 24 km, ~30 min) — entrée valley.
+  - **18h30-20h30** : repérage **wild camp spot Glen Etive** — bord de River Etive, sites informels en clearings près du sentier. **Plusieurs spots populaires** : River Etive Bridge area (4 km), Robbers' Waterfall (12 km), end of road (24 km, le plus reculé).
+  - **20h30-22h00** : montage camp + souper réchaud + bières locales.
+  - *Nuit 2 : **🏆 Wild camp Glen Etive** — Skyfall location, sons de la rivière, montagnes des deux côtés. Coucher du soleil ~21h25, ciel étoilé.*
+
+* **Jour 4 (29 juil) — Glen Etive + Buachaille Etive Mòr / Lost Valley + Glencoe village :**
   - **07h30** : café au camp + démontage tentes.
   - **08h30-09h00** : drive Glen Etive end → trailhead Buachaille (parking Altnafeadh sur A82).
   - **09h00-15h00** : **🏆 Buachaille Etive Mòr / Stob Dearg** (8 km, 850 m+, 5-6 h) — la grosse Munro signature de Glencoe. Voie normale Coire na Tulaich.
@@ -346,9 +362,9 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
   - **16h00-17h00** : **Glencoe village** : Glencoe Folk Museum (£4, 30 min, optionnel) + drive jusqu'au **Loch Achtriochtan** (5 min de Glencoe village) pour spot Phares + photo Three Sisters.
   - **17h00-19h30** : **Clachaig Inn** — pub mythique des grimpeurs depuis 1830, 400+ whiskies, fameux "No Hawkers, No Campbells" sign (les MacDonald de Glencoe ont été massacrés par les Campbell en 1692). Souper pub £18/pax.
   - **19h30-20h30** : drive vers wild camp suivant — **Loch Etive shore** ou retour Glen Etive end (autre spot que la veille pour éviter même nuit + autres campers).
-  - *Nuit 2 : **Wild camp Glen Etive (2e nuit ailleurs)** ou **Loch Achtriochtan**. Plan-B : **Red Squirrel Campsite** Glencoe (£12/pax) si pluie battante.*
+  - *Nuit 3 : **Wild camp Glen Etive (2e nuit ailleurs)** ou **Loch Achtriochtan**. Plan-B : **Red Squirrel Campsite** Glencoe (£12/pax) si pluie battante.*
 
-* **Jour 4 (29 juil) — Glencoe → Glenfinnan → Castle Tioram → Skye :** Journée scenic drive iconique + château ruiné + traversée Skye.
+* **Jour 5 (30 juil) — Glencoe → Glenfinnan → Castle Tioram → Skye :** Journée scenic drive iconique + château ruiné + traversée Skye.
   - **07h30** : départ camp.
   - **08h00-09h00** : drive Glencoe → Fort William (30 min) + arrêt **Spar/Tesco Fort William** pour ravitaillement (4 jours d'épicerie, gas canisters last-minute).
   - **09h00-09h45** : drive Fort William → **Glenfinnan** (45 min via A830 "Road to the Isles").
@@ -361,9 +377,9 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
   - **17h30-19h00** : Armadale → Sligachan (1 h 30 via A87 single-track + double).
   - **19h00-21h00** : repérage **wild camp Sligachan area** — bord Sligachan Old Bridge, vue Cuillins. Wild camping légal (hors zones touristiques immédiates parking). Plan-B : **Sligachan Campsite** £10/pax officiel.
   - **21h00** : souper réchaud + bières au pub **Sligachan Hotel Bar** (à 50 m).
-  - *Nuit 3 : **🏆 Wild camp Sligachan** — vue Cuillin Black Ridge + Sligachan Old Bridge en arrière-plan. Coucher du soleil 21h25.*
+  - *Nuit 4 : **🏆 Wild camp Sligachan** — vue Cuillin Black Ridge + Sligachan Old Bridge en arrière-plan. Coucher du soleil 21h25.*
 
-* **Jour 5 (30 juil) — Skye Day 1 : Old Man of Storr + Quiraing :**
+* **Jour 6 (31 juil) — Skye Day 1 : Old Man of Storr + Quiraing :**
   - **05h30 lever**, **06h00 départ** Sligachan → Old Man of Storr (25 min).
   - **06h25-09h00** : **🏆 Old Man of Storr Loop** (4 km, 320 m+, 2 h 30 avec photos sommet). **Lever du soleil ~5h30 fin juillet — on rate le pur lever, mais on est seuls avant les bus de 9h.** Boucle complète recommandée.
   - **09h00-09h30** : retour véhicules + breakfast pique-nique au parking.
@@ -375,9 +391,9 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
   - **16h30-18h00** : **Portree exploration** — port + Painted Houses + ravitaillement épicerie Co-op. Café/snack **Birch Café** ou **The Granary**.
   - **18h00-19h30** : souper Portree (**The Lower Deck** fish & chips £14/pax ou **Sea Breezes** seafood £25/pax).
   - **19h30-20h30** : drive vers wild camp **Quiraing area** ou **côte nord Skye** — sites populaires : parking Quiraing au sommet du col (vue plongeante), Loch Hasco area, ou **Brothers' Point parking** (côte est).
-  - *Nuit 4 : **🏆 Wild camp Quiraing area sommet col** — vue lunaire + Trotternish ridge. Possible vent fort (col exposé) — choisir spot abrité.*
+  - *Nuit 5 : **🏆 Wild camp Quiraing area sommet col** — vue lunaire + Trotternish ridge. Possible vent fort (col exposé) — choisir spot abrité.*
 
-* **Jour 6 (31 juil) — Skye Day 2 : Fairy Pools + Neist Point sunset :**
+* **Jour 7 (1 août) — Skye Day 2 : Fairy Pools + Neist Point sunset :**
   - **08h00** : café camp + démontage.
   - **08h30-09h30** : drive Quiraing → **Fairy Pools** (Glen Brittle, 1 h via B884 single-track).
   - **09h30-12h00** : **🏆 Fairy Pools** (4 km, 130 m+, 2 h 30 avec baignade). **Eau glacée 8-10 °C** — courageux only. Vue Cuillin Ridge en arrière-plan.
@@ -388,11 +404,11 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
   - **17h00-18h30** : drive Coral Beaches → **Neist Point** (1 h via B884).
   - **18h30-22h00** : **🏆 Neist Point Lighthouse** (3 km, 100 m+, 1 h 30 marche + 2 h sunset hangout + souper réchaud sur clifftop). **Coucher de soleil ~21h25 fin juillet** = LE spot photo de Skye, falaises basaltiques + phare + Atlantique.
   - **22h00** : montage camp directement sur **clifftop area** ou retour parking Neist Point pour wild camp van-side.
-  - *Nuit 5 : **🏆 Wild camp Neist Point clifftop** — sons des vagues, étoiles, sensation bout du monde. Vent fort possible — tente solide + sardines bien ancrées.*
+  - *Nuit 6 : **🏆 Wild camp Neist Point clifftop** — sons des vagues, étoiles, sensation bout du monde. Vent fort possible — tente solide + sardines bien ancrées.*
 
-### **Phase 2 : Highlands extrêmes (1-3 août)**
+### **Phase 2 : Highlands extrêmes (2-4 août)**
 
-* **Jour 7 (1 août) — Skye → Eilean Donan → Torridon :**
+* **Jour 8 (2 août) — Skye → Eilean Donan → Torridon :**
   - **08h00** : café au camp + démontage.
   - **08h30-10h00** : drive Neist Point → Skye Bridge → **Eilean Donan Castle** (1 h 30 via A87 + Skye Bridge gratuit).
   - **10h00-11h00** : **🏆 Eilean Donan Castle** — photo extérieure depuis le pont (gratuit, 30 min) + traversée du pont en pierre (gratuit). **Visite intérieure £12/pax = $145 groupe = OPTIONNELLE** (1 h, voir le hall + cuisines).
@@ -402,13 +418,13 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
   - **15h00-16h00** : check-in **Torridon Stores & Café** (épicerie last-minute, café). Repérage parking trailhead Beinn Alligin ou Coire Mhic Fhearchair.
   - **16h00-19h30** : **🏆 Coire Mhic Fhearchair (Beinn Eighe Loop)** (16 km, 700 m+, 6-7 h — peut être trop long si départ tardif).
     - **Pick recommandée si départ ≤ 14h** : Coire Mhic Fhearchair (vue spectaculaire coire + Triple Buttress).
-    - **Pick si départ tardif J7** : skip rando du jour, juste **Diabaig Coastal Path** (6 km, 200 m+, 2 h) en début de soirée (coucher du soleil 21h25).
-    - **Plan B** : reporter rando Beinn Alligin / Eighe au matin J8 si arrivée fatigue.
+    - **Pick si départ tardif J8** : skip rando du jour, juste **Diabaig Coastal Path** (6 km, 200 m+, 2 h) en début de soirée (coucher du soleil 21h25).
+    - **Plan B** : reporter rando Beinn Alligin / Eighe au matin J9 si arrivée fatigue.
   - **20h00** : souper **Torridon Inn** (pub fin du monde, £20/pax) ou cuisine camp.
   - **20h30-21h30** : drive vers wild camp — **Loch Maree shore** (15 min ouest) ou **Loch Torridon shore près Annat** (5 min).
-  - *Nuit 6 : **🏆 Wild camp Loch Maree** ou **Loch Torridon** — montagnes Torridon Beinn Eighe en arrière-plan, eau plate.*
+  - *Nuit 7 : **🏆 Wild camp Loch Maree** ou **Loch Torridon** — montagnes Torridon Beinn Eighe en arrière-plan, eau plate.*
 
-* **Jour 8 (2 août) — Torridon → Stac Pollaidh (Assynt) → Achmelvich Beach :** Drive nord + signature Highland mountain hike.
+* **Jour 9 (3 août) — Torridon → Stac Pollaidh (Assynt) → Achmelvich Beach :** Drive nord + signature Highland mountain hike.
   - **07h30** : café au camp + démontage.
   - **08h00-10h00** : (option) **Beinn Alligin Horseshoe** (11 km, 1 100 m+, 6-7 h) — **SI on a skipping Coire Mhic Fhearchair la veille** ou si forme. Sinon, drive direct.
   - **08h00-12h00** : drive Torridon → Stac Pollaidh trailhead (~3 h 30 via A832 + A835, traversée **Loch Maree** + **Gairloch** + **Ullapool** lunch stop).
@@ -418,9 +434,9 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
   - **17h00-17h45** : drive Stac Pollaidh → **Lochinver** (45 min). Arrêt **Lochinver Larder** pour pies famous (£10/pax).
   - **17h45-18h15** : drive Lochinver → **Achmelvich Beach** (15 min).
   - **18h15-21h00** : **Achmelvich Beach** — sable blanc + eau turquoise (sérieusement Caraïbes en Écosse). Marche libre, baignade brève (eau 12 °C). Souper réchaud sur la plage.
-  - *Nuit 7 : **🏆 Wild camp Achmelvich Beach** — dunes au-dessus de la ligne marée haute. Plage protégée, vent côtier modéré.*
+  - *Nuit 8 : **🏆 Wild camp Achmelvich Beach** — dunes au-dessus de la ligne marée haute. Plage protégée, vent côtier modéré.*
 
-* **Jour 9 (3 août) — Sandwood Bay (Cape Wrath) — le bout du monde :**
+* **Jour 10 (4 août) — Sandwood Bay (Cape Wrath) — le bout du monde :**
   - **07h30** : café au camp + démontage.
   - **08h00-10h00** : drive Achmelvich → **Blairmore parking Sandwood Bay** (~2 h via A894 + B801 single-track). Arrêts : **Kylesku Bridge** (photo 5 min) + **Scourie** (essence si besoin).
   - **10h00-10h30** : préparation : sacs allégés (juste tente + duvet + nourriture/eau pour 1 nuit + filtre eau si dispo). Laisser tout le reste dans les voitures (parking sécurisé, FCFS gratuit ~30 places).
@@ -429,11 +445,11 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
   - **14h00-17h00** : **exploration libre plage** — marche jusqu'à Am Buachaille (2 km vers nord), exploration grottes côte nord, baignade brève (eau 12 °C, vagues fortes).
   - **17h00-19h00** : feu de bois flotté (autorisé sur sable au-dessus marée haute, prudence, **ne pas brûler tourbe ou herbe**) ou réchaud. Souper.
   - **19h00-22h00** : coucher de soleil sur Atlantique 21h20 — **scénographie cinématique majeure**. Ciel étoilé après 23h00 (zone très peu de pollution lumineuse).
-  - *Nuit 8 : **🏆🏆🏆 Wild camp Sandwood Bay** — l'expérience phare du voyage. La plage la plus reculée du Royaume-Uni, 0 civilisation visible, sons des vagues + vent.*
+  - *Nuit 9 : **🏆🏆🏆 Wild camp Sandwood Bay** — l'expérience phare du voyage. La plage la plus reculée du Royaume-Uni, 0 civilisation visible, sons des vagues + vent.*
 
-### **Phase 3 : Drive sud + finale Edinburgh (4-7 août)**
+### **Phase 3 : Drive sud + finale Edinburgh (5-7 août)**
 
-* **Jour 10 (4 août) — Sandwood → NC500 → Cairngorms → Dunnottar Castle → Edinburgh :** Long drive scenic mais récompensé par 4 nuits Edinburgh.
+* **Jour 11 (5 août) — Sandwood → NC500 → Cairngorms → Dunnottar Castle → Edinburgh :** Long drive scenic ; on retrouve l'Airbnb Edinburgh pour 3 nuits finales.
   - **06h30 lever** sur la plage (sunrise 5h00 mais on garde l'énergie).
   - **07h00-09h00** : café + démontage + **🏆 hike-out Sandwood Bay** (~3,5 km, 1 h 30).
   - **09h00-09h30** : retour véhicules Blairmore.
@@ -444,31 +460,14 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
   - **18h30-20h00** : **🏆 Dunnottar Castle** — **le château le plus dramatique du Royaume-Uni** (clifftop, vagues mer du Nord, ruine massive). Visite £9/pax (1 h sur place, fermeture tardive 19h00 en été — vérifier horaire). Si fermé : **photo extérieure depuis Dunnottar Cliff Walk** (gratuit, 1 km AR depuis parking Stonehaven), **encore plus dramatique en silhouette au coucher du soleil**.
   - **20h00-22h00** : drive Stonehaven → Edinburgh (2 h via A90 / M90). 
   - **22h00** : check-in **Airbnb Edinburgh**. Bières au pub local de quartier (Stockbridge / Newington selon location Airbnb).
-  - *Nuit 9 : **Airbnb Edinburgh** (1ère des 4 nuits). **Vraie douche, vrai lit après 8 nuits camping.***
-
-* **Jour 11 (5 août) — Edinburgh Day 1 : Old Town + Royal Mile + château + pub crawl :**
-  - **08h30** : breakfast Airbnb (groceries Tesco la veille).
-  - **09h30-12h00** : **🏆 Royal Mile descente** depuis le château vers Holyrood. Stops : **Edinburgh Castle** (£21/pax = $250 groupe, 2 h visite — booker en ligne pour skip queue, **Honors of Scotland + Stone of Destiny + St Margaret's Chapel + One O'Clock Gun**).
-  - **12h00-13h30** : lunch **Holyrood 9A** (gourmet burgers £14/pax) ou **Mums Great Comfort Food** (Scottish classique £12).
-  - **13h30-15h30** : descente Royal Mile suite — **St Giles' Cathedral** (gratuit), **Mercat Cross**, **The Real Mary King's Close** (tour souterrain ville médiévale, £20/pax = $240 groupe, 1 h, **OPTION fortement recommandée**).
-  - **15h30-17h00** : **Greyfriars Kirkyard** (gratuit) — cimetière où Voldemort/Tom Riddle de Harry Potter a été inspiré (J.K. Rowling y traînait), Greyfriars Bobby statue. **Grassmarket** boutiques + pubs.
-  - **17h00-19h00** : retour Airbnb, repos, douche, transition.
-  - **19h00-23h30** : **🍺 PUB CRAWL OLD TOWN** (~6 pubs, 4 h, 2 km marche) :
-    1. **The Devil's Advocate** (start chic, 200 whiskies)
-    2. **The Last Drop** (Grassmarket, pub historique)
-    3. **The Bow Bar** (whiskies single malt + ales)
-    4. **The Jolly Judge** (caché dans close, médiéval)
-    5. **Greyfriars Bobby's Bar** (touristique mais culte)
-    6. **Sandy Bell's** (folk music live, finale)
-  - **00h00** : retour Airbnb taxi (~£12/véh, 2 véh).
-  - *Nuit 10 : **Airbnb Edinburgh (2e nuit)**.*
+  - *Nuit 10 : **Airbnb Edinburgh** (2e des 4 nuits totales — 1ère du bloc finale). **Vraie douche, vrai lit après 8 nuits camping.***
 
 * **Jour 12 (6 août) — Edinburgh Day 2 : Arthur's Seat + New Town + Stockbridge + pubs alternatifs :**
   - **09h00** : breakfast lent à l'Airbnb (gueule de bois post-pub crawl probable).
   - **10h00-12h30** : **🏆 Arthur's Seat via Salisbury Crags Loop** (4 km, 250 m+, 2 h) — volcan éteint au cœur d'Edinburgh, vue 360° ville + Firth of Forth + château. **Hangover cure parfaite.**
   - **12h30-14h00** : lunch **The Outsider** (vue Edinburgh Castle, £18/pax) ou **Howies Restaurant** (Scottish modern).
   - **14h00-16h00** : **National Gallery of Scotland** (gratuit, 1-2 h) — Princes Street Gardens.
-  - **16h00-18h00** : **Stockbridge exploration** — **marché du dimanche** (si J12 = dimanche 6 août = OUI ! Stockbridge Market 10h-17h), **Dean Village** (gem cachée 5 min de Princes Street, ancien village meunier), **Water of Leith Walkway** segment 3 km.
+  - **16h00-18h00** : **Stockbridge exploration** — **marché du jeudi** (J12 = jeudi 6 août — Stockbridge Market étant dominical, on bascule sur **Farmers' Market Castle Terrace** ouvert sam, sinon flânerie quartier), **Dean Village** (gem cachée 5 min de Princes Street, ancien village meunier), **Water of Leith Walkway** segment 3 km.
   - **18h00-19h30** : retour Airbnb + douche.
   - **19h30-21h00** : souper **Dishoom Edinburgh** (cuisine indo-bombay £25/pax — phénoménal, **réserver impérativement**) ou **Mother India's Cafe** (£18/pax, plus simple).
   - **21h00-23h30** : **🍺 PUB CRAWL ALTERNATIF Stockbridge / Rose Street** (~4 pubs, 2-3 h) :
@@ -476,19 +475,19 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
     2. **The Bailie** (pub Stockbridge classique)
     3. **The Cumberland Bar** (pub jardin)
     4. **Dirty Dick's + 1 autre Rose Street** (historique pub crawl street).
-  - *Nuit 11 : **Airbnb Edinburgh (3e nuit)**.*
+  - *Nuit 11 : **Airbnb Edinburgh (3e nuit totale)**.*
 
-* **Jour 13 (7 août) — Edinburgh Day 3 : day trip + final pub night :**
+* **Jour 13 (7 août) — Edinburgh Day 3 : day trip + final whisky night :**
   - **09h30** : breakfast Airbnb.
   - **10h30-15h30** : **🏆 day trip St Andrews + East Neuk fishing villages** (1 h drive NE) :
     - **St Andrews** (1 h 30 sur place) — ruines cathédrale, château, vieux centre, Old Course golf (vue extérieure suffit).
     - **Anstruther** lunch — **Anstruther Fish Bar** (£12/pax, "best fish & chips in UK" 6× award).
     - **Crail + Pittenweem** (45 min) — villages pêcheurs East Neuk, photogéniques.
-  - **OPTION ALTERNATIVE J13** : si Festival Fringe en cours (commence 1er août), **rester à Edinburgh + aller voir 2-3 shows Fringe** (£8-15/pax × 3 = ~$200 groupe). edfringe.com pour programme.
+  - **OPTION ALTERNATIVE J13** : Festival Fringe est en cours depuis 1er août, **rester à Edinburgh + 2-3 shows Fringe** (£8-15/pax × 3 = ~$200 groupe). edfringe.com pour programme.
   - **15h30-17h30** : retour Edinburgh, repos.
   - **17h30-19h00** : **The Scotch Whisky Experience** (£20-35/pax, 1 h tour + dégustation) — finale whisky parfaite.
   - **19h00-21h00** : souper "trip-of-a-lifetime" — **Tom Kitchin Restaurant** Leith (Michelin-starred, £80/pax tasting menu — OPTION luxe) ou **The Witchery by the Castle** (atmosphère gothique, £55/pax) ou **Whiski Rooms** (whisky pairing £40/pax).
-  - **21h00-00h00** : **🍺 dernière soirée pubs** — choix libre selon ce qui n'a pas été couvert J11-12. Suggestions : **Sandy Bell's folk session** (live music quasi tous les soirs), **The Bow Bar** retour pour finale whisky.
+  - **21h00-00h00** : **🍺 dernière soirée pubs** — choix libre selon ce qui n'a pas été couvert J2 (pub crawl Old Town) ou J12 (Stockbridge/Rose Street). Suggestions : **Sandy Bell's folk session** (live music quasi tous les soirs), **The Bow Bar** retour pour finale whisky.
   - **00h00** : retour Airbnb. Préparer sacs pour vol matinal demain.
   - *Nuit 12 : **Airbnb Edinburgh (4e nuit, dernière)**.*
 
@@ -506,22 +505,22 @@ C'est **la phase finale du voyage** — 4 nuits Airbnb central + 3 jours pleins 
 
 **🏕️ PHILOSOPHIE WILD CAMPING — LES MEILLEURS SPOTS PAR NUIT**
 
-Critère absolu pour ce voyage : **profiter du privilège unique au monde du wild camping légal en Écosse** dans les paysages les plus dramatiques. Sur 13 nuits sur le terrain : **8 nuits wild camping cinématique** + **4 nuits Airbnb Edinburgh** + **0 camping payant** (sauf plan-B météo).
+Critère absolu pour ce voyage : **profiter du privilège unique au monde du wild camping légal en Écosse** dans les paysages les plus dramatiques. Sur 13 nuits sur le terrain : **8 nuits wild camping cinématique (J3-J10)** + **4 nuits Airbnb Edinburgh (J2 + J11-J13)** + **0 camping payant** (sauf plan-B météo).
 
 ### 🏞️ Wild camping spots — détaillés par nuit
 
 | Nuit | Lieu | Pourquoi ce spot | Plan-B |
 |---|---|---|---|
-| J2 (27 juil) | **🏆 Glen Etive (rive River Etive)** | **Skyfall (James Bond) location**, sons rivière, montagnes des deux côtés. Single-track 24 km dans la vallée la plus cinématique d'Écosse. | Red Squirrel Campsite Glencoe (£12/pax). |
-| J3 (28 juil) | **Glen Etive 2e spot OU Loch Achtriochtan** | Garder Glen Etive (autre clearing) pour 2e nuit OU bord Loch Achtriochtan (5 min Glencoe village, vue Three Sisters). | Red Squirrel Campsite. |
-| J4 (29 juil) | **🏆 Sligachan (Old Bridge area)** | Vue iconique Sligachan Old Bridge + Cuillin Black Ridge en arrière-plan. Pub Sligachan Hotel à 50 m pour pints. | Sligachan Campsite officiel (£10/pax). |
-| J5 (30 juil) | **🏆 Quiraing area (sommet col)** | **Paysage le plus surréaliste de Skye**, vue lunaire Trotternish ridge. Vent fort possible. | Camping Brothers' Point parking ; Glenview Hostel. |
-| J6 (31 juil) | **🏆 Neist Point clifftop** | **Bout du monde Skye**, sons vagues Atlantique, sunset sur falaises basaltiques. **Spot wild camping le plus iconique de Skye**. | Glenbrittle Campsite (£12/pax). |
-| J7 (1 août) | **🏆 Loch Maree shore OU Loch Torridon shore** | Montagnes Torridon Beinn Eighe en arrière-plan, eau plate, ambiance "fin du monde calme". | Torridon Campsite (£14/pax). |
-| J8 (2 août) | **🏆 Achmelvich Beach (dunes)** | **Sable blanc + eau turquoise des Caraïbes**, dunes au-dessus marée haute, sentiment plage privée. | Achmelvich Beach Campsite (£15/pax). |
-| J9 (3 août) | **🏆🏆🏆 Sandwood Bay (plage)** | **L'expérience phare du voyage** — plage la plus reculée du UK, hike-in 3,5 km, 0 civilisation, sea stack Am Buachaille. | Aucun. Si météo extrême : repli Sheigra Beach Campsite (£10/pax, 1 km de Blairmore). |
-| J10 (4 août) | **Airbnb Edinburgh** (1ère nuit) | Transition vers urbain. | — |
-| J11-13 | **Airbnb Edinburgh** (3 nuits suivantes) | Centre Edinburgh, 4 nuits totales pour exploration profonde + pub crawls. | — |
+| J2 (27 juil) | **Airbnb Edinburgh** (1ère nuit) | Arrivée jet-lag, Old Town + Royal Mile + pub crawl. Décompresse avant Highlands. | — |
+| J3 (28 juil) | **🏆 Glen Etive (rive River Etive)** | **Skyfall (James Bond) location**, sons rivière, montagnes des deux côtés. Single-track 24 km dans la vallée la plus cinématique d'Écosse. | Red Squirrel Campsite Glencoe (£12/pax). |
+| J4 (29 juil) | **Glen Etive 2e spot OU Loch Achtriochtan** | Garder Glen Etive (autre clearing) pour 2e nuit OU bord Loch Achtriochtan (5 min Glencoe village, vue Three Sisters). | Red Squirrel Campsite. |
+| J5 (30 juil) | **🏆 Sligachan (Old Bridge area)** | Vue iconique Sligachan Old Bridge + Cuillin Black Ridge en arrière-plan. Pub Sligachan Hotel à 50 m pour pints. | Sligachan Campsite officiel (£10/pax). |
+| J6 (31 juil) | **🏆 Quiraing area (sommet col)** | **Paysage le plus surréaliste de Skye**, vue lunaire Trotternish ridge. Vent fort possible. | Camping Brothers' Point parking ; Glenview Hostel. |
+| J7 (1 août) | **🏆 Neist Point clifftop** | **Bout du monde Skye**, sons vagues Atlantique, sunset sur falaises basaltiques. **Spot wild camping le plus iconique de Skye**. | Glenbrittle Campsite (£12/pax). |
+| J8 (2 août) | **🏆 Loch Maree shore OU Loch Torridon shore** | Montagnes Torridon Beinn Eighe en arrière-plan, eau plate, ambiance "fin du monde calme". | Torridon Campsite (£14/pax). |
+| J9 (3 août) | **🏆 Achmelvich Beach (dunes)** | **Sable blanc + eau turquoise des Caraïbes**, dunes au-dessus marée haute, sentiment plage privée. | Achmelvich Beach Campsite (£15/pax). |
+| J10 (4 août) | **🏆🏆🏆 Sandwood Bay (plage)** | **L'expérience phare du voyage** — plage la plus reculée du UK, hike-in 3,5 km, 0 civilisation, sea stack Am Buachaille. | Aucun. Si météo extrême : repli Sheigra Beach Campsite (£10/pax, 1 km de Blairmore). |
+| J11-13 | **Airbnb Edinburgh** (3 nuits finales) | Drive-in J11 PM via Dunnottar Castle. Centre Edinburgh, 4 nuits Edinburgh totales (1 J2 + 3 J11-13) pour exploration profonde + pub crawls. | — |
 
 ### 📜 Wild camping rules — Scottish Outdoor Access Code
 
@@ -537,9 +536,9 @@ Critère absolu pour ce voyage : **profiter du privilège unique au monde du wil
 
 ### 🌧️ Plan-B météo
 
-- **Tempête J2-3 Glen Etive** : repli **Red Squirrel Campsite** Glencoe (£12/pax, basic, fire-pit autorisés) ou **Crianlarich Hostel** (£25/pax dortoir) + faire **Lost Valley** (4 km, abrité) au lieu de Buachaille.
+- **Tempête J3-4 Glen Etive** : repli **Red Squirrel Campsite** Glencoe (£12/pax, basic, fire-pit autorisés) ou **Crianlarich Hostel** (£25/pax dortoir) + faire **Lost Valley** (4 km, abrité) au lieu de Buachaille.
 - **Tempête Skye** (probable 50 % du temps) : **Glenbrittle Campsite** (£12/pax) ou **Sligachan Hostel** (£28/pax dortoir). Activités intérieur : **Talisker Distillery tour** (£20/pax), **Skye Museum of Island Life** (£3/pax), **Dunvegan Castle** (£15/pax).
-- **Tempête Sandwood Bay J9** : repli **Sheigra Beach Campsite** (£10/pax, 1 km parking) ou **Kinlochbervie B&B** (£70/pax).
+- **Tempête Sandwood Bay J10** : repli **Sheigra Beach Campsite** (£10/pax, 1 km parking) ou **Kinlochbervie B&B** (£70/pax).
 - **Marge imprévus 7 % budget** = $1 230 = couvre 2-3 nuits Airbnb fallback si météo cataclysmique.
 
 ## ---
@@ -548,7 +547,7 @@ Critère absolu pour ce voyage : **profiter du privilège unique au monde du wil
 
 Fin juillet-début août = **PIC absolu de midges** (Culicoides impunctatus) en Highlands. Sans préparation, le voyage devient cauchemardesque. **Avec préparation, c'est gérable** — surtout dans les spots venteux qu'on a choisis (côte Skye, Sandwood Bay, Glen Etive en mouvement).
 
-### Kit anti-midges obligatoire (acheter dès Edinburgh J2)
+### Kit anti-midges obligatoire (acheter dès Edinburgh J2 — fenêtre idéale)
 
 1. **Smidge Insect Repellent** (£8/100 ml) — **le SEUL produit qui marche** vraiment, picaridin (Saltidin). **3 bouteilles minimum** pour le groupe (1 par 2-3 personnes).
 2. **Avon Skin So Soft Original** (£6/250 ml) — alternative populaire.
@@ -599,9 +598,9 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 
 | Poste | Détail | MIN TTL | RÉAL TTL | PESSIM TTL | RÉAL PP |
 |---|---|---|---|---|---|
-| **🏕️ Wild camping** Highlands (8 nuits J2-J9) | Légal Land Reform Act, $0 fees | $0 | $0 | $0 | $0 |
+| **🏕️ Wild camping** Highlands (8 nuits J3-J10) | Légal Land Reform Act, $0 fees | $0 | $0 | $0 | $0 |
 | **Camping payant fallback** (météo force) | 1 nuit × 7 pax × £12 = £84 | $0 | **$145** | $290 | $21 |
-| **🏠 Airbnb Edinburgh** (4 nuits J10-J13, 7 pax, +20 % VAT inclus) | **Plafond $400 MIN / $500 RÉAL / $700 PESSIM** par nuit | $1 600 | **$2 000** | $2 800 | $286 |
+| **🏠 Airbnb Edinburgh** (4 nuits J2 + J11-J13, 7 pax, +20 % VAT inclus) | **Plafond $400 MIN / $500 RÉAL / $700 PESSIM** par nuit | $1 600 | **$2 000** | $2 800 | $286 |
 | **SOUS-TOTAL HÉBERGEMENT** | | **$1 600** | **$2 145** | **$3 090** | **$306** |
 
 ### 🏰 Activités & Châteaux
@@ -613,8 +612,8 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 | **Castle Tioram** | Gratuit | $0 | $0 | $0 | $0 |
 | **Eilean Donan Castle** (£12/pax × 7) | Toggle OFF — photo extérieure suffit | $0 (OFF) | **$0** | $145 | $0 |
 | **🏆 Dunnottar Castle** (£9/pax × 7) | Visite obligatoire trip-of-a-lifetime | $108 | **$108** | $108 | $15 |
-| **Edinburgh Castle** (£21/pax × 7) | Visite obligatoire J11 | $250 | **$250** | $250 | $36 |
-| **The Real Mary King's Close** (£20/pax × 7) | Tour souterrain Old Town J11 — recommandé | $0 (skip MIN) | **$240** | $240 | $34 |
+| **Edinburgh Castle** (£21/pax × 7) | Visite obligatoire J2 PM | $250 | **$250** | $250 | $36 |
+| **The Real Mary King's Close** (£20/pax × 7) | Tour souterrain Old Town J2 — recommandé | $0 (skip MIN) | **$240** | $240 | $34 |
 | **The Scotch Whisky Experience** (£25/pax × 7) | Dégustation finale J13 | $0 (skip) | **$300** | $420 | $43 |
 | **Talisker Distillery tour** (£20/pax × 7) | Toggle OFF MIN (samples libres). RÉAL = ON. | $0 (samples) | **$240** | $240 | $34 |
 | **Misty Isle Boat Coruisk** (£25/pax × 7) | Toggle OFF (skip Coruisk dans nouvelle version) | $0 (OFF) | $0 | $300 | $0 |
@@ -633,7 +632,7 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 | **Épicerie groupe Highlands** (8 jours wild camp × 7 pax × $/pax/jour) | $14/$20/$28 par pax/jour — Tesco/Aldi/Lidl Edinburgh + Fort William + Portree + Ullapool | $784 | **$1 120** | $1 568 | $160 |
 | **Épicerie Airbnb Edinburgh** (4 jours × 7 pax × $/pax/jour breakfasts) | $8/$12/$16 par pax/jour | $224 | **$336** | $448 | $48 |
 | **Pubs / restos Highlands** (3 sorties × 7 pax × $/pax) | Clachaig Inn + Sligachan Hotel + Torridon Inn + Lochinver Larder + Ullapool seafood ; $25/$35/$50 par pax | $525 | **$735** | $1 050 | $105 |
-| **🍺 Pub crawl Old Town J11** (£35/pax × 7) | 6 pints + snacks par personne | $420 | **$420** | $420 | $60 |
+| **🍺 Pub crawl Old Town J2** (£35/pax × 7) | 6 pints + snacks par personne | $420 | **$420** | $420 | $60 |
 | **🍺 Pub crawl Stockbridge J12** (£25/pax × 7) | 4 pints | $300 | **$300** | $300 | $43 |
 | **Souper trip-of-a-lifetime J13** (£40-80/pax) | Dishoom (£25) MIN / The Witchery (£55) RÉAL / Tom Kitchin (£90) PESSIM | $300 | **$660** | $1 080 | $94 |
 | **Restos Edinburgh autres** (lunches + 1 souper) | $20/$28/$40 par pax × 4-5 sorties | $560 | **$784** | $1 120 | $112 |
@@ -737,29 +736,29 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 ### À AGIR cette semaine (critique)
 0. **Vols Icelandair YUL ↔ EDI via KEF** — booker dès maintenant via Skyscanner/Google Flights. Cible $800/pax. Au-dessus de $900 → bascule AC LHR + train.
 1. **2 voitures à $650 unlimited miles** — confirmer disponibilité MAINTENANT (booker 3 mois avant). Confirmer **2 chauffeurs UK-manual compétents**. **Inclure 2e conducteur** (gratuit ou £5/jour).
-2. **Airbnb Edinburgh 4 nuits J10-J13** — **booker IMMÉDIATEMENT**, plafond $500/nuit pour 7 pax. Quartiers : **Stockbridge / Old Town / Newington / Bruntsfield**. **CRITICAL** : Edinburgh août = Festival Fringe = prix triplent sans booking 6+ mois avant. **Filtrer "free parking on premises"** = économie £200.
-3. **Edinburgh Tattoo dispo dates 5-7 août** — vérifier programme decembre 2025. Si dispo et budget MIN tient → BOOKER ($110/pax = $770 groupe).
+2. **Airbnb Edinburgh 4 nuits (J2 + J11-J13)** — **booker IMMÉDIATEMENT**, plafond $500/nuit pour 7 pax. Quartiers : **Stockbridge / Old Town / Newington / Bruntsfield**. **Idéalement même Airbnb pour les deux blocs** (négocier hold sur les 8 nuits Highlands au milieu, ou rebook même unité). **CRITICAL** : Edinburgh août = Festival Fringe = prix triplent sans booking 6+ mois avant. **Filtrer "free parking on premises"** = économie £200.
+3. **Edinburgh Tattoo dispo dates 27 juil OU 5-7 août** — vérifier programme decembre 2025. Si dispo et budget MIN tient → BOOKER ($110/pax = $770 groupe).
 4. **Festival Fringe billets** — programme online en mai 2026, booker 2-3 shows.
-5. **Castle Tioram marées** — vérifier marées Loch Moidart pour J4 PM. Si haute marée = château photo depuis rive ; basse = traversée isthme à pied.
+5. **Castle Tioram marées** — vérifier marées Loch Moidart pour J5 PM. Si haute marée = château photo depuis rive ; basse = traversée isthme à pied.
 
 ### À décider sur le contenu
-6. **Stirling Castle visite OUI/NON ?** — recommandé > Edinburgh selon locaux, mais $250 groupe + 2 h. **Pick : OUI si timing tient J2** (lunch sur place), sinon photo extérieure + lunch ville.
+6. **Stirling Castle visite OUI/NON ?** — recommandé > Edinburgh selon locaux, mais $250 groupe + 2 h. **Pick : OUI si timing tient J3** (lunch sur place), sinon photo extérieure + lunch ville.
 7. **Day trip J13 — St Andrews/Anstruther OU Festival Fringe shows OU exploration Edinburgh** ? Si Fringe en cours, mes 2 cents = **2-3 shows Fringe** au lieu day trip (expérience unique).
 8. **Souper trip-of-a-lifetime J13** — **Tom Kitchin Michelin Leith** ($90/pax = $1 080) ou **The Witchery** gothique ($55/pax = $660) ou **Dishoom** indo-bombay ($25/pax = $300) ?
 9. **Niveau de rando du groupe** — **Buachaille Etive Mòr** (8 km / 850 m+ / 5-6 h) ou **Beinn Alligin** (11 km / 1 100 m+) — combien sont à l'aise ? Si pas tous : groupe peut se séparer.
-10. **Beinn Alligin ou Coire Mhic Fhearchair J7** ? — Alligin = sommet (Munro bagging) ; Coire = pas de sommet mais coire spectaculaire. Pick : **Coire Mhic Fhearchair** sauf si Munro-bagger dans le groupe.
-11. **Stac Pollaidh seul ou ajout Suilven J8** ? — Suilven = journée big day 10 h, pas de margin J8 si on veut camp Achmelvich avant nuit. **Pick : Stac Pollaidh seul** (3 h, payant).
-12. **Sandwood Bay reste ou skip si météo mauvaise ?** — Sandwood = expérience trip-of-a-lifetime mais 7 km hike + nuit plage exposée. Si tempête prévue J9 = repli **Sheigra Beach Campsite** (£10/pax) ou **Achmelvich 2e nuit**.
+10. **Beinn Alligin ou Coire Mhic Fhearchair J8** ? — Alligin = sommet (Munro bagging) ; Coire = pas de sommet mais coire spectaculaire. Pick : **Coire Mhic Fhearchair** sauf si Munro-bagger dans le groupe.
+11. **Stac Pollaidh seul ou ajout Suilven J9** ? — Suilven = journée big day 10 h, pas de margin J9 si on veut camp Achmelvich avant nuit. **Pick : Stac Pollaidh seul** (3 h, payant).
+12. **Sandwood Bay reste ou skip si météo mauvaise ?** — Sandwood = expérience trip-of-a-lifetime mais 7 km hike + nuit plage exposée. Si tempête prévue J10 = repli **Sheigra Beach Campsite** (£10/pax) ou **Achmelvich 2e nuit**.
 13. **Cape Wrath proper visite ?** — minibus Keoldale ferry £14/pax = $170 groupe + journée additionnelle. **Skip par défaut** (Sandwood Bay déjà l'expérience extreme nord).
 14. **Glen Etive 2 nuits ou 1 ?** — 2 nuits = profite cinématique Skyfall ; 1 nuit + 1 nuit Loch Achtriochtan = variété. **Pick par défaut** : 2 nuits Glen Etive (différents spots).
 
 ### À valider maintenance / autres
-15. **Météo back-up J7 Torridon** : si tempête majeure forçant annulation Beinn Alligin, repli **Diabaig Coastal Path** (6 km côte) + drive direct Assynt = arrivée Lochinver J7 PM = J8 plus relax.
+15. **Météo back-up J8 Torridon** : si tempête majeure forçant annulation Beinn Alligin, repli **Diabaig Coastal Path** (6 km côte) + drive direct Assynt = arrivée Lochinver J8 PM = J9 plus relax.
 16. **Pesage sacs camp** : 2 voitures + 7 pax = chaque pax doit packer **drysac compressible** + tente partagée 4-places × 2. Rigid suitcases = NON. Test pack à la maison.
 17. **Bear spray / faune** : pas d'ours en Écosse. **Vipères** (adders) possibles dans bruyère, surtout Cairngorms — chaussures fermées + piétiner haut.
 18. **Ferry Mallaig → Armadale** : booker 2 véhicules + 7 pax sur **calmac.co.uk** dès printemps 2026. Si full = passage par Skye Bridge (170 km vs 70 km mais $0).
 19. **GPS + cartes papier** : OS Explorer #408 (Skye Cuillins) + #392 (Ben Nevis/Glencoe) + #433 (Torridon) + #439 (Sandwood Bay/Cape Wrath). **OS Maps app** (£28/an) recommandée pour Sandwood navigation par brouillard.
-20. **Trainspotting Locations Edinburgh** : J11-13 si fans du film, walk Calton Road, Princes Street, Royal Mile pour scènes iconiques (option gratuite).
+20. **Trainspotting Locations Edinburgh** : J2 ou J11-13 si fans du film, walk Calton Road, Princes Street, Royal Mile pour scènes iconiques (option gratuite).
 
 ## ---
 
@@ -767,13 +766,13 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 
 * Utilise ce contexte pour répondre à toute question concernant la logistique, les recommandations de randonnées, ou l'optimisation des temps de conduite en Écosse.
 * **Ne modifie pas les dates du voyage** (26 juil → 8 août 2026) — alignées avec plans Canada/Islande.
-* **Ne modifie pas la cadence wild-camping-progressif → Edinburgh-finale** : c'est l'élément structural du voyage. **8 nuits wild camping (J2-J9) + 4 nuits Airbnb Edinburgh (J10-J13)**.
+* **Ne modifie pas la cadence Edinburgh-kickoff → wild-camping-progressif → Edinburgh-finale** : c'est l'élément structural du voyage. **1 nuit Airbnb Edinburgh (J2) + 8 nuits wild camping (J3-J10) + 3 nuits Airbnb Edinburgh (J11-J13)** = 4 nuits Edinburgh totales.
 * Si tu proposes des activités, assure-toi qu'elles soient compatibles avec un groupe de 7 adultes voyageant avec **2 petites voitures conduite à gauche manuel**, wild camping, et météo écossaise variable.
 * Les temps de conduite viennent de Google Maps sans trafic ; ajoute **20-30 % tampon pour single-tracks Highlands** (passing places, moutons, caravanes touristiques).
 * **Wild camping légal** central — ne propose pas de campings payants si zone autorisée Land Reform Act (sauf bylaws Loch Lomond).
 * **Midges fin juillet/août = certitude** — toute proposition camp doit considérer Smidge + head nets + zones venteuses (préférence côte Skye, Sandwood, Glen Etive).
-* **Conduite à gauche** : 30 min adaptation EDI sortie. Premier vrai test = drive Stirling → Glen Etive J2.
+* **Conduite à gauche** : 30 min adaptation EDI sortie. Premier court trajet J2 (EDI → centre Edinburgh, 25 min). Premier vrai test single-track = drive Stirling → Glen Etive J3.
 * **Châteaux** : **Stirling + Edinburgh + Dunnottar = visites payantes** ; **Kilchurn + Castle Tioram + Eilean Donan = photos extérieures gratuites** suffisent. Ne pas pousser visites internes payantes.
 * Si budget MIN s'effondre (vols/Airbnb mal), repli **immédiat** sur **0 châteaux payants sauf Edinburgh + 0 distillerie tour + Dishoom au lieu Witchery**. Cible $1 965/pax tient même skip activités.
-* **Sandwood Bay J9** = expérience phare, ne pas downgrade sauf tempête majeure. Plan-B = Sheigra Beach Campsite.
-* **Edinburgh Festival Fringe** (1-25 août 2026, donc EN COURS pendant J10-J14) : encourager 2-3 shows Fringe en day trip alternative J13.
+* **Sandwood Bay J10** = expérience phare, ne pas downgrade sauf tempête majeure. Plan-B = Sheigra Beach Campsite.
+* **Edinburgh Festival Fringe** (1-25 août 2026, donc EN COURS pendant J11-J14, pas encore J2) : encourager 2-3 shows Fringe en day trip alternative J13.
