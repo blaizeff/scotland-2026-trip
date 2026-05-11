@@ -2,17 +2,17 @@
 
 **🏴󠁧󠁢󠁳󠁣󠁴󠁿 ROAD TRIP HIGHLANDS ÉCOSSAIS 2026 — TRIP D'UNE VIE : DOSSIER MAÎTRE**
 
-**Concept** : 14 jours conçus comme un **trip d'une vie** — paysages les plus dramatiques et dépaysants du Royaume-Uni, **wild camping légal** (Land Reform Act 2003) dans les spots les plus iconiques de la planète, **châteaux clés** sur la route. **Edinburgh encadre le voyage** : 1 nuit jet-lag-friendly à l'arrivée (J2, pub crawl Old Town) + finale 3 nuits (J11-J13) pub crawl + exploration urbaine.
+**Concept** : 14 jours conçus comme un **trip d'une vie** — paysages les plus dramatiques et dépaysants du Royaume-Uni, **wild camping légal** (Land Reform Act 2003) dans les spots les plus iconiques de la planète, **châteaux clés** sur la route, **expédition Knoydart Rough Bounds J5-J7** (Britain's last great wilderness — backpack 3 nuits avec sommet Ladhar Bheinn 1020 m + dîner à The Old Forge, pub le plus reculé du UK mainland). **Edinburgh encadre le voyage** : 1 nuit jet-lag-friendly à l'arrivée (J2, pub crawl Old Town) + finale 3 nuits (J11-J13) pub crawl + exploration urbaine.
 
 ## **📋 PARAMÈTRES DE BASE**
 
 * **Taille du groupe :** 7 adultes.
 * **Dates du voyage :** 26 juillet 2026 au 8 août 2026 (14 jours, mêmes dates que plan Canada/Islande).
 * **Budget cible :** **< 2 800 $CAD par personne**. Vols transatlantiques ~$800/pax (vs $542 Canada), MAIS **wild camping légal** + **2 voitures à $650 fixes (unlimited miles)** = budget tient bien sous la cible.
-  - **MIN $2 286/pax** ✅ (marge $514) — vols AC réservés ($1 055) + wild camping max + cuisine groupe stricte + Edinburgh Airbnb plafond bas.
-  - **RÉALISTE $2 985/pax** ⚠️ (+$185 sur cible) — vols AC à $1 055 (vs $850 budgété) pousse le RÉAL au-dessus. Appliquer 2-3 leviers MIN pour revenir sous $2 800.
-  - **PESSIMISTE $3 922/pax** ❌ (+$1 122) — Airbnb Edinburgh haut de gamme + restos pubs premium.
-* **Style de voyage :** Expédition "**Wild-Camp-Cinematic**". **Edinburgh kickoff (J2)** : 1 nuit Airbnb + pub crawl Old Town. **Phase wild camping (J3-J10)** : wild camping dans les paysages les plus dramatiques d'Écosse + châteaux iconiques + randonnées Munros signature. **Finale Edinburgh (J11-J14)** : 3 nuits Airbnb Edinburgh, exploration urbaine + pub crawls + day trips optionnels.
+  - **MIN $2 281/pax** ✅ (marge $519) — vols AC réservés ($1 055) + voitures retour anticipé J11 + LDW Visa + cuisine groupe stricte + Airbnb plafond bas.
+  - **RÉALISTE $2 881/pax** ⚠️ (+$81 sur cible, ~AT target) — vols AC + voitures pro-rata négociée + 0 conducteur additionnel + LDW Visa. 1 seul levier MIN suffit pour passer sous $2 800.
+  - **PESSIMISTE $3 760/pax** ❌ (+$960) — Airbnb Edinburgh haut de gamme + restos pubs premium + voitures full 14 j non négociées.
+* **Style de voyage :** Expédition "**Wild-Camp-Cinematic + Knoydart backpack**". **Edinburgh kickoff (J2)** : 1 nuit Airbnb + pub crawl Old Town. **Glencoe (J3-J4)** : 2 nuits wild camp Glen Etive + Buachaille/Lost Valley Munro. **🏆 Knoydart Rough Bounds (J5-J7)** : ferry Mallaig → Inverie + Old Forge pub + 3 nuits backpack (Long Beach + Barrisdale Bay + Bealach Coire Dhorrcail high col 650 m) + Ladhar Bheinn Munro 1020 m. **Highlands NW (J8-J10)** : Loch Torridon + Stac Pollaidh + Achmelvich + Sandwood Bay. **Finale Edinburgh (J11-J14)** : 3 nuits Airbnb + pub crawls.
 * **Pass / permits :** **Aucun pass requis** pour les Highlands (parcs nationaux gratuits, accès libre selon Scottish Outdoor Access Code). Châteaux Historic Environment Scotland — option **Explorer Pass** ($73/pax pour 5 jours = $511 groupe — économise si on visite 4+ châteaux ; sinon billets individuels).
 * **Conduite à gauche** : **2 chauffeurs principaux compétents en boîte manuelle UK** obligatoires (la base = manuel, auto +30 % à la location).
 
@@ -59,8 +59,11 @@
 1. ✅ **Vols Air Canada direct YUL ↔ EDI RÉSERVÉS** — $1 055,41/pax Economy Standard. Aller AC 26 juil 20:30 YUL → 27 juil 07:40 EDI ; retour 8 août 09:15 EDI → 11:10 YUL.
 2. **2 voitures Edinburgh Airport** — booker via Discover Cars / Rentalcars 3-4 mois avant. Confirmer **manuel + unlimited miles + 25+ ans + 2e conducteur**.
 3. **Airbnb Edinburgh — 4 nuits (J2 + J11-J13)** — **plafond $450/nuit** pour 7 pax dans une maison/grand appart. Quartiers : **Stockbridge, Old Town/Newington, Bruntsfield**. **Idéalement même Airbnb** pour les 4 nuits avec gap 8 nuits Highlands au milieu (négocier hold ou rebook). Booker MAINTENANT (Edinburgh août = Festival Fringe = capitale culturelle mondiale, prix gonflés sans booking 6+ mois avant).
-4. **Misty Isle Boat Trips Elgol → Loch Coruisk** (option, J7 si on veut accéder Coruisk sans trek) — £25/pax × 7 = £175. Réserver 1-2 mois avant.
-5. **Sandwood Bay parking Blairmore** — **gratuit, FCFS**. Pas de réservation, mais arriver tôt (8h-10h) pour place dans le petit parking (~30 véh). Si plein, marche extra 1 km depuis Sheigra.
+4. **🚢 Western Isles Cruises Mallaig ↔ Inverie ferry J5+J8** — **CRITICAL booking 2-3 mois avant**. £15/pax RT × 7 = ~$130 groupe. 17h00 départ Mallaig J5 + 12h30 départ Inverie J8 (confirmer schedule août 2026 sur [westernislescruises.co.uk](https://www.westernislescruises.co.uk) ou 01687 462233). Capacité ~80 pax, peut être complet en haute saison.
+5. **🍺 The Old Forge pub Inverie réservations** — **DEUX bookings** : (a) **souper J5 soir** 18h-21h pour 7 pax (réservation OBLIGATOIRE — community-owned pub avec capacité limitée, réserver 2+ mois avant), (b) **brunch/café J8 matin** 11h30 (plus flexible). Contact : enquiries@theoldforge.co.uk ou 01687 462 358. Mentionner groupe de 7 backpackers Knoydart.
+6. **Knoydart Foundation ranger notification** — courtoisie pour wild camping plan groupe 7 pax. Contact via [knoydart.org](https://knoydart.org) ou ranger@knoydart.org. Pas obligatoire mais recommandé.
+7. **Mallaig parking longue durée** (2 voitures × 3 nuits Knoydart) — ~£3-5/jour/véh au port de Mallaig (parking sécurisé). ~$60 groupe total.
+8. **Sandwood Bay parking Blairmore** — **gratuit, FCFS**. Pas de réservation, mais arriver tôt (8h-10h) pour place dans le petit parking (~30 véh). Si plein, marche extra 1 km depuis Sheigra.
 
 ## ---
 
@@ -115,18 +118,18 @@ Le voyage est conçu comme une **progression géographique vers les paysages les
 | 2 | 27 juil | **Arrivée EDI → Edinburgh Day 1** : check-in Airbnb + Old Town + Royal Mile + pub crawl | Urbain + pints (jet lag) |
 | 3 | 28 juil | Edinburgh AM → Stirling Castle drive-by → wild camp Glen Etive | Doux drive |
 | 4 | 29 juil | **Glen Etive + Buachaille Etive Mòr / Lost Valley (Glencoe)** | Hard (Buachaille) ou Mod (Lost Valley) |
-| 5 | 30 juil | Glencoe → Glenfinnan + **Castle Tioram** → ferry/bridge Skye → wild camp Sligachan | Doux + drive |
-| 6 | 31 juil | **Skye Day 1 : Old Man of Storr + Quiraing** → wild camp Quiraing area | Modéré × 2 (4 km + 7 km) |
-| 7 | 1 août | **🏆🏆 Misty Isle Boat Loch Coruisk + Fairy Pools + Neist Point sunset** | Doux + boat |
-| 8 | 2 août | Skye → Eilean Donan drive-by → **🏆🏆 Beinn Alligin ridge overnight** (col 900 m, vent = anti-midges) | Mod (4 h up to col, segments ≤4 h) |
-| 9 | 3 août | Sgurr Mor sunrise + descente → **Stac Pollaidh** → wild camp **Achmelvich Beach** coastal | Mod × 2 (3 h + 3 h) |
+| 5 | 30 juil | Glencoe → Glenfinnan + Castle Tioram → Mallaig → **🏆🏆🏆 ferry Inverie (Knoydart) + Old Forge pub + Long Beach** | Doux + drive + ferry |
+| 6 | 31 juil | **🏆🏆 Knoydart Day 2 : Inverie → Mam Barrisdale → Barrisdale Bay coastal camp** | Mod (12 km, 450 m+, 5 h max) |
+| 7 | 1 août | **🏆🏆🏆 Knoydart Day 3 : Ladhar Bheinn Munro (1020 m) + high col camp Bealach Coire Dhorrcail (~650 m)** | Hard (1000 m+ scrambling G1, segments 5 h) |
+| 8 | 2 août | Knoydart descent → ferry Mallaig → Eilean Donan drive-by → **Loch Torridon Annat recovery camp** | Doux (descent 3 h 30 + drive) |
+| 9 | 3 août | Loch Torridon → Ullapool → **Stac Pollaidh** → wild camp **Achmelvich Beach** coastal | Mod (3 h Stac Pollaidh) |
 | 10 | 4 août | **🏆 Sandwood Bay (Cape Wrath)** hike-in → wild camp plage | Doux 7 km AR + nuit plage |
 | 11 | 5 août | Drive sud via NC500 → **Dunnottar Castle (Stonehaven)** → Edinburgh | Long drive scenic |
 | 12 | 6 août | **Edinburgh Day 2** : Arthur's Seat AM + New Town + Stockbridge + pubs alternatifs | Doux (4 km) + urbain |
 | 13 | 7 août | **Edinburgh Day 3** : exploration libre / Mary King's Close / Whisky Experience + final pub night | Urbain |
 | 14 | 8 août | Edinburgh matin → vol EDI PM | Logistique légère |
 
-**Le gain de la cadence** : Edinburgh **encadre** le voyage — 1 nuit jet-lag-friendly à l'arrivée (J2) + 3 nuits finale (J11-J13) = 4 nuits Edinburgh totales. Le **Sandwood Bay J10** reste l'apogée sauvage, suivi du contraste **Cape Wrath → Royal Mile** comme punch final.
+**Le gain de la cadence** : Edinburgh **encadre** le voyage (1 nuit J2 + 3 nuits J11-J13). **Pinacle #1 = Knoydart Rough Bounds 3-night backpack** (J5-J7 — Britain's last great wilderness, Ladhar Bheinn 1020 m, high col ridge camp). **Pinacle #2 = Sandwood Bay** (J10 — UK's most remote beach). Le contraste **Cape Wrath → Royal Mile** reste le punch final.
 
 ## ---
 
@@ -260,6 +263,7 @@ Sélection priorisée pour amateurs de **stout, real ale, single malt**. Tous su
 
 | Pub | Quand | Pourquoi must-visit | Notes |
 |---|---|---|---|
+| **🏆🏆🏆 The Old Forge** (Inverie, **Knoydart**) | Jour 5 souper + Jour 8 brunch | **THE MOST REMOTE PUB MAINLAND UK** — accessible uniquement par boat 7 mi (Mallaig ferry) ou hike 18 mi over Munros. Community-owned 2022. **Whisky cellar 100+ malts + Knoydart Brewery ales + Cromarty stouts + Cairngorm Brewery**. Fresh seafood (langoustines de Loch Hourn). Atmosphère légendaire — où on **navigue jusqu'à un pub**. | [theoldforge.co.uk](https://www.theoldforge.co.uk/) · **Réservation OBLIGATOIRE** (enquiries@theoldforge.co.uk / 01687 462 358). Souper £25-30/pax = $300 groupe. |
 | **🏆 Clachaig Inn** (Glencoe) | Jour 4 PM | Pub mythique des grimpeurs depuis 1830, **400+ whiskies single malt**, fameux "No Hawkers, No Campbells" sign (massacre Glencoe 1692). **Cask ales locaux + Williams Bros stouts**. | [clachaig.com](https://www.clachaig.com/) · Souper £18-25/pax. **DÉJÀ planifié J4.** |
 | **🏆 Sligachan Hotel Bar** (Skye) | Jour 5-6 soir | Pub Cuillin-view, terrasse jardin l'été, **Skye Brewery on tap (Red Cuillin, Black Cuillin stout)**. Pints £5,50. | DÉJÀ accessible J5 wild camp. |
 | **🏆🏆 Stein Inn** (Skye, Waternish) | Jour 6 (option) | **Plus vieux pub de Skye (1790)**. Bord de mer, vue Loch Bay, **whisky cellar 100+ malts** + **Hebridean Brewing ales**. Détour 30 min depuis route Quiraing → Fairy Pools. | [steininn.co.uk](https://www.stein-inn.co.uk/) · Pints £5,50, food £18/pax. |
@@ -269,7 +273,7 @@ Sélection priorisée pour amateurs de **stout, real ale, single malt**. Tous su
 | **Ullapool Seafood Shack** (port) | Jour 9 lunch | Pas un pub mais incontournable — **fish & chips gourmet £14/pax** bord du port. Plus pubs Ullapool : **Ferry Boat Inn** (cask ales) + **Argyll Hotel**. | DÉJÀ planifié J9. |
 | **🏆 Aviemore — Old Bridge Inn** | Jour 11 PM (option) | Pub Cairngorms riverside, **Cairngorm Brewery on tap (Trade Winds, Black Gold stout)**, food primé. Sur route Sandwood → Edinburgh. | [oldbridgeinn.co.uk](https://www.oldbridgeinn.co.uk/) · Souper £20/pax. |
 
-**🎯 Top picks** : **Stein Inn (Skye J6) + Applecross Inn (Torridon J8) + Clachaig Inn (Glencoe J4)** = trois expériences pub trip-of-a-lifetime.
+**🎯 Top picks** : **The Old Forge Inverie (Knoydart J5+J8) + Clachaig Inn (Glencoe J4) + Applecross Inn (Torridon J8 alt)** = trois expériences pub trip-of-a-lifetime. **Note** : Stein Inn (Skye) skipped — on ne fait que traverser Skye en drive-by J8 après Knoydart.
 
 **Brasseries écossaises à goûter** :
 - **Williams Bros** (Alloa) — Profanity Stout, Fraoch Heather Ale (5 000 ans de tradition).
@@ -338,7 +342,7 @@ Edinburgh **encadre** le voyage — 1 nuit arrivée (J2) + 3 nuits finales (J11-
 
 **🗺️ ITINÉRAIRE MAÎTRE JOUR PAR JOUR**
 
-### **Phase 1 : Edinburgh kickoff + wild camping cinématique progressif (27 juillet au 4 août)**
+### **Phase 1 : Edinburgh kickoff + Glencoe + 🏆🏆 Knoydart Rough Bounds 3-night expedition (27 juillet au 1 août)**
 
 * **Jour 1 (26 juil) — Vol direct YUL → EDI Air Canada :** Décollage YUL **20h30 EDT**. Vol direct ~6 h 10 min. Arrivée EDI **07h40 BST le 27 juillet**. Le "Jour 1 réel" sur le terrain est **le 27 juillet matin**.
 
@@ -384,73 +388,75 @@ Edinburgh **encadre** le voyage — 1 nuit arrivée (J2) + 3 nuits finales (J11-
   - **19h30-20h30** : drive vers wild camp suivant — **Loch Etive shore** ou retour Glen Etive end (autre spot que la veille pour éviter même nuit + autres campers).
   - *Nuit 3 : **Wild camp Glen Etive (2e nuit ailleurs)** ou **Loch Achtriochtan**. Plan-B : **Red Squirrel Campsite** Glencoe (£12/pax) si pluie battante.*
 
-* **Jour 5 (30 juil) — Glencoe → Glenfinnan → Castle Tioram → Skye :** Journée scenic drive iconique + château ruiné + traversée Skye.
-  - **07h30** : départ camp.
-  - **08h00-09h00** : drive Glencoe → Fort William (30 min) + arrêt **Spar/Tesco Fort William** pour ravitaillement (4 jours d'épicerie, gas canisters last-minute).
+* **Jour 5 (30 juil) — Glencoe → Glenfinnan → Castle Tioram → Mallaig → 🏆🏆🏆 ferry Inverie (Knoydart) → Old Forge dinner → Long Beach wild camp :** Journée transition vers **l'expédition Knoydart** — 3 nuits dans le "last great wilderness" mainland UK.
+  - **07h30** : départ camp Glen Etive.
+  - **08h00-09h00** : drive Glencoe → Fort William (30 min) + arrêt **Morrisons/Tesco Fort William** pour **groceries Knoydart 3 jours** (déshydratés, oat bars, snacks, électrolytes — 7 pax × 3 jours = 21 dîners + snacks + bonbonnes gaz).
   - **09h00-09h45** : drive Fort William → **Glenfinnan** (45 min via A830 "Road to the Isles").
-  - **09h45-12h00** : **Glenfinnan Viaduct trail** (5 km, 1 h 30) + voir le **Jacobite Steam Train** (Hogwarts Express) passer **vers 10h45** (vérifier horaires saisonniers westcoastrailways.co.uk). Monument Bonnie Prince Charlie + vue Loch Shiel.
-  - **12h00-12h30** : drive Glenfinnan → Acharacle (30 min via A861).
-  - **12h30-14h00** : **🏆 Castle Tioram** (gratuit, 1 h sur place) — **détour majeur du voyage**. Vérifier marées Loch Moidart : à marée basse, on traverse l'isthme de sable jusqu'à l'île ; à marée haute, photo depuis la rive. Ruine 13e siècle, atmosphère pure GoT, **rarement plus de 5 visiteurs**.
-  - **14h00-14h30** : lunch pique-nique près Castle Tioram (sable plage Kentra Bay 2 km).
-  - **14h30-16h00** : drive Acharacle → Mallaig (1 h 30 via A861 + A830 retour).
-  - **16h00-17h30** : option **(A) ferry CalMac Mallaig → Armadale** (30 min, ~£40/véh + £4/pax = ~£90 groupe pour 2 véh + 7 pax). Plus court, scenic. **(B) drive direct via Skye Bridge** (Kyle of Lochalsh, 2 h 30, $0). Pick : **ferry** (épique, vue Knoydart wilderness côté nord).
-  - **17h30-19h00** : Armadale → Sligachan (1 h 30 via A87 single-track + double).
-  - **19h00-21h00** : repérage **wild camp Sligachan area** — bord Sligachan Old Bridge, vue Cuillins. Wild camping légal (hors zones touristiques immédiates parking). Plan-B : **Sligachan Campsite** £10/pax officiel.
-  - **21h00** : souper réchaud + bières au pub **Sligachan Hotel Bar** (à 50 m).
-  - *Nuit 4 : **🏆 Wild camp Sligachan** — vue Cuillin Black Ridge + Sligachan Old Bridge en arrière-plan. Coucher du soleil 21h25.*
+  - **09h45-11h30** : **Glenfinnan Viaduct trail** court (3 km, 1 h) + voir le **Jacobite Steam Train** (Hogwarts Express) passer **vers 10h45** (vérifier horaires saisonniers [westcoastrailways.co.uk](https://www.westcoastrailways.co.uk/)). Monument Bonnie Prince Charlie + vue Loch Shiel.
+  - **11h30-12h00** : drive Glenfinnan → Acharacle (30 min via A861).
+  - **12h00-13h30** : **🏆 Castle Tioram** (gratuit, 1 h sur place) — château tidal 13e siècle, atmosphère Game of Thrones. Vérifier marées Loch Moidart.
+  - **13h30-14h00** : lunch pique-nique Kentra Bay sable.
+  - **14h00-16h00** : drive Acharacle → **Mallaig** (1 h 30 via A861 + A830 retour, scénique Road to the Isles).
+  - **16h00-16h45** : **Mallaig prep finale** — répartition packs léger (3 jours autonomie : tente partagée + duvet 5-8°C + réchaud + filtre eau Sawyer Squeeze + nourriture + headnet + Smidge + first aid + carte OS Explorer 413 Knoydart + Garmin inReach Mini si dispo). **Laisser tout l'excédent dans les 2 voitures Mallaig parking longue durée (~£3/jour/véh, parking sécurisé du port).**
+  - **17h00** : 🚢 **Ferry Mallaig → Inverie** ([Western Isles Cruises](https://www.westernislescruises.co.uk), ~£15 RT/pax = $130 groupe, 45 min crossing) — **RÉSERVATION OBLIGATOIRE 2-3 mois avant** (capacity limitée, 01687 462233). Crossing Sound of Sleat = phoques, oiseaux marins, vues Knoydart hills.
+  - **17h45** : arrivée Inverie pier — check-in **Knoydart Foundation ranger station** (info wild camping, météo).
+  - **18h00-21h00** : 🏆🏆🏆 **The Old Forge pub** ([theoldforge.co.uk](https://www.theoldforge.co.uk/)) — **most remote pub mainland UK**, community-owned. **Réservation OBLIGATOIRE pour souper** (enquiries@theoldforge.co.uk / 01687 462 358, mentionner groupe 7). Real ales locales (Knoydart Brewery, Cromarty, Cairngorm) + whisky cellar + scotch top shelf. Souper £25-30/pax = ~$300 groupe.
+  - **21h00-21h30** : hike 1 km west long de la côte → **Long Beach (Camas Bun a' Choin)** — plage sable abritée, ruisseau frais à proximité, vue Sound of Sleat sur Skye.
+  - *Nuit 4 : **🏆 Wild camp Long Beach Inverie** (~5 m altitude, **Atlantic-facing = vent = anti-midges**). Premier camp soft pour acclimater le groupe avant les 2 nuits suivantes en backcountry profond. Sunset 21h25 sur Sound of Sleat.*
 
-* **Jour 6 (31 juil) — Skye Day 1 : Old Man of Storr + Quiraing :**
-  - **05h30 lever**, **06h00 départ** Sligachan → Old Man of Storr (25 min).
-  - **06h25-09h00** : **🏆 Old Man of Storr Loop** (4 km, 320 m+, 2 h 30 avec photos sommet). **Lever du soleil ~5h30 fin juillet — on rate le pur lever, mais on est seuls avant les bus de 9h.** Boucle complète recommandée.
-  - **09h00-09h30** : retour véhicules + breakfast pique-nique au parking.
-  - **09h30-10h00** : drive vers **Mealt Falls / Kilt Rock** (15 min). Court arrêt photo (5 min).
-  - **10h00-10h30** : drive → **Quiraing trailhead** (30 min via A855 single-track).
-  - **10h30-13h30** : **🏆 Quiraing Loop** (6,7 km, 380 m+, 3 h). Le paysage le plus surréaliste de Skye.
-  - **13h30-15h00** : lunch + repos au sommet ou retour véhicule.
-  - **15h00-16h30** : drive Quiraing → **Uig** (port ferry Outer Hebrides) → arrêt rapide **Skye Brewery Uig** (samples £5) → retour Portree.
-  - **16h30-18h00** : **Portree exploration** — port + Painted Houses + ravitaillement épicerie Co-op. Café/snack **Birch Café** ou **The Granary**.
-  - **18h00-19h30** : souper Portree (**The Lower Deck** fish & chips £14/pax ou **Sea Breezes** seafood £25/pax).
-  - **19h30-20h30** : drive vers wild camp **Quiraing area** ou **côte nord Skye** — sites populaires : parking Quiraing au sommet du col (vue plongeante), Loch Hasco area, ou **Brothers' Point parking** (côte est).
-  - *Nuit 5 : **🏆 Wild camp Quiraing area sommet col** — vue lunaire + Trotternish ridge. Possible vent fort (col exposé) — choisir spot abrité.*
+* **Jour 6 (31 juil) — Knoydart Day 2 : Inverie → Mam Barrisdale pass → Barrisdale Bay (coastal mountain amphitheatre) :** Hike segment unique ≤5 h (constraint respectée), reste du jour relax à Barrisdale.
+  - **06h30 lever** Long Beach.
+  - **07h30** : démontage + retour Inverie 1 km — fill water village tap, café Knoydart Pottery & Tearoom si ouvert.
+  - **08h00-13h00** : **🏆🏆 Hike Inverie → Mam Barrisdale → Barrisdale Bay** ([Walkhighlands Inverie](https://www.walkhighlands.co.uk/lochaber/inverie.shtml) — ~12 km, **450 m+ vers Mam Barrisdale pass**, descente 450 m vers Loch Hourn, ~5 h pauses incluses). Trail estate track puis mountain path bien défini. **Within user 5 h max constraint** ✅.
+  - **13h00** : arrive **Barrisdale Bay** sur Loch Hourn — paysage fjord avec **Ladhar Bheinn (1020 m) qui domine au-dessus**.
+  - **13h00-14h00** : set up camp **machair** (plateau herbeux ~10 m au-dessus de la plage, plat, drainage parfait). Lunch.
+  - **14h00-19h00** : **REST AFTERNOON** — la moitié de la journée est libre pour décompresser. Options :
+    - Swim Loch Hourn (eau froide ~12 °C mais possible, sable seabed)
+    - Walk plage Barrisdale + dunes
+    - Visit **Barrisdale Bothy** (MBA gratuit, [mountainbothies.org.uk/bothy/barrisdale](https://www.mountainbothies.org.uk/bothy/barrisdale/), £4/nuit donation si dort dedans, sinon visite gratuite — plan-B météo)
+    - Court walk **Coire Dhorrcail** approach reconnaissance pour J7
+    - Seal-watching à l'entrée de Loch Hourn (common gray seals, parfois orques au large)
+  - **19h00-22h00** : souper réchaud (driftwood fire autorisé sous high tide line, prudence). Sunset 21h20 sur l'Atlantique entrée de Loch Hourn.
+  - *Nuit 5 : **🏆🏆 Wild camp Barrisdale Bay machair** — coastal sea-level, Ladhar Bheinn 1020 m visible au-dessus du camp, **vent Loch Hourn = anti-midges**. **Plan-B météo : Barrisdale Bothy (MBA, gratuit donation, [bothy info](https://www.mountainbothies.org.uk/bothy/barrisdale/))** — abri pierre 6 personnes.*
 
-* **Jour 7 (1 août) — Skye Day 2 : 🏆🏆 Misty Isle Boat Loch Coruisk + Fairy Pools + Neist Point sunset :** Le must-see Skye — entrer au cœur des Cuillins par bateau (zéro effort, zéro midges sur le bateau), puis 2 spots iconiques l'après-midi.
-  - **05h30 lever** Quiraing camp + démontage rapide (départ early pour attraper boat 9h30).
-  - **06h00-08h30** : drive Quiraing → **Elgol** (~2 h 30 via A855 + A87 + A881, 130 km). Petit-déjeuner café au volant ou rapide à Broadford.
-  - **09h30-13h30** : **🏆🏆 Misty Isle Boat Trip Elgol → Loch Coruisk** ([mistyisleboattrips.co.uk](https://www.mistyisleboattrips.co.uk/), £25/pax × 7 = $210 groupe, ~3 h 30 round-trip avec **1 h 30 ashore**). **Loch Coruisk = le loch le plus dramatique du UK**, encerclé par toutes les Cuillin Ridge — accessible uniquement par bateau ou trek 18 km. Phoques + Bad Step + alimentation Loch na Cuilce.
-  - **13h30-14h30** : lunch **Coruisk Memorial Hut Café Elgol** (£15/pax fish & chips fresh) ou pique-nique sur place.
-  - **14h30-15h30** : drive Elgol → **Fairy Pools** (Glen Brittle, ~1 h via A881 + B884).
-  - **15h30-17h30** : **🏆 Fairy Pools** (4 km, 130 m+, 2 h avec baignade). Eau glacée 8-10 °C — courageux only. Vue Cuillin Ridge.
-  - **17h30-18h30** : drive Fairy Pools → **Neist Point** (1 h via B884). **Skip Coral Beaches + Talisker tour** (compromise pour Misty Isle Boat).
-  - **18h30-22h00** : **🏆 Neist Point Lighthouse** (3 km, 100 m+, 1 h 30 marche + 2 h sunset hangout + souper réchaud sur clifftop). **Coucher de soleil ~21h25 fin juillet** = LE spot photo de Skye, falaises basaltiques + phare + Atlantique. **Vent constant = anti-midges parfait.**
-  - **22h00** : montage camp directement sur **clifftop area** ou retour parking Neist Point pour wild camp van-side.
-  - *Nuit 6 : **🏆 Wild camp Neist Point clifftop** — sons des vagues, étoiles, sensation bout du monde. Vent fort possible — tente solide + sardines bien ancrées.*
+* **Jour 7 (1 août) — Knoydart Day 3 : 🏆🏆🏆 Ladhar Bheinn (1020 m) summit + high col camp Bealach Coire Dhorrcail :** Le climax de l'expédition Knoydart — Munro iconique + camp ridge altitude (le "summit camp" — eau, abri partiel, vue dingue).
+  - **06h00 lever** Barrisdale Bay.
+  - **07h00-12h00** : **🏆🏆🏆 Ascent Ladhar Bheinn via Coire Dhorrcail east ridge** ([Walkhighlands Ladhar Bheinn](https://www.walkhighlands.co.uk/lochaber/ladharbheinn.shtml) — ~5 km approach + 1000 m gain, **5 h avec pauses régulières = 5 h max respecté ✅**, scrambling Grade 1 sur Stob a' Chearcaill summit ridge — handholds présents mais pas exposé vide).
+  - **12h00-13h00** : **🏆🏆🏆 Ladhar Bheinn summit (1020 m)** — **un des sommets Munro les plus spectaculaires d'Écosse**. Vues 360° : **Skye Cuillins ridge à l'ouest, Knoydart hills, Loch Hourn fjord 1000 m plus bas, Atlantic vers Outer Hebrides**. Lunch sommet.
+  - **13h00-15h00** : traverse west ridge → **Stob a' Chearcaill (875 m)** + **Aonach Sgoilte ridge** (cresswalk facile, vues continues, ~2 h).
+  - **15h00-17h00** : **descente progressive vers Bealach Coire Dhorrcail (~650 m)** — col entre Ladhar Bheinn et Aonach Sgoilte. ~2 h descente technique.
+  - **17h00-22h00** : 🏆🏆🏆 **Pose camp high col** — repérage spots herbeux plats au sud du col (abri partiel du vent ouest par le bulge de la crête), **Allt Coire Dhorrcail burn à 50 m = eau filtrée disponible**. Souper réchaud + sunset 21h25 — **Atlantic glowing pink + Skye Cuillins silhouettes** depuis le col. Ciel étoilé après 23h.
+  - *Nuit 6 : **🏆🏆🏆 Wild camp Bealach Coire Dhorrcail (~650 m)** — high col ridge camp, **vues sommet-level**, water source 50 m, **altitude + vent = anti-midges quasi-parfait**, abri partiel ouest. **Safety** : bail-out trail Coire Dhorrcail vers Barrisdale (2 h descente) si tempête nocturne. **Plan-B météo : descente Barrisdale Bothy (gratuit MBA, 2 h).***
 
-### **Phase 2 : Highlands extrêmes (2-4 août)**
+### **Phase 2 : Knoydart exit + Highlands NW (2-4 août)**
 
-* **Jour 8 (2 août) — Skye → Eilean Donan drive-by → 🏆🏆 Beinn Alligin ridge overnight :** Camp sur la crête à 1000m+ (vent constant = anti-midges parfait). Hike segmenté : 4 h jusqu'au col J8, puis sommet Sgurr Mor + descente J9 (3 h).
-  - **07h30** : café au camp + démontage Neist Point.
-  - **08h00-09h30** : drive Neist Point → Skye Bridge → **Eilean Donan Castle** (1 h 30 via A87).
-  - **09h30-10h00** : **Eilean Donan photo extérieure** depuis le pont (gratuit, 30 min, **skip visite intérieure**).
-  - **10h00-11h30** : drive Eilean Donan → **Torridon village** (1 h 30 via A87 + A890 + A896 single-track).
-  - **11h30-13h00** : lunch + ravitaillement **Torridon Stores & Café** (food + eau pour 24 h backpack), répartition packs léger (tente + duvet + réchaud + eau filtrée + nourriture pour 1 nuit). **Laisser excédent dans voitures** (parking trailhead Coire Mhic Nobuil).
-  - **13h00-13h30** : drive Torridon → parking **Coire Mhic Nobuil** (Beinn Alligin trailhead, 5 km via A896).
-  - **13h30-17h30** : **🏆🏆 Hike-in Beinn Alligin Horseshoe Phase 1** ([AllTrails: Tom na Gruagaich + Beinn Alligin Circular](https://www.alltrails.com/trail/scotland/highlands/tom-na-gruagaich-and-beinn-alligin-circular) — 11,3 km loop, 1 243 m+, **trail tagged camping**, 4.8★). Phase 1 : 4 h max — montée par Tom na Gruagaich (922 m) puis traversée crête vers col entre les 2 sommets. **Pauses photos régulières — pas de course, on prend le temps.**
-  - **17h30-19h30** : pose camp sur **col entre Tom na Gruagaich et Sgurr Mor** (~900 m altitude, vent constant Atlantique = **0 midges**). Vue 360° océan + Loch Torridon + Skye au loin. Souper réchaud + eau filtrée des dernières burns.
-  - **19h30-22h00** : sunset 21h25 sur l'Atlantique depuis la crête — **moment trip-of-a-lifetime**. Ciel étoilé.
-  - *Nuit 7 : **🏆🏆 Wild camp ridge col Beinn Alligin** (~900 m). **Vent = anti-midges naturel.** Tente solide obligatoire (vent fort). Plan-B si tempête : descente rapide vers Coire Mhic Nobuil + drive **Applecross Inn** (1 h 30) pour pub gourmet + nuit Applecross Campsite (£12/pax).*
+* **Jour 8 (2 août) — Knoydart exit : Descente high col → Inverie → ferry → Eilean Donan drive-by → Loch Torridon coastal recovery :** Journée transition + récupération après 3 nuits backpack.
+  - **05h30** : sunrise high col Bealach Coire Dhorrcail — **Atlantic pink + Cuillins silhouettes** = moment final cinématique majeur.
+  - **06h30-07h30** : café camp + démontage.
+  - **07h30-11h00** : **descente Bealach Coire Dhorrcail → Coire Dhorrcail → Barrisdale → Mam Barrisdale pass → Inverie** (~12 km, mostly descent + flat fin, **3 h 30 max segment** ✅).
+  - **11h00-12h00** : **arrivée Inverie** — wash up rapide + repack sacs lourds (récupérer ce qui était dans les voitures à Mallaig se fait après ferry).
+  - **12h00-12h15** : **option Old Forge brunch/coffee** (ouvert 10-15h, café + scone £6/pax) — dernière visite du pub le plus reculé du UK.
+  - **12h30** : 🚢 **Ferry Inverie → Mallaig** (Western Isles Cruises, retour confirmé à la réservation initiale, ~45 min).
+  - **13h15** : arrivée Mallaig — récup les 2 voitures (parking longue durée).
+  - **13h30-14h30** : **lunch Mallaig — Pier 36 Restaurant** ou **Cornerstone** (fish & chips frais £14-18/pax, harbor view).
+  - **14h30-16h30** : drive Mallaig → Skye Bridge → **Eilean Donan Castle** (~2 h via A87, **on traverse Skye sans s'arrêter** — sacrifice consenti pour Knoydart).
+  - **16h30-17h00** : **Eilean Donan photo extérieure** (30 min depuis le pont, gratuit, **skip visite intérieure** — groupe fatigué après 3 jours backpack).
+  - **17h00-19h00** : drive Eilean Donan → **Loch Torridon shore at Annat** (~2 h via A87 + A890 + A896 single-track).
+  - **19h00-19h30** : wild camp drive-up **Loch Torridon shore at Annat** (coastal, **breeze depuis Loch Torridon ouvert sur l'Atlantique = OK midges**).
+  - **19h30-21h00** : souper **Torridon Inn pub** (à 200 m du camp, **An Teallach Brewing real ales** + Highlands food £20/pax) — récup civilisée après 3 nuits backcountry !
+  - *Nuit 7 : **🏆 Wild camp Loch Torridon shore Annat** — **récup soft** drive-up coastal. Plan-B : Torridon Campsite (£14/pax) à 500 m.*
 
-* **Jour 9 (3 août) — Sunrise Beinn Alligin ridge → Sgurr Mor + descente → drive Assynt → Stac Pollaidh → Achmelvich coastal :** Journée variée, hike segments tous ≤ 3 h 30 — sleep coastal (anti-midges).
-  - **05h30 lever** : sunrise sur l'Atlantique depuis le col Beinn Alligin (5h sunrise) — **moment cinématique majeur**. Café au camp.
-  - **06h30-09h30** : **🏆 Beinn Alligin Phase 2** — sommet **Sgurr Mor** (986 m, 30 min depuis col, vue **Black Cleft** spectaculaire) + descente complète horseshoe vers parking Coire Mhic Nobuil (3 h, 600 m descente). **Total Phase 2 : 3 h max.**
-  - **09h30-10h00** : retour véhicules + repack.
-  - **10h00-13h00** : drive Torridon → **Ullapool** via A832 + A835 (~3 h scénique, Loch Maree, Gairloch). **Stops** : photo Loch Maree + arrêt court Inverewe Garden si motivés (£12/pax NTS, gardens exotiques bord Atlantique).
-  - **13h00-14h00** : lunch **Ullapool Seafood Shack** (£14/pax fish & chips bord du port) + ravitaillement **Tesco Ullapool** (food + eau pour Achmelvich + Sandwood).
-  - **14h00-15h00** : drive Ullapool → **Stac Pollaidh trailhead** (1 h via A835 + single-track).
-  - **15h00-18h00** : **🏆 Stac Pollaidh Loop** ([AllTrails](https://www.alltrails.com/trail/scotland/highland/stac-pollaidh) — 4,5 km loop, 600 m+, **3 h max**). **La rando Highlands la plus payante en effort/récompense.** Sommet à pinacles, vue 360° Assynt + **Suilven se découpe iconique au loin** (vu de la crête de Stac Pollaidh = best viewpoint sans faire l'ascension full).
-  - **18h00-18h45** : drive Stac Pollaidh → **Lochinver** (45 min). Arrêt **Lochinver Larder** pour pies famous (£10/pax, 6+ varietés ; **Steak & Ale + Wild Boar incontournables**).
-  - **18h45-19h15** : drive Lochinver → **Achmelvich Beach** (15 min).
-  - **19h15-21h30** : **Achmelvich Beach** — sable blanc + eau turquoise (Caraïbes en Écosse). Marche libre, baignade brève (eau 12 °C). Souper réchaud sur la plage. **Vent côtier Atlantique = anti-midges parfait.**
-  - *Nuit 8 : **🏆 Wild camp Achmelvich Beach** — dunes au-dessus de la ligne marée haute. **Sleep coastal après 2 nuits ridge — récup parfaite avant Sandwood Bay J10**.*
+* **Jour 9 (3 août) — Loch Torridon recovery → drive Assynt → Stac Pollaidh → Achmelvich coastal :** Récupération matinale post-Knoydart + rando courte + coastal camp.
+  - **08h00 lever lent** Loch Torridon Annat — récupération nécessaire après 3 nuits backpack Knoydart.
+  - **08h30-09h30** : café camp + petit-déjeuner Torridon Stores Café + photo Beinn Alligin & Liathach depuis la rive.
+  - **09h30-12h30** : drive Torridon → **Ullapool** via A832 + A835 (~3 h scénique, Loch Maree, Gairloch). **Option** : court arrêt **Inverewe Garden** (£12/pax NTS, gardens exotiques bord Atlantique, 45 min) si motivés.
+  - **12h30-13h30** : lunch **Ullapool Seafood Shack** (£14/pax fish & chips bord du port) + ravitaillement **Tesco Ullapool**.
+  - **13h30-14h30** : drive Ullapool → **Stac Pollaidh trailhead** (1 h via A835 + single-track).
+  - **14h30-17h30** : **🏆 Stac Pollaidh Loop** ([AllTrails](https://www.alltrails.com/trail/scotland/highland/stac-pollaidh) — 4,5 km loop, 600 m+, **3 h max ✅**). **La rando Highlands la plus payante en effort/récompense.** Sommet à pinacles, vue 360° Assynt + **Suilven iconique au loin**. Si fatigue groupe : option **Knockan Crag** facile (1,5 km, 100 m+, geological trail visitor centre).
+  - **17h30-18h15** : drive Stac Pollaidh → **Lochinver** (45 min). Arrêt **Lochinver Larder** pour pies famous (£10/pax, **Steak & Ale + Wild Boar incontournables**).
+  - **18h15-18h45** : drive Lochinver → **Achmelvich Beach** (15 min).
+  - **18h45-21h30** : **Achmelvich Beach** — sable blanc + eau turquoise (Caraïbes en Écosse). Souper réchaud sur la plage. **Vent côtier Atlantique = anti-midges parfait.**
+  - *Nuit 8 : **🏆 Wild camp Achmelvich Beach** — dunes au-dessus de la ligne marée haute. **2 nuits coastal de récup avant Sandwood Bay J10**.*
 
 * **Jour 10 (4 août) — Achmelvich → Sandwood Bay (Cape Wrath) — le bout du monde :**
   - **07h30** : café au camp Achmelvich + démontage.
@@ -529,10 +535,10 @@ Critère absolu pour ce voyage : **profiter du privilège unique au monde du wil
 | J2 (27 juil) | **Airbnb Edinburgh** (1ère nuit) | Arrivée jet-lag, Old Town + Royal Mile + pub crawl. Décompresse avant Highlands. | — |
 | J3 (28 juil) | **🏆 Glen Etive (rive River Etive)** | **Skyfall (James Bond) location**, sons rivière, montagnes des deux côtés. Single-track 24 km dans la vallée la plus cinématique d'Écosse. | Red Squirrel Campsite Glencoe (£12/pax). |
 | J4 (29 juil) | **Glen Etive 2e spot OU Loch Achtriochtan** | Garder Glen Etive (autre clearing) pour 2e nuit OU bord Loch Achtriochtan (5 min Glencoe village, vue Three Sisters). | Red Squirrel Campsite. |
-| J5 (30 juil) | **🏆 Sligachan (Old Bridge area)** | Vue iconique Sligachan Old Bridge + Cuillin Black Ridge en arrière-plan. Pub Sligachan Hotel à 50 m pour pints. | Sligachan Campsite officiel (£10/pax). |
-| J6 (31 juil) | **🏆 Quiraing area (sommet col)** | **Paysage le plus surréaliste de Skye**, vue lunaire Trotternish ridge. Vent fort possible. | Camping Brothers' Point parking ; Glenview Hostel. |
-| J7 (1 août) | **🏆 Neist Point clifftop** | **Bout du monde Skye**, sons vagues Atlantique, sunset sur falaises basaltiques. **Spot wild camping le plus iconique de Skye**. | Glenbrittle Campsite (£12/pax). |
-| J8 (2 août) | **🏆🏆 Beinn Alligin ridge col (~900 m, hike-in 4 h)** | Crête entre Tom na Gruagaich et Sgurr Mor, vue 360° océan + Loch Torridon + Skye. **Vent constant Atlantique = anti-midges parfait**. Sunset 21h25 spectaculaire. [AllTrails Beinn Alligin Circular](https://www.alltrails.com/trail/scotland/highlands/tom-na-gruagaich-and-beinn-alligin-circular) | Descente rapide vers Coire Mhic Nobuil + Applecross Inn pub + Applecross Campsite (£12/pax). |
+| J5 (30 juil) | **🏆 Long Beach Inverie (Knoydart)** | Plage sable abritée 1 km west of Inverie après dîner Old Forge pub. Coastal Atlantic-facing = anti-midges. Acclimatation soft avant les 2 nuits backcountry. | Knoydart Bunkhouse Inverie (~£18/pax). |
+| J6 (31 juil) | **🏆🏆 Barrisdale Bay machair (Knoydart)** | Plateau herbeux au-dessus de la plage Loch Hourn, **Ladhar Bheinn 1020 m visible au-dessus**, sea-level coastal. Common gray seals à l'entrée du loch. | **Barrisdale Bothy MBA** (gratuit donation, 6 personnes pierre). |
+| J7 (1 août) | **🏆🏆🏆 Bealach Coire Dhorrcail (~650 m, Knoydart high col)** | **THE summit-area camp** post-Ladhar Bheinn — col ridge avec eau (Allt Coire Dhorrcail à 50 m), abri partiel ouest, vues sommet Atlantic + Cuillins. Anti-midges (altitude + vent). | Bail-out 2 h descente vers **Barrisdale Bothy** si tempête. |
+| J8 (2 août) | **🏆 Loch Torridon shore Annat** | Recovery coastal post-Knoydart, breeze depuis Loch Torridon ouvert, Torridon Inn pub à 200 m (real ales An Teallach). | Torridon Campsite (£14/pax) à 500 m. |
 | J9 (3 août) | **🏆 Achmelvich Beach (dunes coastal)** | **Sable blanc + eau turquoise des Caraïbes**, dunes au-dessus marée haute, sentiment plage privée. Vent côtier Atlantique = **anti-midges naturel**. Récup parfaite après 2 nuits ridge. | Achmelvich Beach Campsite (£15/pax). |
 | J10 (4 août) | **🏆🏆🏆 Sandwood Bay (plage)** | **L'expérience phare du voyage** — plage la plus reculée du UK, hike-in 3,5 km, 0 civilisation, sea stack Am Buachaille. | Aucun. Si météo extrême : repli Sheigra Beach Campsite (£10/pax, 1 km de Blairmore). |
 | J11-13 | **Airbnb Edinburgh** (3 nuits finales) | Drive-in J11 PM via Dunnottar Castle. Centre Edinburgh, 4 nuits Edinburgh totales (1 J2 + 3 J11-13) pour exploration profonde + pub crawls. | — |
@@ -598,16 +604,18 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 |---|---|---|---|---|---|
 | **✅ Vols Air Canada direct A/R 7 pax** (YUL ↔ EDI, Economy Standard, **RÉSERVÉ**) | $1 055,41/pax confirmé | $7 388 | **$7 388** | $7 388 | $1 055 |
 | **Bagages Economy Standard** | 1 bag soute inclus dans tarif | $0 | $0 | $0 | $0 |
-| **🚗 Voiture #1 A/R Edinburgh 14 j** | **Prix fixe $650 unlimited miles** | $650 | **$650** | $650 | $93 |
-| **🚗 Voiture #2 A/R Edinburgh 14 j** | **Prix fixe $650 unlimited miles** | $650 | **$650** | $650 | $93 |
+| **🚗 Voiture #1 — retour anticipé Edinburgh ~10 j (J2→J11)** | **Prix négocié au pickup** : on annonce retour J11 PM (10 jours au lieu de 14). Best case pro-rata 10/14 × $650 = $464 ; conservative $500. | $465 | **$500** | $650 | $71 |
+| **🚗 Voiture #2 — retour anticipé Edinburgh ~10 j (J2→J11)** | Idem voiture #1 | $465 | **$500** | $650 | $71 |
 | **Frais one-way** | A/R = $0 | $0 | $0 | $0 | $0 |
-| **Conducteur additionnel × 2** | Souvent gratuit ou £5/jour × 14 = £70/véh | $0 (gratuit) | **$240** | $480 | $34 |
-| **Assurance LDW excess** | MIN = couverture Visa Infinite ; RÉAL = excess insurance £8/jour/véh × 2 = £224 ; PESSIM = comptoir | $0 | **$385** | $865 | $55 |
+| ~~Conducteur additionnel × 2~~ | **Retiré** — pas pris à la location | $0 | **$0** | $0 | $0 |
+| ~~Assurance LDW excess~~ | **Retiré** — couverture **Visa Infinite** Credit Card (vérifier coverage 31 jours avant départ) | $0 | **$0** | $0 | $0 |
 | **⛽ Essence** (~2 050 km, 2 véh, conso 6 L/100 km, £1,45/$1,55/$1,85 par L) | **246 L total** sur les 2 voitures | $613 | **$655** | $783 | $94 |
-| **Ferry CalMac Mallaig → Armadale** | 2 véh + 7 pax, ~£40/véh + £4/pax = ~£108 = $186 (one-way uniquement, retour via Skye Bridge gratuit) | $186 | **$186** | $220 | $27 |
-| **Stationnement Edinburgh 4 nuits** | Airbnb avec parking inclus (chercher !) ; sinon £15/jour × 2 véh × 4 nuits = £120 = $206 | $0 (Airbnb parking) | **$206** | $310 | $29 |
+| **🚢 Western Isles Cruises Mallaig ↔ Inverie ferry (Knoydart)** | 7 pax + packs, ~£15 RT/pax = $130 RT groupe | $130 | **$130** | $160 | $19 |
+| **Mallaig parking longue durée** (2 véh × 3 nuits Knoydart) | ~£3-5/jour/véh | $40 | **$60** | $80 | $9 |
+| **Stationnement Edinburgh** | Voitures retournées J11 PM = **0 nuit parking** Airbnb (sinon J11 nuit seule £30 = $52) | $0 | **$0** | $52 | $0 |
+| **Airport transfer J14** (Edinburgh centre → EDI) | **2 taxis × £30 = £60** OU tram £8/pax × 7 = £56 (luggage allowed) | $56 (tram) | **$80** | $103 | $11 |
 | **Taxis Edinburgh pubs nights** | 2 retours taxis × 2 nuits × £12/véh = £48 | $0 (à pied) | **$83** | $150 | $12 |
-| **SOUS-TOTAL TRANSPORT** | | **$9 487** | **$10 443** | **$11 496** | **$1 492** |
+| **SOUS-TOTAL TRANSPORT** | | **$9 157** | **$9 396** | **$10 016** | **$1 342** |
 
 ### 🏕️ Hébergement
 
@@ -631,11 +639,11 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 | **The Real Mary King's Close** (£20/pax × 7) | Tour souterrain Old Town J2 — recommandé | $0 (skip MIN) | **$240** | $240 | $34 |
 | **The Scotch Whisky Experience** (£25/pax × 7) | Dégustation finale J13 | $0 (skip) | **$300** | $420 | $43 |
 | **Talisker Distillery tour** (£20/pax × 7) | Toggle OFF MIN (samples libres). RÉAL = ON. | $0 (samples) | **$240** | $240 | $34 |
-| **🏆🏆 Misty Isle Boat Loch Coruisk** (£25/pax × 7) | **MUST-DO J7 AM — confirmed**, anti-midges, must-see Cuillin heart | $210 | **$210** | $300 | $30 |
+| ~~Misty Isle Boat Loch Coruisk~~ | Skipped — remplacé par Knoydart Rough Bounds 3-night trek (J5-J7) | $0 | $0 | $0 | $0 |
 | **Day trip St Andrews / Anstruther fish & chips** | Lunch £12/pax (déjà compté Nourriture) — drive cost gratuit | $0 | $0 | $0 | $0 |
 | **Festival Fringe shows** (£12/pax × 3 shows × 7) | OPTION si à Edinburgh pendant Fringe | $0 (OFF) | **$0** | $432 | $0 |
 | **Glenkinchie Distillery** (£18/pax × 7) | Day trip option J13 alt | $0 (OFF) | $0 | $216 | $0 |
-| **SOUS-TOTAL ACTIVITÉS** | | **$568** | **$1 564** | **$2 567** | **$223** |
+| **SOUS-TOTAL ACTIVITÉS** | | **$358** | **$1 354** | **$2 567** | **$193** |
 
 **Toggles OFF par défaut RÉAL** (impact PP si activés) : Eilean Donan $21 · Glenkinchie $31 · Misty Isle Boat $43.
 
@@ -645,13 +653,14 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 |---|---|---|---|---|---|
 | **Épicerie groupe Highlands** (8 jours wild camp × 7 pax × $/pax/jour) | $14/$20/$28 par pax/jour — Tesco/Aldi/Lidl Edinburgh + Fort William + Portree + Ullapool | $784 | **$1 120** | $1 568 | $160 |
 | **Épicerie Airbnb Edinburgh** (4 jours × 7 pax × $/pax/jour breakfasts) | $8/$12/$16 par pax/jour | $224 | **$336** | $448 | $48 |
-| **Pubs / restos Highlands** (3 sorties × 7 pax × $/pax) | Clachaig Inn + Sligachan Hotel + Torridon Inn + Lochinver Larder + Ullapool seafood ; $25/$35/$50 par pax | $525 | **$735** | $1 050 | $105 |
+| **🏆 Old Forge pub Inverie (J5 souper + J8 brunch)** | **Most remote pub UK mainland** — souper £25-30/pax + brunch £10/pax × 7 = $300 + $70 = ~$370 | $300 | **$370** | $450 | $53 |
+| **Pubs / restos Highlands** (sorties × 7 pax × $/pax) | Clachaig Inn + Torridon Inn + Lochinver Larder + Ullapool seafood + Mallaig Pier 36 ; $25/$35/$50 par pax | $525 | **$735** | $1 050 | $105 |
 | **🍺 Pub crawl Old Town J2** (£35/pax × 7) | 6 pints + snacks par personne | $420 | **$420** | $420 | $60 |
 | **🍺 Pub crawl Stockbridge J12** (£25/pax × 7) | 4 pints | $300 | **$300** | $300 | $43 |
 | **Souper trip-of-a-lifetime J13** (£40-80/pax) | Dishoom (£25) MIN / The Witchery (£55) RÉAL / Tom Kitchin (£90) PESSIM | $300 | **$660** | $1 080 | $94 |
 | **Restos Edinburgh autres** (lunches + 1 souper) | $20/$28/$40 par pax × 4-5 sorties | $560 | **$784** | $1 120 | $112 |
 | **Café / snacks** (14 jours × 7 pax × $/pax/jour) | $5/$9/$14 par pax/jour | $490 | **$882** | $1 372 | $126 |
-| **SOUS-TOTAL NOURRITURE** | | **$3 603** | **$5 237** | **$7 358** | **$748** |
+| **SOUS-TOTAL NOURRITURE** | | **$3 903** | **$5 607** | **$7 808** | **$801** |
 
 ### ⚙️ Équipement à acheter sur place
 
@@ -670,29 +679,30 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 
 | Catégorie | MIN TTL | RÉAL TTL | PESSIM TTL |
 |---|---|---|---|
-| Transport | $9 487 | $10 443 | $11 496 |
+| Transport | $9 157 | $9 396 | $10 016 |
 | Hébergement | $1 600 | $2 145 | $3 090 |
-| Activités & Châteaux | $568 | $1 564 | $2 567 |
-| Nourriture | $3 603 | $5 237 | $7 358 |
+| Activités & Châteaux | $358 | $1 354 | $2 567 |
+| Nourriture | $3 903 | $5 607 | $7 808 |
 | Équipement | $190 | $348 | $448 |
-| **Sous-total brut** | **$15 448** | **$19 737** | **$24 959** |
-| **Marge imprévus** (5 % MIN / 7 % RÉAL / 10 % PESSIM) | $772 | $1 382 | $2 496 |
-| **TOTAL GROUPE (avec marge)** | **$16 220** | **$21 119** | **$27 455** |
-| **TOTAL PAR PERSONNE** | **🎯 $2 317** | **⚠️ $3 017** | **❌ $3 922** |
-| **vs cible <$2 800/pax** | **✅ marge $483** | **❌ +$217** | **❌ +$1 122** |
+| **Sous-total brut** | **$15 208** | **$18 850** | **$23 929** |
+| **Marge imprévus** (5 % MIN / 7 % RÉAL / 10 % PESSIM) | $760 | $1 320 | $2 393 |
+| **TOTAL GROUPE (avec marge)** | **$15 968** | **$20 170** | **$26 322** |
+| **TOTAL PAR PERSONNE** | **🎯 $2 281** | **✅ $2 881** | **❌ $3 760** |
+| **vs cible <$2 800/pax** | **✅ marge $519** | **❌ +$81** | **❌ +$960** |
 
-**🎯 État du modèle (révisé post-vols réservés)** :
-- **MIN** ✅ : sous le budget de $514/pax — atteignable avec **Airbnb Edinburgh plafond bas + 0 châteaux payants sauf Edinburgh + 0 distillerie tour + cuisine groupe stricte**. Le levier "vols early-booking" n'existe plus (vols réservés à $1 055).
-- **RÉALISTE** ⚠️ : **+$185/pax au-dessus de la cible** suite au vol Air Canada confirmé à $1 055/pax (vs $850 budgété). Pour revenir sous $2 800 : **rebascule cible à $3 000/pax** OU **appliquer 2-3 leviers MIN** (skip Talisker tour −$34 + skip Mary King's Close −$34 + Dishoom au lieu de Witchery −$51 = −$119/pax → $2 866).
-- **PESSIM** ❌ : +$1 122/pax — Airbnb premium + restos premium.
+**🎯 État du modèle (révisé : LDW Visa + pas de conducteur additionnel + retour véh anticipé J11 ~10 j)** :
+- **MIN** ✅ : sous le budget de $519/pax — atteignable avec **Airbnb plafond bas + cuisine groupe stricte + skip distillerie tour**.
+- **RÉALISTE** ⚠️ : **+$81/pax au-dessus de la cible** (basically AT target). Pour passer sous $2 800 : **appliquer 1 seul levier** (skip Talisker tour −$34 OU souper Dishoom au lieu Witchery −$51) suffit.
+- **PESSIM** ❌ : +$960/pax — Airbnb premium + restos premium + voitures full 14 j.
 
 ### 🔧 Leviers pour passer du RÉALISTE au MIN (économies vs RÉALISTE)
 
 | Décision | Économie groupe | Économie PP |
 |---|---|---|
-| ~~Vols early-booking~~ — vols Air Canada déjà réservés à $1 055/pax (RÉEL = MIN = PESSIM) | $0 | $0 |
-| **LDW couvert par Visa Infinite** | −$385 | −$55 |
-| **Conducteur additionnel gratuit négocié** | −$240 | −$34 |
+| ~~Vols early-booking~~ — vols Air Canada déjà réservés à $1 055/pax | $0 | $0 |
+| ~~LDW Visa Infinite~~ — **DÉJÀ appliqué** (retiré du budget) | $0 (déjà compté) | $0 |
+| ~~Conducteur additionnel~~ — **DÉJÀ retiré** (pas pris) | $0 (déjà compté) | $0 |
+| ~~Retour voitures J11 anticipé~~ — **DÉJÀ appliqué** ($300 économisé en RÉAL) | $0 (déjà compté) | $0 |
 | **Airbnb Edinburgh plafond $400 vs $500** (4 nuits) | −$400 | −$57 |
 | **Skip Stirling Castle visite** (extérieur photo) | −$216 | −$31 |
 | **Skip Talisker Distillery tour** (samples libres) | −$240 | −$34 |
@@ -706,7 +716,7 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 ### 💸 Stratégies "trickshots" obligatoires
 
 1. **🏕️ Wild camping légal 8 nuits** : économie ~$1 200 vs camping payant Highlands. **THE big lever**.
-2. **🚗 2 voitures à $650 unlimited miles** : prix fixe = pas d'inflation FIFA WC indirect. Économie ~$700 vs location daily rate avec one-way.
+2. **🚗 2 voitures retour anticipé J11 (~10 jours réels)** : annoncer au pickup → pro-rata 10/14 × $650 ≈ $464/véh = **économie ~$370 groupe** vs full 14 j. **LDW couvert par Visa Infinite** (vérifier coverage 31j) = **+$385 économisé**. **Pas de conducteur additionnel** = **+$240 économisé**.
 3. **🍺 Pubs vs restos** : £5-7 pint + £14 bar food (£19/pax) vs £30+ resto. Pub crawls = 1 vraie expérience par £35/pax.
 4. **🛒 Tesco/Aldi/Lidl** : 40 % moins cher que pubs/cafés. Cuisiner Airbnb breakfasts + camp = $14-20/pax/jour.
 5. **🌉 Skye Bridge gratuit** (Kyle of Lochalsh) : retour Skye → mainland. Ferry CalMac uniquement à l'aller (Mallaig → Armadale, £90 groupe), retour gratuit.
@@ -748,7 +758,7 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 
 ### À AGIR cette semaine (critique)
 0. ✅ **Vols Air Canada direct YUL ↔ EDI RÉSERVÉS** — $1 055,41/pax (Economy Standard, 1 bag soute). Aller 26 juil 20:30 YUL → 27 juil 07:40 EDI (6 h 10) ; retour 8 août 09:15 EDI → 11:10 YUL (6 h 55).
-1. **2 voitures à $650 unlimited miles** — confirmer disponibilité MAINTENANT (booker 3 mois avant). Confirmer **2 chauffeurs UK-manual compétents**. **Inclure 2e conducteur** (gratuit ou £5/jour).
+1. **2 voitures à $650 unlimited miles, retour anticipé J11** — confirmer disponibilité MAINTENANT (booker 3 mois avant). Confirmer **2 chauffeurs UK-manual compétents**. **Pas de conducteur additionnel** (1 chauffeur principal par voiture). **LDW couverte par Visa Infinite** (vérifier 31 j coverage avant départ — appeler Visa). **Au pickup, annoncer retour J11 PM (~10 j au lieu de 14)** pour négocier pro-rata.
 2. **Airbnb Edinburgh 4 nuits (J2 + J11-J13)** — **booker IMMÉDIATEMENT**, plafond $500/nuit pour 7 pax. Quartiers : **Stockbridge / Old Town / Newington / Bruntsfield**. **Idéalement même Airbnb pour les deux blocs** (négocier hold sur les 8 nuits Highlands au milieu, ou rebook même unité). **CRITICAL** : Edinburgh août = Festival Fringe = prix triplent sans booking 6+ mois avant. **Filtrer "free parking on premises"** = économie £200.
 3. **Festival Fringe billets** — programme online en mai 2026, booker 2-3 shows.
 4. **Castle Tioram marées** — vérifier marées Loch Moidart pour J5 PM. Si haute marée = château photo depuis rive ; basse = traversée isthme à pied.
@@ -778,7 +788,7 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 
 * Utilise ce contexte pour répondre à toute question concernant la logistique, les recommandations de randonnées, ou l'optimisation des temps de conduite en Écosse.
 * **Ne modifie pas les dates du voyage** (26 juil → 8 août 2026) — alignées avec plans Canada/Islande.
-* **Ne modifie pas la cadence Edinburgh-kickoff → wild-camping-progressif → Edinburgh-finale** : c'est l'élément structural du voyage. **1 nuit Airbnb Edinburgh (J2) + 8 nuits wild camping (J3-J10) + 3 nuits Airbnb Edinburgh (J11-J13)** = 4 nuits Edinburgh totales.
+* **Ne modifie pas la cadence Edinburgh-kickoff → Glencoe → 🏆 Knoydart 3-night backpack → Highlands NW → Sandwood Bay → Edinburgh-finale** : c'est l'élément structural du voyage. **1 nuit Airbnb Edinburgh (J2) + 2 nuits Glencoe (J3-J4) + 3 nuits Knoydart backpack (J5-J7) + 3 nuits coastal NW Highlands (J8-J10) + 3 nuits Airbnb Edinburgh (J11-J13)** = 12 nuits totales.
 * Si tu proposes des activités, assure-toi qu'elles soient compatibles avec un groupe de 7 adultes voyageant avec **2 petites voitures conduite à gauche manuel**, wild camping, et météo écossaise variable.
 * Les temps de conduite viennent de Google Maps sans trafic ; ajoute **20-30 % tampon pour single-tracks Highlands** (passing places, moutons, caravanes touristiques).
 * **Wild camping légal** central — ne propose pas de campings payants si zone autorisée Land Reform Act (sauf bylaws Loch Lomond).
