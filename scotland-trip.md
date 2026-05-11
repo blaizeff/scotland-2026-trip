@@ -117,9 +117,9 @@ Le voyage est conçu comme une **progression géographique vers les paysages les
 | 4 | 29 juil | **Glen Etive + Buachaille Etive Mòr / Lost Valley (Glencoe)** | Hard (Buachaille) ou Mod (Lost Valley) |
 | 5 | 30 juil | Glencoe → Glenfinnan + **Castle Tioram** → ferry/bridge Skye → wild camp Sligachan | Doux + drive |
 | 6 | 31 juil | **Skye Day 1 : Old Man of Storr + Quiraing** → wild camp Quiraing area | Modéré × 2 (4 km + 7 km) |
-| 7 | 1 août | **Skye Day 2 : Fairy Pools + Neist Point sunset** → wild camp côte ouest Skye | Doux × 2 |
-| 8 | 2 août | Skye → **Eilean Donan Castle** → **Torridon (Beinn Eighe / Liathach)** → wild camp | Modéré (8 km) |
-| 9 | 3 août | Torridon → **Stac Pollaidh (Assynt)** → wild camp Achmelvich Beach | Modéré (4 km, 600 m+) |
+| 7 | 1 août | **🏆🏆 Misty Isle Boat Loch Coruisk + Fairy Pools + Neist Point sunset** | Doux + boat |
+| 8 | 2 août | Skye → Eilean Donan drive-by → **🏆🏆 Beinn Alligin ridge overnight** (col 900 m, vent = anti-midges) | Mod (4 h up to col, segments ≤4 h) |
+| 9 | 3 août | Sgurr Mor sunrise + descente → **Stac Pollaidh** → wild camp **Achmelvich Beach** coastal | Mod × 2 (3 h + 3 h) |
 | 10 | 4 août | **🏆 Sandwood Bay (Cape Wrath)** hike-in → wild camp plage | Doux 7 km AR + nuit plage |
 | 11 | 5 août | Drive sud via NC500 → **Dunnottar Castle (Stonehaven)** → Edinburgh | Long drive scenic |
 | 12 | 6 août | **Edinburgh Day 2** : Arthur's Seat AM + New Town + Stockbridge + pubs alternatifs | Doux (4 km) + urbain |
@@ -251,6 +251,33 @@ Le voyage est conçu comme une **progression géographique vers les paysages les
 | **Edinburgh Old Town** | Jour 2 | Royal Mile, château, Greyfriars Kirkyard (origine Tom Riddle de Harry Potter), Grassmarket, **The Last Drop** pub. |
 | **Edinburgh New Town** | Jour 12 | Princes Street Gardens, National Gallery (gratuit), Stockbridge, Dean Village. |
 | **Edinburgh Leith** | Jour 13 (option) | Ancien port d'Edinburgh, gentrifié, **The Shore** restaurants (Michelin-starred Fishers ou Tom Kitchin). |
+
+## ---
+
+**🍺 PUBS HIGHLANDS MUST-VISIT — stout & scotch sur la route**
+
+Sélection priorisée pour amateurs de **stout, real ale, single malt**. Tous sur ou détour mineur de la route principale.
+
+| Pub | Quand | Pourquoi must-visit | Notes |
+|---|---|---|---|
+| **🏆 Clachaig Inn** (Glencoe) | Jour 4 PM | Pub mythique des grimpeurs depuis 1830, **400+ whiskies single malt**, fameux "No Hawkers, No Campbells" sign (massacre Glencoe 1692). **Cask ales locaux + Williams Bros stouts**. | [clachaig.com](https://www.clachaig.com/) · Souper £18-25/pax. **DÉJÀ planifié J4.** |
+| **🏆 Sligachan Hotel Bar** (Skye) | Jour 5-6 soir | Pub Cuillin-view, terrasse jardin l'été, **Skye Brewery on tap (Red Cuillin, Black Cuillin stout)**. Pints £5,50. | DÉJÀ accessible J5 wild camp. |
+| **🏆🏆 Stein Inn** (Skye, Waternish) | Jour 6 (option) | **Plus vieux pub de Skye (1790)**. Bord de mer, vue Loch Bay, **whisky cellar 100+ malts** + **Hebridean Brewing ales**. Détour 30 min depuis route Quiraing → Fairy Pools. | [steininn.co.uk](https://www.stein-inn.co.uk/) · Pints £5,50, food £18/pax. |
+| **🏆 The Old Inn Carbost** (Skye) | Jour 7 alt | Pub bord de loch, **vue Cuillins**, à 200 m de Talisker Distillery. **Talisker on tap + Skye ales**. | [theoldinnskye.co.uk](https://www.theoldinnskye.co.uk/) · Bar food £14/pax. |
+| **🏆🏆🏆 Applecross Inn** (Wester Ross) | Jour 8 alt PM (détour 1 h 30 depuis Torridon) | **Voted Best Pub Scotland 2018** (Good Pub Guide). Bout du **Bealach na Bà** — la route la plus dramatique d'Écosse (cols 626 m, hairpins). Fresh seafood (langoustines, crab, scallops) + **An Teallach Brewing ales**. | [applecrossinn.co.uk](https://www.applecrossinn.co.uk/) · Souper £25-35/pax. **Détour gros mais épique.** |
+| **🏆 Torridon Inn** (Annat) | Jour 8 alt | Pub fin du monde au pied des Munros sandstone. **Cromarty Brewing stouts + Torridon Whisky** (distillerie locale). | DÉJÀ accessible J8 (alternative camp). |
+| **Ullapool Seafood Shack** (port) | Jour 9 lunch | Pas un pub mais incontournable — **fish & chips gourmet £14/pax** bord du port. Plus pubs Ullapool : **Ferry Boat Inn** (cask ales) + **Argyll Hotel**. | DÉJÀ planifié J9. |
+| **🏆 Aviemore — Old Bridge Inn** | Jour 11 PM (option) | Pub Cairngorms riverside, **Cairngorm Brewery on tap (Trade Winds, Black Gold stout)**, food primé. Sur route Sandwood → Edinburgh. | [oldbridgeinn.co.uk](https://www.oldbridgeinn.co.uk/) · Souper £20/pax. |
+
+**🎯 Top picks** : **Stein Inn (Skye J6) + Applecross Inn (Torridon J8) + Clachaig Inn (Glencoe J4)** = trois expériences pub trip-of-a-lifetime.
+
+**Brasseries écossaises à goûter** :
+- **Williams Bros** (Alloa) — Profanity Stout, Fraoch Heather Ale (5 000 ans de tradition).
+- **Cromarty Brewing Co** — Happy Chappy, AKA IPA, Atlantic Drift cask.
+- **Skye Brewery** — Red Cuillin (red ale), Black Cuillin (stout 4.5%).
+- **Cairngorm Brewery** — Trade Winds (golden ale), Black Gold stout, Highland IPA.
+- **An Teallach** (Wester Ross) — Crofters Pale Ale, Beinn Dearg Ale.
+- **Hebridean** (Stornoway) — Berserker Export Pale Ale, Clansman.
 
 ## ---
 
@@ -386,54 +413,50 @@ Edinburgh **encadre** le voyage — 1 nuit arrivée (J2) + 3 nuits finales (J11-
   - **19h30-20h30** : drive vers wild camp **Quiraing area** ou **côte nord Skye** — sites populaires : parking Quiraing au sommet du col (vue plongeante), Loch Hasco area, ou **Brothers' Point parking** (côte est).
   - *Nuit 5 : **🏆 Wild camp Quiraing area sommet col** — vue lunaire + Trotternish ridge. Possible vent fort (col exposé) — choisir spot abrité.*
 
-* **Jour 7 (1 août) — Skye Day 2 : Fairy Pools + Neist Point sunset :**
-  - **08h00** : café camp + démontage.
-  - **08h30-09h30** : drive Quiraing → **Fairy Pools** (Glen Brittle, 1 h via B884 single-track).
-  - **09h30-12h00** : **🏆 Fairy Pools** (4 km, 130 m+, 2 h 30 avec baignade). **Eau glacée 8-10 °C** — courageux only. Vue Cuillin Ridge en arrière-plan.
-  - **12h00-13h00** : drive Glen Brittle → **Talisker Distillery** (Carbost, 25 min). **Boutique samples** (gratuit/£5) ou **tour formel** (£20/pax = $240, 1 h, recommandé pour amateurs whisky).
-  - **13h00-14h00** : lunch **The Old Inn Carbost** (pub bord de loch, vue Cuillins) — pints + bar food £14/pax.
-  - **14h00-15h30** : drive Talisker → **Coral Beaches Claigan** (1 h via B884 + A863). 
-  - **15h30-17h00** : **Coral Beaches walk** (3,5 km, 1 h 30) — sable corail blanc rare, eau turquoise, vue Cuillins.
-  - **17h00-18h30** : drive Coral Beaches → **Neist Point** (1 h via B884).
-  - **18h30-22h00** : **🏆 Neist Point Lighthouse** (3 km, 100 m+, 1 h 30 marche + 2 h sunset hangout + souper réchaud sur clifftop). **Coucher de soleil ~21h25 fin juillet** = LE spot photo de Skye, falaises basaltiques + phare + Atlantique.
+* **Jour 7 (1 août) — Skye Day 2 : 🏆🏆 Misty Isle Boat Loch Coruisk + Fairy Pools + Neist Point sunset :** Le must-see Skye — entrer au cœur des Cuillins par bateau (zéro effort, zéro midges sur le bateau), puis 2 spots iconiques l'après-midi.
+  - **05h30 lever** Quiraing camp + démontage rapide (départ early pour attraper boat 9h30).
+  - **06h00-08h30** : drive Quiraing → **Elgol** (~2 h 30 via A855 + A87 + A881, 130 km). Petit-déjeuner café au volant ou rapide à Broadford.
+  - **09h30-13h30** : **🏆🏆 Misty Isle Boat Trip Elgol → Loch Coruisk** ([mistyisleboattrips.co.uk](https://www.mistyisleboattrips.co.uk/), £25/pax × 7 = $210 groupe, ~3 h 30 round-trip avec **1 h 30 ashore**). **Loch Coruisk = le loch le plus dramatique du UK**, encerclé par toutes les Cuillin Ridge — accessible uniquement par bateau ou trek 18 km. Phoques + Bad Step + alimentation Loch na Cuilce.
+  - **13h30-14h30** : lunch **Coruisk Memorial Hut Café Elgol** (£15/pax fish & chips fresh) ou pique-nique sur place.
+  - **14h30-15h30** : drive Elgol → **Fairy Pools** (Glen Brittle, ~1 h via A881 + B884).
+  - **15h30-17h30** : **🏆 Fairy Pools** (4 km, 130 m+, 2 h avec baignade). Eau glacée 8-10 °C — courageux only. Vue Cuillin Ridge.
+  - **17h30-18h30** : drive Fairy Pools → **Neist Point** (1 h via B884). **Skip Coral Beaches + Talisker tour** (compromise pour Misty Isle Boat).
+  - **18h30-22h00** : **🏆 Neist Point Lighthouse** (3 km, 100 m+, 1 h 30 marche + 2 h sunset hangout + souper réchaud sur clifftop). **Coucher de soleil ~21h25 fin juillet** = LE spot photo de Skye, falaises basaltiques + phare + Atlantique. **Vent constant = anti-midges parfait.**
   - **22h00** : montage camp directement sur **clifftop area** ou retour parking Neist Point pour wild camp van-side.
   - *Nuit 6 : **🏆 Wild camp Neist Point clifftop** — sons des vagues, étoiles, sensation bout du monde. Vent fort possible — tente solide + sardines bien ancrées.*
 
 ### **Phase 2 : Highlands extrêmes (2-4 août)**
 
-* **Jour 8 (2 août) — Skye → Eilean Donan → Torridon :**
-  - **08h00** : café au camp + démontage.
-  - **08h30-10h00** : drive Neist Point → Skye Bridge → **Eilean Donan Castle** (1 h 30 via A87 + Skye Bridge gratuit).
-  - **10h00-11h00** : **🏆 Eilean Donan Castle** — photo extérieure depuis le pont (gratuit, 30 min) + traversée du pont en pierre (gratuit). **Visite intérieure £12/pax = $145 groupe = OPTIONNELLE** (1 h, voir le hall + cuisines).
-  - **11h00-12h00** : drive Eilean Donan → **Plockton** (45 min via single-track).
-  - **12h00-13h30** : **Plockton coastal walk** (4 km, 1 h 30) + lunch **Plockton Inn** (palmiers, phoques en baie). Village de carte postale.
-  - **13h30-15h00** : drive Plockton → **Torridon village** (1 h 30 via A87 + A890 + A896, single-track).
-  - **15h00-16h00** : check-in **Torridon Stores & Café** (épicerie last-minute, café). Repérage parking trailhead Beinn Alligin ou Coire Mhic Fhearchair.
-  - **16h00-19h30** : **🏆 Coire Mhic Fhearchair (Beinn Eighe Loop)** (16 km, 700 m+, 6-7 h — peut être trop long si départ tardif).
-    - **Pick recommandée si départ ≤ 14h** : Coire Mhic Fhearchair (vue spectaculaire coire + Triple Buttress).
-    - **Pick si départ tardif J8** : skip rando du jour, juste **Diabaig Coastal Path** (6 km, 200 m+, 2 h) en début de soirée (coucher du soleil 21h25).
-    - **Plan B** : reporter rando Beinn Alligin / Eighe au matin J9 si arrivée fatigue.
-  - **20h00** : souper **Torridon Inn** (pub fin du monde, £20/pax) ou cuisine camp.
-  - **20h30-21h30** : drive vers wild camp — **Loch Maree shore** (15 min ouest) ou **Loch Torridon shore près Annat** (5 min).
-  - *Nuit 7 : **🏆 Wild camp Loch Maree** ou **Loch Torridon** — montagnes Torridon Beinn Eighe en arrière-plan, eau plate.*
+* **Jour 8 (2 août) — Skye → Eilean Donan drive-by → 🏆🏆 Beinn Alligin ridge overnight :** Camp sur la crête à 1000m+ (vent constant = anti-midges parfait). Hike segmenté : 4 h jusqu'au col J8, puis sommet Sgurr Mor + descente J9 (3 h).
+  - **07h30** : café au camp + démontage Neist Point.
+  - **08h00-09h30** : drive Neist Point → Skye Bridge → **Eilean Donan Castle** (1 h 30 via A87).
+  - **09h30-10h00** : **Eilean Donan photo extérieure** depuis le pont (gratuit, 30 min, **skip visite intérieure**).
+  - **10h00-11h30** : drive Eilean Donan → **Torridon village** (1 h 30 via A87 + A890 + A896 single-track).
+  - **11h30-13h00** : lunch + ravitaillement **Torridon Stores & Café** (food + eau pour 24 h backpack), répartition packs léger (tente + duvet + réchaud + eau filtrée + nourriture pour 1 nuit). **Laisser excédent dans voitures** (parking trailhead Coire Mhic Nobuil).
+  - **13h00-13h30** : drive Torridon → parking **Coire Mhic Nobuil** (Beinn Alligin trailhead, 5 km via A896).
+  - **13h30-17h30** : **🏆🏆 Hike-in Beinn Alligin Horseshoe Phase 1** ([AllTrails: Tom na Gruagaich + Beinn Alligin Circular](https://www.alltrails.com/trail/scotland/highlands/tom-na-gruagaich-and-beinn-alligin-circular) — 11,3 km loop, 1 243 m+, **trail tagged camping**, 4.8★). Phase 1 : 4 h max — montée par Tom na Gruagaich (922 m) puis traversée crête vers col entre les 2 sommets. **Pauses photos régulières — pas de course, on prend le temps.**
+  - **17h30-19h30** : pose camp sur **col entre Tom na Gruagaich et Sgurr Mor** (~900 m altitude, vent constant Atlantique = **0 midges**). Vue 360° océan + Loch Torridon + Skye au loin. Souper réchaud + eau filtrée des dernières burns.
+  - **19h30-22h00** : sunset 21h25 sur l'Atlantique depuis la crête — **moment trip-of-a-lifetime**. Ciel étoilé.
+  - *Nuit 7 : **🏆🏆 Wild camp ridge col Beinn Alligin** (~900 m). **Vent = anti-midges naturel.** Tente solide obligatoire (vent fort). Plan-B si tempête : descente rapide vers Coire Mhic Nobuil + drive **Applecross Inn** (1 h 30) pour pub gourmet + nuit Applecross Campsite (£12/pax).*
 
-* **Jour 9 (3 août) — Torridon → Stac Pollaidh (Assynt) → Achmelvich Beach :** Drive nord + signature Highland mountain hike.
-  - **07h30** : café au camp + démontage.
-  - **08h00-10h00** : (option) **Beinn Alligin Horseshoe** (11 km, 1 100 m+, 6-7 h) — **SI on a skipping Coire Mhic Fhearchair la veille** ou si forme. Sinon, drive direct.
-  - **08h00-12h00** : drive Torridon → Stac Pollaidh trailhead (~3 h 30 via A832 + A835, traversée **Loch Maree** + **Gairloch** + **Ullapool** lunch stop).
-  - **12h00-13h00** : lunch **Ullapool Seafood Shack** (£14/pax) — fish & chips gourmet bord du port.
-  - **13h00-13h45** : drive Ullapool → **Stac Pollaidh trailhead** (45 min via A835 + single-track).
-  - **13h45-17h00** : **🏆 Stac Pollaidh Loop** (4,5 km, 600 m+, 3 h) — **la rando Highlands la plus payante en effort/récompense**. Court, raide, sommet à pinacles, vue 360° Assynt.
-  - **17h00-17h45** : drive Stac Pollaidh → **Lochinver** (45 min). Arrêt **Lochinver Larder** pour pies famous (£10/pax).
-  - **17h45-18h15** : drive Lochinver → **Achmelvich Beach** (15 min).
-  - **18h15-21h00** : **Achmelvich Beach** — sable blanc + eau turquoise (sérieusement Caraïbes en Écosse). Marche libre, baignade brève (eau 12 °C). Souper réchaud sur la plage.
-  - *Nuit 8 : **🏆 Wild camp Achmelvich Beach** — dunes au-dessus de la ligne marée haute. Plage protégée, vent côtier modéré.*
+* **Jour 9 (3 août) — Sunrise Beinn Alligin ridge → Sgurr Mor + descente → drive Assynt → Stac Pollaidh → Achmelvich coastal :** Journée variée, hike segments tous ≤ 3 h 30 — sleep coastal (anti-midges).
+  - **05h30 lever** : sunrise sur l'Atlantique depuis le col Beinn Alligin (5h sunrise) — **moment cinématique majeur**. Café au camp.
+  - **06h30-09h30** : **🏆 Beinn Alligin Phase 2** — sommet **Sgurr Mor** (986 m, 30 min depuis col, vue **Black Cleft** spectaculaire) + descente complète horseshoe vers parking Coire Mhic Nobuil (3 h, 600 m descente). **Total Phase 2 : 3 h max.**
+  - **09h30-10h00** : retour véhicules + repack.
+  - **10h00-13h00** : drive Torridon → **Ullapool** via A832 + A835 (~3 h scénique, Loch Maree, Gairloch). **Stops** : photo Loch Maree + arrêt court Inverewe Garden si motivés (£12/pax NTS, gardens exotiques bord Atlantique).
+  - **13h00-14h00** : lunch **Ullapool Seafood Shack** (£14/pax fish & chips bord du port) + ravitaillement **Tesco Ullapool** (food + eau pour Achmelvich + Sandwood).
+  - **14h00-15h00** : drive Ullapool → **Stac Pollaidh trailhead** (1 h via A835 + single-track).
+  - **15h00-18h00** : **🏆 Stac Pollaidh Loop** ([AllTrails](https://www.alltrails.com/trail/scotland/highland/stac-pollaidh) — 4,5 km loop, 600 m+, **3 h max**). **La rando Highlands la plus payante en effort/récompense.** Sommet à pinacles, vue 360° Assynt + **Suilven se découpe iconique au loin** (vu de la crête de Stac Pollaidh = best viewpoint sans faire l'ascension full).
+  - **18h00-18h45** : drive Stac Pollaidh → **Lochinver** (45 min). Arrêt **Lochinver Larder** pour pies famous (£10/pax, 6+ varietés ; **Steak & Ale + Wild Boar incontournables**).
+  - **18h45-19h15** : drive Lochinver → **Achmelvich Beach** (15 min).
+  - **19h15-21h30** : **Achmelvich Beach** — sable blanc + eau turquoise (Caraïbes en Écosse). Marche libre, baignade brève (eau 12 °C). Souper réchaud sur la plage. **Vent côtier Atlantique = anti-midges parfait.**
+  - *Nuit 8 : **🏆 Wild camp Achmelvich Beach** — dunes au-dessus de la ligne marée haute. **Sleep coastal après 2 nuits ridge — récup parfaite avant Sandwood Bay J10**.*
 
-* **Jour 10 (4 août) — Sandwood Bay (Cape Wrath) — le bout du monde :**
-  - **07h30** : café au camp + démontage.
+* **Jour 10 (4 août) — Achmelvich → Sandwood Bay (Cape Wrath) — le bout du monde :**
+  - **07h30** : café au camp Achmelvich + démontage.
   - **08h00-10h00** : drive Achmelvich → **Blairmore parking Sandwood Bay** (~2 h via A894 + B801 single-track). Arrêts : **Kylesku Bridge** (photo 5 min) + **Scourie** (essence si besoin).
   - **10h00-10h30** : préparation : sacs allégés (juste tente + duvet + nourriture/eau pour 1 nuit + filtre eau si dispo). Laisser tout le reste dans les voitures (parking sécurisé, FCFS gratuit ~30 places).
-  - **10h30-12h30** : **🏆 Hike-in Sandwood Bay** (~7 km AR / 3,5 km aller, 1 h 30 aller). Sentier plat à travers tourbières + landes. Apparition progressive de la baie au sommet de la dernière dune = moment.
+  - **10h30-12h30** : **🏆 Hike-in Sandwood Bay** ([AllTrails: Sandwood Bay](https://www.alltrails.com/trail/scotland/highland/sandwood-bay-trail) — ~7 km AR / 3,5 km aller, 1 h 30 aller). Sentier plat à travers tourbières + landes. Apparition progressive de la baie au sommet de la dernière dune = moment.
   - **12h30-14h00** : **arrivée Sandwood Bay** — sable rose-doré + falaises grès + arche **Am Buachaille** sea stack 65 m. Pose camp (loin du parking-end pour solitude). Lunch.
   - **14h00-17h00** : **exploration libre plage** — marche jusqu'à Am Buachaille (2 km vers nord), exploration grottes côte nord, baignade brève (eau 12 °C, vagues fortes).
   - **17h00-19h00** : feu de bois flotté (autorisé sur sable au-dessus marée haute, prudence, **ne pas brûler tourbe ou herbe**) ou réchaud. Souper.
@@ -509,8 +532,8 @@ Critère absolu pour ce voyage : **profiter du privilège unique au monde du wil
 | J5 (30 juil) | **🏆 Sligachan (Old Bridge area)** | Vue iconique Sligachan Old Bridge + Cuillin Black Ridge en arrière-plan. Pub Sligachan Hotel à 50 m pour pints. | Sligachan Campsite officiel (£10/pax). |
 | J6 (31 juil) | **🏆 Quiraing area (sommet col)** | **Paysage le plus surréaliste de Skye**, vue lunaire Trotternish ridge. Vent fort possible. | Camping Brothers' Point parking ; Glenview Hostel. |
 | J7 (1 août) | **🏆 Neist Point clifftop** | **Bout du monde Skye**, sons vagues Atlantique, sunset sur falaises basaltiques. **Spot wild camping le plus iconique de Skye**. | Glenbrittle Campsite (£12/pax). |
-| J8 (2 août) | **🏆 Loch Maree shore OU Loch Torridon shore** | Montagnes Torridon Beinn Eighe en arrière-plan, eau plate, ambiance "fin du monde calme". | Torridon Campsite (£14/pax). |
-| J9 (3 août) | **🏆 Achmelvich Beach (dunes)** | **Sable blanc + eau turquoise des Caraïbes**, dunes au-dessus marée haute, sentiment plage privée. | Achmelvich Beach Campsite (£15/pax). |
+| J8 (2 août) | **🏆🏆 Beinn Alligin ridge col (~900 m, hike-in 4 h)** | Crête entre Tom na Gruagaich et Sgurr Mor, vue 360° océan + Loch Torridon + Skye. **Vent constant Atlantique = anti-midges parfait**. Sunset 21h25 spectaculaire. [AllTrails Beinn Alligin Circular](https://www.alltrails.com/trail/scotland/highlands/tom-na-gruagaich-and-beinn-alligin-circular) | Descente rapide vers Coire Mhic Nobuil + Applecross Inn pub + Applecross Campsite (£12/pax). |
+| J9 (3 août) | **🏆 Achmelvich Beach (dunes coastal)** | **Sable blanc + eau turquoise des Caraïbes**, dunes au-dessus marée haute, sentiment plage privée. Vent côtier Atlantique = **anti-midges naturel**. Récup parfaite après 2 nuits ridge. | Achmelvich Beach Campsite (£15/pax). |
 | J10 (4 août) | **🏆🏆🏆 Sandwood Bay (plage)** | **L'expérience phare du voyage** — plage la plus reculée du UK, hike-in 3,5 km, 0 civilisation, sea stack Am Buachaille. | Aucun. Si météo extrême : repli Sheigra Beach Campsite (£10/pax, 1 km de Blairmore). |
 | J11-13 | **Airbnb Edinburgh** (3 nuits finales) | Drive-in J11 PM via Dunnottar Castle. Centre Edinburgh, 4 nuits Edinburgh totales (1 J2 + 3 J11-13) pour exploration profonde + pub crawls. | — |
 
@@ -608,11 +631,11 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 | **The Real Mary King's Close** (£20/pax × 7) | Tour souterrain Old Town J2 — recommandé | $0 (skip MIN) | **$240** | $240 | $34 |
 | **The Scotch Whisky Experience** (£25/pax × 7) | Dégustation finale J13 | $0 (skip) | **$300** | $420 | $43 |
 | **Talisker Distillery tour** (£20/pax × 7) | Toggle OFF MIN (samples libres). RÉAL = ON. | $0 (samples) | **$240** | $240 | $34 |
-| **Misty Isle Boat Coruisk** (£25/pax × 7) | Toggle OFF (skip Coruisk dans nouvelle version) | $0 (OFF) | $0 | $300 | $0 |
+| **🏆🏆 Misty Isle Boat Loch Coruisk** (£25/pax × 7) | **MUST-DO J7 AM — confirmed**, anti-midges, must-see Cuillin heart | $210 | **$210** | $300 | $30 |
 | **Day trip St Andrews / Anstruther fish & chips** | Lunch £12/pax (déjà compté Nourriture) — drive cost gratuit | $0 | $0 | $0 | $0 |
 | **Festival Fringe shows** (£12/pax × 3 shows × 7) | OPTION si à Edinburgh pendant Fringe | $0 (OFF) | **$0** | $432 | $0 |
 | **Glenkinchie Distillery** (£18/pax × 7) | Day trip option J13 alt | $0 (OFF) | $0 | $216 | $0 |
-| **SOUS-TOTAL ACTIVITÉS** | | **$358** | **$1 354** | **$2 567** | **$193** |
+| **SOUS-TOTAL ACTIVITÉS** | | **$568** | **$1 564** | **$2 567** | **$223** |
 
 **Toggles OFF par défaut RÉAL** (impact PP si activés) : Eilean Donan $21 · Glenkinchie $31 · Misty Isle Boat $43.
 
@@ -649,14 +672,14 @@ Toutes valeurs en $CAD. **TTL = total groupe** (7 pax). **PP = par personne**. *
 |---|---|---|---|
 | Transport | $9 487 | $10 443 | $11 496 |
 | Hébergement | $1 600 | $2 145 | $3 090 |
-| Activités & Châteaux | $358 | $1 354 | $2 567 |
+| Activités & Châteaux | $568 | $1 564 | $2 567 |
 | Nourriture | $3 603 | $5 237 | $7 358 |
 | Équipement | $190 | $348 | $448 |
-| **Sous-total brut** | **$15 238** | **$19 527** | **$24 959** |
-| **Marge imprévus** (5 % MIN / 7 % RÉAL / 10 % PESSIM) | $762 | $1 367 | $2 496 |
-| **TOTAL GROUPE (avec marge)** | **$16 000** | **$20 894** | **$27 455** |
-| **TOTAL PAR PERSONNE** | **🎯 $2 286** | **⚠️ $2 985** | **❌ $3 922** |
-| **vs cible <$2 800/pax** | **✅ marge $514** | **❌ +$185** | **❌ +$1 122** |
+| **Sous-total brut** | **$15 448** | **$19 737** | **$24 959** |
+| **Marge imprévus** (5 % MIN / 7 % RÉAL / 10 % PESSIM) | $772 | $1 382 | $2 496 |
+| **TOTAL GROUPE (avec marge)** | **$16 220** | **$21 119** | **$27 455** |
+| **TOTAL PAR PERSONNE** | **🎯 $2 317** | **⚠️ $3 017** | **❌ $3 922** |
+| **vs cible <$2 800/pax** | **✅ marge $483** | **❌ +$217** | **❌ +$1 122** |
 
 **🎯 État du modèle (révisé post-vols réservés)** :
 - **MIN** ✅ : sous le budget de $514/pax — atteignable avec **Airbnb Edinburgh plafond bas + 0 châteaux payants sauf Edinburgh + 0 distillerie tour + cuisine groupe stricte**. Le levier "vols early-booking" n'existe plus (vols réservés à $1 055).
